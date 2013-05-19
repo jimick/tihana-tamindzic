@@ -1,0 +1,19 @@
+.quote {
+  position: relative;
+  z-index: 1;
+  padding-left: $hsu;
+  border-left: $hsu solid $red-light;
+  color: $red;
+  font-weight: nth($base-weight, 1);
+  font-style: italic;
+  overflow: hidden;
+}
+
+.quote-source {
+  font-style: normal;
+  font-weight: nth($base-weight, 1);
+  color: inherit;
+  &:before {
+    content: "\2014";
+  }
+}

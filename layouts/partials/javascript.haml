@@ -1,0 +1,18 @@
+:javascript
+  // by Paul Irish (@paul_irish)
+  // turns html.no-js into html.js
+  (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+
+  // Google Fonts
+  WebFontConfig = {
+    google: { families: [ 'Merriweather+Sans:400,300,700:latin,latin-ext' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();

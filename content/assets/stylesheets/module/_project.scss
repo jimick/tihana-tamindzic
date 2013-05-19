@@ -1,0 +1,26 @@
+.project {
+  margin-bottom: $bsu;
+}
+
+.project-title {
+  margin-bottom: $hsu;
+}
+
+.project-description {
+  @include font-size(18px);
+  margin-bottom: $hsu/2;
+  color: tint($base-text-color, 30%);
+}
+
+a.project-details {
+  @include color-link(white);
+  display: inline-block;
+  padding: $hsu/2 $hsu;
+  background-color: nth($colors, 4);
+  border-radius: 4px;
+  text-decoration: none;
+
+  @include on-interact {
+    background-color: nth($colors, 5);
+  }
+}

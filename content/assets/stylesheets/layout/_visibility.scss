@@ -1,0 +1,9 @@
+@each $query in palm, lap, portable, lap-and-up, desk, desk-and-up, widescreen {
+  .#{$query} {
+    display: none;
+
+    @include media-query($query) {
+      display: block;
+    }
+  }
+}

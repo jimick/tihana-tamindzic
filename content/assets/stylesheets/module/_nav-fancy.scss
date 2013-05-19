@@ -1,0 +1,88 @@
+$r1: 3.25 * $bsu;
+
+.nav-fancy {
+  @extend .nav !optional;
+  font-weight: nth($base-weight, 2);
+
+  @include media-query(lap-and-up) {
+    @include position(absolute, $bsu $site-padding 0px $site-padding);
+    margin-bottom: $bsu;
+  }
+}
+
+.nav-fancy-link {
+  $border-width: 2px;
+  @include color-link(white, $link-hover);
+  background-color: rgba(nth($colors, 2), .35);
+  border: $border-width solid rgba(black, .5);
+
+  @include on-interact {
+    background-color: white;
+    border-color: white;
+    text-decoration: none;
+    text-shadow: none;
+  }
+
+  @include media-query(lap-and-up) {
+    $size: 2 * $r1;
+    @include size($size);
+    @include font-size(18px);
+    @include transition(
+      background-color .2s,
+      border-color .2s,
+      color .2s
+    );
+    position: absolute;
+    border-radius: 50%;
+    line-height: 1.0 * $bsu;
+    text-align: center;
+    padding-top: $size/2 - $border-width - .5 * $bsu;
+
+    &.active {
+      z-index: 3;
+      background-color: white;
+      border-color: white;
+      color: transparent;
+    }
+
+    &.transformation-coaching,
+    &.about {
+      padding-top: $size/2 - $border-width - 1.0 * $bsu + 3px;
+    }
+
+    &.faq {
+      padding-top: $size/2 - $border-width - 1.7 * $bsu + 3px;
+    }
+
+    // transformation coaching
+    &:nth-child(1) {
+      top: 3 * $bsu;
+      left: 2 * $bsu;
+    }
+
+    // about
+    &:nth-child(2) {
+      bottom: 1 * $bsu;
+      right: 1 * $bsu;
+    }
+
+    // contact
+    &:nth-child(3) {
+      bottom: 0;
+      left: 0;
+    }
+
+    // projects
+    &:nth-child(4) {
+      top: 0;
+      right: 0;
+    }
+
+    // faq
+    &:nth-child(5) {
+      top: 50%;
+      left: 10 * $bsu;
+      margin-top: - $size/4;
+    }
+  }
+}

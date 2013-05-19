@@ -1,0 +1,24 @@
+.go-to-top {
+  @include position(fixed, 0 0 (3 * $bsu) 0);
+  width: $sidebar-width - 6px;
+  z-index: -1;
+  text-align: right;
+
+  a {
+    @include color-link($link-color, $link-hover);
+    display: inline-block;
+    padding: $hsu;
+    border: 1px solid $link-color;
+    border-radius: 3px;
+    text-decoration: none;
+
+    @include on-interact {
+      border-color: $link-hover;
+      background-color: tint($link-color, 90%);
+    }
+  }
+
+  &.is-hidden {
+    visibility: hidden;
+  }
+}

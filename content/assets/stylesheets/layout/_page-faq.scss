@@ -1,0 +1,37 @@
+.l-page-faq {
+  &.js {
+    .main-body {
+      .grid-right {
+        padding-bottom: $bsu;
+
+        > * { display: none; }
+
+        h2 {
+          @include color-link(tint(black, 50%), $link-hover);
+          display: block;
+          padding-top: $hsu;
+          margin-bottom: 0;
+          border-bottom: 1px solid rgba(black, .15);
+          cursor: pointer;
+
+          .number {
+            font-weight: nth($base-weight, 1);
+          }
+
+          &.expanded {
+            color: $link-hover;
+            border-bottom: 2px solid $link-hover;
+          }
+
+          * { display: inline; }
+        }
+
+        .answer {
+          > *:first-child {
+            padding-top: $bsu;
+          }
+        }
+      }
+    }
+  }
+}

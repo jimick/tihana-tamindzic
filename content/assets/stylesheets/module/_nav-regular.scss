@@ -1,0 +1,85 @@
+.nav-regular {
+  @extend .nav !optional;
+  @include font-size($bfs + 2px);
+  margin-top: $hsu/2;
+  margin-bottom: $hsu;
+  margin-left: - $hsu/2;
+
+  @include media-query(desk-and-up) {
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+}
+
+.nav-regular-list {
+  @include transition(.2s opacity);
+  height: 0;
+  overflow: hidden;
+  opacity: 0;
+
+  &.is-expanded {
+    @include is-expanded;
+  }
+
+  @media (min-width: 400px) {
+    @include is-expanded;
+  }
+}
+
+.nav-regular-item {
+  border-top: 1px solid white;
+
+  &:last-child {
+    border-bottom: 3px solid white;
+  }
+}
+
+.nav-regular-link {
+  @include color-link($sidebar-color);
+  display: block;
+  padding: $hsu/2 (1.5 * $hsu);
+
+  @include on-interact {
+    background-color: tint($sidebar-bg-color, 30%);
+    text-decoration: none;
+  }
+
+  @media (min-width: 400px) {
+    float: left;
+    width: 50%;
+  }
+
+  @include media-query(desk-and-up) {
+    float: none;
+    width: auto;
+  }
+}
+
+.nav-regular-active {
+  @include color-link(nth($colors, 2));
+  margin-left: -3px;
+  margin-right: -3px;
+  padding-left: (1.5 * $hsu) + 3px;
+  padding-right: (1.5 * $hsu) + 3px;
+  background-color: nth($colors, 3);
+  box-shadow:
+    white 3px 0 3px,
+    white -3px 0 3px;
+  border-radius: 3px;
+  font-weight: nth($base-weight, 1);
+
+  @include on-interact {
+    background-color: nth($colors, 3);
+  }
+}
+
+.nav-regular-expander {
+  padding: $hsu/2;
+  color: $link-hover;
+  font-weight: nth($base-weight, 1);
+  cursor: pointer;
+
+  @media (min-width: 400px) {
+    display: none;
+  }
+}

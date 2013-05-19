@@ -1,0 +1,49 @@
+// layout
+
+$site-inner-width:    $site-width - (2 * $site-padding);
+$sidebar-width:       $site-inner-width / 3;
+$main-width:          $site-inner-width - $sidebar-width;
+
+// type
+
+$base-font-family:    "merriweather sans", $helvetica;
+
+$base-weight:         300 400 700;
+
+$h1-size:             36px;
+$h2-size:             22px;
+$h3-size:             18px;
+$h4-size:             $base-font-size;
+
+$milli-size:          12px;
+$micro-size:          10px;
+
+// colors
+
+$colors:              #43204A #7F1E47 #EDD3D9 #C22047 #EA284B;
+
+$red:                 #901027;
+$red-light:           #edd9d9;
+$pink:                #ba769f;
+$orange:              #f09745;
+$blue:                #306889;
+$green:               #6b894b;
+
+// implementation
+
+$base-text-color:     rgba(black, .8);
+$site-bg-color:       white;
+
+$header-bg-color:     nth($colors, 3);
+$header-text-color:   nth($colors, 2);
+
+$main-bg-color:       $site-bg-color;
+$main-text-color:     $base-text-color;
+
+$sidebar-color:       white;
+$sidebar-bg-color:    nth($colors, 2);
+
+$link-color:          nth($colors, 5);
+$link-hover:          nth($colors, 4);
+
+$email-color:         $green;

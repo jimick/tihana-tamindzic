@@ -1,0 +1,32 @@
+.fade {
+  position: relative;
+  overflow: hidden;
+  &:before,
+  &:after {
+    z-index: 1;
+    content: "";
+    display: block;
+    height: $bsu;
+  }
+  $color: $main-bg-color;
+  &:before {
+    @include position(absolute, 0px 0px 0 0px);
+    @include background(
+      linear-gradient(
+        rgba($color, 1),
+        rgba($color, 0)
+      ),
+      $fallback: transparent
+    );
+  }
+  &:after {
+    @include position(absolute, 0 0px 0px 0px);
+    @include background(
+      linear-gradient(
+        rgba($color, 0),
+        rgba($color, 1)
+      ),
+      $fallback: transparent
+    );
+  }
+}

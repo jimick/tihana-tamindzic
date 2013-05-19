@@ -1,0 +1,10 @@
+.grid-left {
+  float: left;
+  width: $sidebar-width;
+}
+
+.grid-right {
+  float: right;
+  width: $main-width;
+  padding-left: $gutter-width;
+}

@@ -1,0 +1,43 @@
+.testimonials {
+  @include box-sizing(content-box !important);
+  @include font-size($milli-size);
+  position: relative;
+  min-height: 480px;
+  padding-left: $hsu;
+  padding-right: $hsu;
+  font-weight: nth($base-weight, 1);
+  background-color: $sidebar-bg-color;
+  background-image: image-url("testimonials.jpg");
+  background-repeat: no-repeat;
+}
+
+.testimonial {
+  margin-bottom: $hsu;
+  padding-top: $bsu;
+  border-top: 1px solid rgba(black, .15);
+  color: rgba(white, .75);
+
+  .js & {
+    @include position(absolute, 0 $hsu 0 $hsu);
+    z-index: 1;
+    display: none;
+    border-top: none;
+    &:before {
+      @include position(absolute, (.75 * $bsu) 0 0 (- $hsu/2));
+      z-index: -1;
+      content: "\275d";
+      font-family: icons;
+      font-style: normal;
+      font-size: 64px;
+      line-height: $bsu;
+      color: rgba(white, .075);
+      text-shadow: none;
+    }
+  }
+}
+
+.testimonial-source {
+  &:before {
+    content: "\2013";
+  }
+}

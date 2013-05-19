@@ -1,0 +1,9 @@
+.hero-unit
+  %img.hero-unit-background{src: "/assets/images/8cb.jpg"}
+  .l-container
+    = render "partials/brand"
+    %nav.nav-fancy{role: "navigation"}
+      %ol.list
+        - navigation_pages.each do |page|
+          %a.nav-fancy-link{href: page.path, class: "#{identifier(page)}"}
+            = page[:nav_title].split.join("<br>")

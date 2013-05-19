@@ -1,0 +1,9 @@
+%nav.nav-regular{role: "navigation"}
+  .nav-regular-expander.is-unselectable
+    %i.icon-menu
+    = @item[:nav_title]
+
+  .nav-regular-list
+    - navigation_pages.each do |page|
+      - klass = @item_rep && (@item_rep.path == page.path) && "nav-regular-active"
+      .nav-regular-item= link_to page[:nav_title], page, class: klass ? "nav-regular-link #{klass}" : "nav-regular-link"
