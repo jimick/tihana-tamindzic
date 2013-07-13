@@ -7,9 +7,12 @@ gem "adsf"
 gem "mime-types"
 gem "nokogiri"
 
+gem "guard"
 gem "guard-nanoc"
+gem "guard-livereload"
 
 gem "haml"
 gem "redcarpet"
 gem "bourbon"
 gem "coffee-script"
+
