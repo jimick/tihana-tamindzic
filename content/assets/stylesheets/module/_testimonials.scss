@@ -26,7 +26,7 @@
       @include position(absolute, (.75 * $bsu) 0 0 (- $hsu/2));
       z-index: -1;
       content: "\275d";
-      font-family: icons;
+      font-family: icomoon;
       font-style: normal;
       font-size: 64px;
       line-height: $bsu;
