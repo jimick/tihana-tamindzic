@@ -1,7 +1,15 @@
 <nav role="navigation" class="list-group">
-  <a class="list-group-item" href="/transformation-coaching">Transformacijski coaching</a>
-  <a class="list-group-item" href="/about">Tihana Tamindžić</a>
-  <a class="list-group-item" href="/contact">Kontakt</a>
-  <a class="list-group-item" href="/projects">Projekti</a>
-  <a class="list-group-item" href="/faq">Često postavljena pitanja</a>
+  {% for weight in (1..5) %}
+    {% for p in site.pages %}
+      {% if p.weight == weight %}
+        {% if p.title == page.title %}
+          {% assign klass='active' %}
+        {% else %}
+          {% assign klass='' %}
+        {% endif %}
+
+        <a class="list-group-item {{ klass }}" href="{{ p.url | remove: 'index.html' }}">{{ p.title }}</a>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
 </nav>

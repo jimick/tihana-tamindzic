@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kontakt
+weight: 3
 ---
 
 > Naš najdublji strah nije da smo nesposobni.

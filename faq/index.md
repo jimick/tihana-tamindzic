@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Često postavljena pitanja
+weight: 5
 ---
 
 ## 1.) Što je *coaching*?

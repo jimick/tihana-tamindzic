@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tihana Tamindžić
+weight: 2
 ---
 
 ## Ukratko
