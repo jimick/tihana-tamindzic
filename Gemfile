@@ -2,17 +2,11 @@ ruby "2.0.0"
 
 source "https://rubygems.org"
 
-gem "nanoc"
-gem "adsf"
-gem "mime-types"
-gem "nokogiri"
+gem "jekyll"
+gem "jekyll-assets"
 
-gem "guard"
-gem "guard-nanoc"
-gem "guard-livereload"
-
-gem "haml"
-gem "redcarpet"
+gem "sass"
 gem "bourbon"
 gem "coffee-script"
-
+gem "uglifier"
+gem "eco"

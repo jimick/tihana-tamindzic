@@ -1,9 +1,0 @@
-%header.header
-  .header-body
-    .l-container
-      - unless identifier(@item) == "index"
-        .grid-left
-        .grid-right
-          %h1.page-title= @item[:title]
-      - else
-        = render "partials/brand"

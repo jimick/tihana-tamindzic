@@ -1,9 +1,0 @@
-%footer.footer
-  .footer-body
-    .l-container
-      - unless identifier(@item) == "index"
-        .grid-left
-        .grid-right
-          = render "partials/copyright"
-      - else
-        = render "partials/copyright"
