@@ -17,4 +17,8 @@
   font-variant: small-caps;
   letter-spacing: 2px;
   font-weight: nth($base-weight, 1);
+
+  img {
+    border: none;
+  }
 }

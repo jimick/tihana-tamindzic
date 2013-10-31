@@ -1,11 +1,12 @@
 @import
+  "bourbon/bourbon",
   "config/base-style",
   "base-style/base-style",
 
   "site-settings",
-  "base",
-  "states",
   "mixins",
+  "states",
+  "base",
 
   // layout
 
