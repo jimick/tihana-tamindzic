@@ -1,0 +1,14 @@
+@mixin on-interact {
+  &:hover,
+  &:focus {
+    @content;
+  }
+}
+
+@mixin link-color($color1, $color2: $color1) {
+  color: $color1;
+
+  @include on-interact {
+    color: $color2;
+  }
+}

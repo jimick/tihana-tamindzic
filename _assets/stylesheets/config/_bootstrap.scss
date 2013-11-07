@@ -1,1 +1,16 @@
+$color-primary:             hsla(335, 62%, 31%, 1);
+$color-secondary:           hsla(346, 42%, 88%, 1);
+$color-ternary:             hsla(346, 72%, 44%, 1);
 
+$font-size-base:            16px;
+$line-height-base:          28px/$font-size-base;
+
+$link-color:                $color-ternary;
+
+$list-group-bg:             hsla(346, 42%, 88%, 1);
+$list-group-border:         white;
+$list-group-hover-bg:       adjust-color($list-group-bg, $lightness: -5%, $saturation: -10%);
+$list-group-active-color:   white;
+$list-group-active-border:  $list-group-border;
+$list-group-active-bg:      hsla(335, 62%, 31%, 1);
+$list-group-link-color:     $list-group-active-bg;

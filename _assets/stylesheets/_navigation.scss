@@ -1,0 +1,26 @@
+.navigation {
+  max-width: 300px;
+  margin-top: $sub;
+
+  @media (min-width: $screen-sm-min) {
+    margin-top: $sub * 2.5;
+    max-width: none;
+    width: 230px;
+    position: fixed;
+  }
+
+  @media (min-width: $container-width) {
+    width: 300px - $grid-gutter-width;
+  }
+
+  .logo {
+    font-size: 60px;
+
+    a {
+      @include link-color($color-primary);
+      @include on-interact {
+        text-decoration: none;
+      }
+    }
+  }
+}

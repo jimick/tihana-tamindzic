@@ -1,0 +1,17 @@
+body {
+}
+
+.container {
+  max-width: $container-width;
+}
+
+main {
+  img {
+    @extend .img-responsive;
+    @extend .img-rounded;
+  }
+}
+
+strong {
+  color: $color-primary;
+}

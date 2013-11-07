@@ -4,26 +4,13 @@ title: Kontakt
 weight: 3
 ---
 
-> Naš najdublji strah nije da smo nesposobni.
-> Naš najdublji strah je da smo moćni izvan svih granica.
-> Naše svjetlo je to što nas plaši, ne naša tama.
-> Pitamo se, Tko sam ja da budem briljantan, divan, talentiran, nevjerovatan?
-> Ustvari, tko si ti da ne budeš?
->
-> Nećeš pomoći svijetu ponašajući se skromno.
-> Nema ništa prosvjetljujuće u tome što ćeš umanjiti sebe tako da se ljudi oko tebe ne osjećaju nesigurno.
-> Svima nam je suđeno da blistamo.
->
-> I kada to dopustimo samima sebi, nesvjesno dajemo odobrenje i drugim ljudima da rade isto.
-> I kao što se oslobađamo našeg straha, tako naše prisustvo automatski oslobađa druge.
->
-> <small>Marianne Williamson</small>
+**Sada** je najbolje vrijeme da učinimo ono što smo oduvijek željeli.
 
-Mi smo neograničena mogućnost.
+> Čovjek promašuje 100% udaraca na koje se nikad ne odluči. <small>Wayne Gretzky</small>
 
-Usudite se biti neustrašivo učinkoviti.
+**Usudite se biti.**
 
 Tihana Tamindžić<br>
-transformacijski trener
+transformacijski coach i trener
 
 {% include social.html %}
