@@ -7,16 +7,16 @@ $brand-primary:             $color-primary;
 $font-size-base:            16px;
 $line-height-base:          28px/$font-size-base;
 
-$font-family-base:          gentium-basic, serif;
-$headings-font-family:      annie-use-your-telescope, sans-serif;
+$font-family-base:          alegreya, serif;
+$headings-font-family:      $font-family-base;
 
-$font-size-h1:              60px;
-$font-size-h2:              46px;
-$font-size-h3:              36px;
+$font-size-h1:              48px;
+$font-size-h2:              42px;
+$font-size-h3:              32px;
 
 $link-color:                $color-ternary;
 $btn-primary-bg:            $link-color;
 $text-muted:                rgba(black, .5);
 $heading-small-color:       rgba(black, .5);
 $blockquote-small-color:    rgba(black, .5);
-$blockquote-border-color:   transparent;
+$list-group-active-bg:      $link-color;

@@ -19,6 +19,18 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
+h1 {
+  @include font-size($font-size-h1);
+}
+
+h2 {
+  @include font-size($font-size-h2, 1.5);
+}
+
+h3 {
+  @include font-size($font-size-h3, 1.5);
+}
+
 h2, h3 {
   margin-top: $sub;
   margin-bottom: $sub;
@@ -26,9 +38,4 @@ h2, h3 {
 
 strong {
   color: $color-primary;
-}
-
-blockquote {
-  padding-left: 0;
-  padding-bottom: 0;
 }
