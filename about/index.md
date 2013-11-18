@@ -10,7 +10,7 @@ vjeruje da ne postoji ništa što nas sprečava da iskoristimo svoj puni potenci
 svoju pobjedu: „Daj čovjeku ribu i nahranio si ga tog dana. Nauči ga da je
 ulovi i nahranio si ga doživotno.“, uvijek ponavlja. Tvrdi da kao trener i _coach_, nema ljepšeg prizora do osnaženog i ozarenog klijenta. Uvjerena je da u zdravom tijelu živi zdrav duh i zato će uvijek otići s vama trčati, planinariti, nabacivati se s loptom ili jednostavno smijati se do suza u parku.
 
-![Tihana Tamindžić]({% asset_path 2cb.jpg %})
+![Tihana Tamindžić]({% asset_path 2.jpg %})
 
 Kao **profesorica** engleskog i francuskog jezika radom u struci pretočila je teorijska znanja metodike, didaktike i pedagogije u praksu, odvojila je za edukaciju _coachinga_ i onu **transformacijskog trenera** par godina u Nizozemskoj, a kasnije nastavila u Hrvatskoj s Patom Groveom. Sudjelovala i održavala brojne internacionalne treninge osobnog razvoja i coachinga, zajedno s kolegama osnovala je  Syncro i udrugu za mlade Synergy Croatia, instruktorica je Hrvatske škole Outward Bound u mirovanju i **coach** Hrvatske udruge za _coaching_.
 
@@ -27,7 +27,7 @@ Proizvod produhovljenog i poslovnog svijeta, Tihana je definitivno uvijek za akc
 Završila sam IV. gimnaziju i Filozofski fakultet u Zagrebu te postala stručna u području engleskog i francuskog jezika i književnosti. Privlačila me pomisao rada u nastavi zbog direktnog utjecaja u oblikovanje i obrazovanje mladih ljudi. Kroz ulogu profesorice imala sam priliku raditi u osnovnim školama, srednjim školama i školama stranih jezika. Moje privatne poduke nikada nisu isključivo one iz gramatike ili konverzacije,
 one su redovito oplemenjene osobnim razvojem tako da mi je osim novca nagrada elan i zadovoljstvo klijenta.
 
-> Rano sam naučila da je edukacija proces a ne cilj.
+### Rano sam naučila da je edukacija proces a ne cilj.
 
 Oduvijek me zanimao način na koji ljudi funkcioniraju, zbog čega rade stvari koje rade, zbog čega ne promjene obrasce koje ponavljaju a ne koriste im. Dovraga zbog čega? Što ih pokreće? Kako to da je moja istina drugačija od tvoje istine? Što su to uvjerenja, kako nastaju i zbog čega su ponekad ograničavajuća? Pa sam se neformalno obrazovala u području
 psihologije, čitajući, istražujući ali i djelujući.
@@ -36,13 +36,13 @@ psihologije, čitajući, istražujući ali i djelujući.
 
 Odlučila sam u svoj osobni razvoj uložiti dvije do tri godine. Tako sam većinu tog vremena provela u Nizozemskoj na međunarodnim treninzima osobnog razvoja, Synergy Grupe ([www.s-gr.com](http://www.s-gr.com)). Krenula sam kao sudionik, da bih se zadržala kao asistent. Završila sam i NLP _coaching_ trening organizacije „Its all About Doing“ ([www.itsallaboutdoing.nl](http://www.itsallaboutdoing.nl)). _Coaching_ me privukao zbog svoje jednostavnosti: ako nešto želiš, djeluj i ostvari rezultate. Samo moraš biti dovoljno spreman i hrabar vidjeti i ne pobjeći pred onim što zapravo gledaš cijelo vrijeme. Odmah sam se bacila na praksu, tako da trenutno uživam podršku mnogo zadovoljnih klijenata u Hrvatskoj i šire. Coach sam Hrvatske udruge za _coaching_ ([www.hr-coaching.hr](http://www.hr-coaching.hr)) i specijalnost mi je transformacijski odnosno ontološki _coaching_ kojeg sam izučila uz pomoć svog sada pokojnog mentora, iskusnog  južnoafričkog ontološkog _coacha_ Pata Grovea ([www.trans4tech.wordpress.com](www.trans4tech.wordpress.com/)).
 
-> Praktična sam i orijentirana na postizanje rezultata.
+### Praktična sam i orijentirana na postizanje rezultata.
 
 U Hrvatsku se konačno nisam vratila sa znanjem nizozemskog ali jesam sa željom da mogućnost osobnog razvoja ponudim Hrvatskoj te sam zajedno s kolegama osnovala Synergy Croatia ([www.synergy-croatia.com](http://www.synergy-croatia.com)), udrugu neformalnog obrazovanja, osobnog razvoja i međunarodne suradnje s ciljem podupiranja i poticanja razvoja kvalitete života i osnaživanjem pojedinaca za aktivno i odgovorno življenje. Synergy Croatia je dio Međunarodne Synergy grupe s kojom dijeli temeljne vrijednosti i viziju svijeta koji funkcionira za svakoga a koja okuplja okuplja 35 organizacija iz cijele Europe. Dosada je okupila mnoge članove koji su je nastavili graditi i voditi. Ideja je rasla i narasla do Syncra ([www.syncro.hr](http://www.syncro.hr)), trening centra koji se bavi osobnom transformacijom kroz _Coaching_ trening i Syncro trening. Kolege su nastavile predvoditi Syncro.
 
 > Naš najdublji strah nije da smo nesposobni. Naš najdublji strah je da smo moćni izvan svih granica. Naše svjetlo je to što nas plaši, ne naša tama. Pitamo se, Tko sam ja da budem briljantan, divan, talentiran, nevjerovatan? Ustvari, tko si ti da ne budeš? <small>Marianne Wiliamson</small>
 
-> Vjerujem da su ljudi neograničena mogućnost.
+### Vjerujem da su ljudi neograničena mogućnost.
 
 Rado se sjećam dana kada sam aktivno djelovala kao instruktorica iskustvenog učenja u prirodi u Hrvatskoj  školi [Outward Bound](http://www.outwardbound.hr), gdje Velebit i hrvatska obala služe kao učionica;  planinarenje, penjanje u stijenu, kajakarenje i život u netaknutoj prirodi kao metoda a različite problemske, grupne i _coaching_ aktivnosti kao sredstvo osobnog unapređenja i pronalaženja uspavane snage i volje. Ciljevi škole su omogućiti ljudima da spoznaju vlastite ograničenja, da ih nadvladaju te da predvode primjerom. Jedno od njegovih  osnovih
 načela lijepo je opisano u citatu admirala Hoppera: „Brod je siguran u luci,

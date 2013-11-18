@@ -1,0 +1,11 @@
+.page-header {
+  border-bottom: none;
+
+  h1 {
+    margin-bottom: 0;
+    background-color: #eee;
+    border-radius: 50%;
+    color: $brand-primary;
+    display: inline-block;
+  }
+}

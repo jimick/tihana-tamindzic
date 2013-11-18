@@ -1,3 +1,14 @@
+@mixin font-size($font-size, $line-height: false) {
+  font-size: $font-size;
+  font-size: ($font-size / $font-size-base) * 1rem;
+
+  @if $line-height {
+    line-height: ($line-height * $line-height-computed) / $font-size;
+  } @else {
+    line-height: ceil($font-size / $line-height-computed) * ($line-height-computed / $font-size);
+  }
+}
+
 @mixin on-interact {
   &:hover,
   &:focus {
@@ -10,5 +21,16 @@
 
   @include on-interact {
     color: $color2;
+  }
+}
+
+@mixin subtle-pattern($pattern, $size, $fallback: #fff) {
+  background-color: $fallback;
+  background-image: url(asset_path("patterns/#{$pattern}/#{$pattern}.png"));
+  background-repeat: repeat;
+  background-size: $size;
+
+  @include hidpi {
+    background-image: url(asset_path("patterns/#{$pattern}/#{$pattern}_@2X.png"));
   }
 }

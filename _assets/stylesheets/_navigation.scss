@@ -1,26 +1,45 @@
 .navigation {
+  @include font-size(36px);
   max-width: 300px;
   margin-top: $sub;
-
-  @media (min-width: $screen-sm-min) {
-    margin-top: $sub * 2.5;
-    max-width: none;
-    width: 230px;
-    position: fixed;
-  }
-
-  @media (min-width: $container-width) {
-    width: 300px - $grid-gutter-width;
-  }
+  font-family: $headings-font-family;
 
   .logo {
+    padding-top: $sub;
+    padding-bottom: $sub;
     font-size: 60px;
+    line-height: 1;
+    text-align: center;
 
     a {
-      @include link-color($color-primary);
+      @include link-color(rgba(black, .25), $color-primary);
+      @include transition(color .2s);
       @include on-interact {
         text-decoration: none;
       }
     }
+
+    i {
+      @include position(relative, 0 0 0 (-$suh));
+    }
+  }
+
+  @media (min-width: $screen-sm-min) {
+    margin-top: 0;
+    max-width: none;
+    width: 230px;
+    position: fixed;
+
+    .list-group-item {
+      &:first-child {
+        border-top: none;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+      }
+    }
+  }
+
+  @media (min-width: $container-width) {
+    width: 300px - $grid-gutter-width;
   }
 }

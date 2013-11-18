@@ -6,12 +6,29 @@ body {
 }
 
 main {
+  color: rgba(black, .8);
+
   img {
     @extend .img-responsive;
-    @extend .img-rounded;
+    @extend .img-thumbnail;
   }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  font-weight: normal;
+}
+
+h2, h3 {
+  margin-top: $sub;
+  margin-bottom: $sub;
 }
 
 strong {
   color: $color-primary;
+}
+
+blockquote {
+  padding-left: 0;
+  padding-bottom: 0;
 }
