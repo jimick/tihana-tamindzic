@@ -1,0 +1,40 @@
+body {
+  width: 100%;
+}
+
+.off-canvas {
+}
+
+  .off-canvas-outer {
+    @include position(relative);
+    overflow: hidden;
+    width: 100%;
+    min-height: $sub * 14;
+  }
+
+  .off-canvas-inner {
+    @include position(relative);
+    @include transform(translate3d(0, 0, 0));
+    @include backface-visibility(hidden);
+
+    @include transition-property(transform);
+    @include transition-duration(.3s);
+    @include transition-timing-function(ease);
+
+    width: 100%;
+    left: 0;
+
+    .off-canvas-active & {
+      @include transform(translate3d($off-canvas-width, 0, 0));
+    }
+  }
+
+  .off-canvas-navigation {
+    @include transform(translate3d(-100%, 0, 0));
+    @include backface-visibility(hidden);
+    @include position(absolute, 0px 0 0 0px);
+    width: $off-canvas-width;
+    height: 100%;
+    padding: $suh;
+    overflow: hidden;
+  }

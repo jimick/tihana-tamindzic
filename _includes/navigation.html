@@ -1,6 +1,12 @@
-<nav class="navigation" role="navigation" class="list-group">
-  <div class="list-group-item logo">
-    <a href="/"><i class="icon-logo"></i></a>
+<div class="navigation-bar visible-xs clearfix">
+  <a class="navigation-toggle off-canvas-toggle" href="#"><i class="icon-menu"></i></a>
+  <a class="navigation-logo" href="{{ site.baseurl }}"><i class="icon-logo"></i></a>
+</div>
+
+
+<nav class="navigation-desktop hidden-xs" role="navigation" class="list-group">
+  <div class="list-group-item navigation-logo">
+    <a href="{{ site.baseurl }}"><i class="icon-logo"></i></a>
   </div>
 
   {% for weight in (1..5) %}

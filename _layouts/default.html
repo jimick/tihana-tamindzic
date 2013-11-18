@@ -12,29 +12,50 @@
   </head>
 
   <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12 col-sm-4">
-          {% include navigation.html %}
-        </div>
-
-        <div class="col-xs-12 col-sm-8">
-          <main role="main">
-            <div class="page-header">
-              <h1>{{ page.title }}</h1>
+    <div class="off-canvas-outer">
+      <div class="off-canvas-inner">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-4">
+              {% include navigation.html %}
             </div>
 
-            {{ content }}
+            <div class="col-xs-12 col-sm-8">
+              <main role="main">
+                <div class="page-header">
+                  <h1>{{ page.title }}</h1>
+                </div>
 
-          </main>
+                {{ content }}
+
+              </main>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12 col-sm-offset-4 col-sm-8">
-          {% include footer.html %}
+        <ul class="navigation-mobile off-canvas-navigation nav nav-pills nav-stacked visible-xs">
+          {% for weight in (1..5) %}
+            {% for p in site.pages %}
+              {% if p.weight == weight %}
+                {% if p.title == page.title %}
+                  {% assign klass='active' %}
+                {% else %}
+                  {% assign klass='' %}
+                {% endif %}
+
+                <li class="{{ klass }}"><a href="{{ p.url | remove: 'index.html' }}">{{ p.title }}</a></li>
+
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </ul>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-offset-4 col-sm-8">
+              {% include footer.html %}
+            </div>
+          </div>
         </div>
       </div>
     </div>
