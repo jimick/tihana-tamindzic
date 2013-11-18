@@ -19,16 +19,19 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
-h1 {
-  @include font-size($font-size-h1);
-}
+@each $pair in
+  h1 32px 1.5,
+  h2 30px 1,
+  h3 24px 1 {
 
-h2 {
-  @include font-size($font-size-h2, 1.5);
-}
+    $selector:    nth($pair, 1);
+    $font-size:   nth($pair, 2);
+    $line-height: nth($pair, 3);
 
-h3 {
-  @include font-size($font-size-h3, 1.5);
+    #{$selector} {
+      @include font-size($font-size, $line-height);
+    }
+
 }
 
 h2, h3 {
@@ -38,4 +41,21 @@ h2, h3 {
 
 strong {
   color: $color-primary;
+}
+
+@media (min-width: $screen-sm-min) {
+  @each $pair in
+    h1 48px 2,
+    h2 42px 1.5,
+    h3 32px 1.5 {
+
+      $selector:    nth($pair, 1);
+      $font-size:   nth($pair, 2);
+      $line-height: nth($pair, 3);
+
+      #{$selector} {
+        @include font-size($font-size, $line-height);
+      }
+
+  }
 }

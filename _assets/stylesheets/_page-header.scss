@@ -1,9 +1,14 @@
 .page-header {
+  margin-top: 0;
   padding-bottom: $suh;
 
   h1 {
     margin-bottom: 0;
     color: $brand-primary;
     font-weight: 700;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    margin-top: $sub * 2;
   }
 }

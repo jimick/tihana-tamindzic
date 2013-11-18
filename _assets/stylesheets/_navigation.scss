@@ -1,15 +1,13 @@
 .navigation {
   @include font-size(19px);
   max-width: 300px;
-  margin-top: $sub;
+  margin-top: $suh;
+  margin-bottom: $sub;
   text-transform: lowercase;
   font-variant: small-caps;
   letter-spacing: 1px;
 
   .logo {
-    height: $sub * 4.5;
-    padding-top: $sub * 1.6;
-    padding-bottom: $suh;
     font-size: 60px;
     line-height: 1;
     text-align: center;
@@ -41,6 +39,12 @@
         border-top-left-radius: 0;
         border-top-right-radius: 0;
       }
+    }
+
+    .logo {
+      height: $sub * 4.5;
+      padding-top: $sub * 1.6;
+      padding-bottom: $suh;
     }
   }
 
