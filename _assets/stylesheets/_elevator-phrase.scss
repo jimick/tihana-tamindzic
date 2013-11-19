@@ -1,0 +1,15 @@
+.elevator-phrase {
+  @include position(absolute, 0 0px $suh 0px);
+  @include font-size(36px, 1.5);
+  text-align: right;
+  font-family: $font-family-alt;
+  color: #fff;
+
+  @media (min-width: $screen-sm-min) {
+    @include font-size(42px, 1.5);
+    bottom: $sub * 2.5;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+  }
+}

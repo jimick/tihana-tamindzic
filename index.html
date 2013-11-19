@@ -4,19 +4,35 @@ title: Usudite se biti neustrašivo učinkoviti
 ---
 
 <div class="jumbotron">
-  <nav role="navigation">
-    <a href="/transformation-coaching">Transformacijski coaching</a>
-    <a href="/about">Tihana Tamindžić</a>
-    <a href="/contact">Kontakt</a>
-    <a href="/projects">Projekti</a>
-    <a href="/faq">Često postavljena pitanja</a>
-  </nav>
+  <a class="jumbotron-logo" href="{{ site.baseurl }}"><i class="icon-logo"></i></a>
 
-  <div class="elevator-phrase">
-    <div class="container">
-      <img src="{% asset_path elevator-phrase.svg %}" onerror="this.error=null; this.src='{% asset_path elevator-phrase.png %}'">
-    </div>
-  </div>
+  {% include elevator-phrase.html %}
 </div>
 
-{% include footer.html %}
+<nav class="jumbotron-navigation" role="navigation">
+  <ol class="list-unstyled">
+    <li><a href="/transformation-coaching">
+        <span>Transformacijski coaching</span>
+    </a></li>
+
+    <li><a href="/about">
+        <span>Tihana Tamindžić</span>
+    </a></li>
+
+    <li><a href="/contact">
+        <span>Kontakt</span>
+    </a></li>
+
+    <li><a href="/projects">
+        <span>Projekti</span>
+    </a></li>
+
+    <li><a href="/faq">
+        <span>Često postavljena pitanja</span>
+    </a></li>
+  </ol>
+</nav>
+
+<div class="container">
+  {% include footer.html %}
+</div>

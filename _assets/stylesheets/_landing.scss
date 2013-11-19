@@ -1,0 +1,19 @@
+.landing {
+  .footer {
+    margin-top: 0;
+    border-top: none;
+    text-align: center;
+  }
+
+  @media (min-width: $screen-sm-min) {
+    background-color: #333;
+
+    .footer {
+      color: white;
+
+      a {
+        @include link-color(rgba(#fff, .5), tint($link-color, 40%));
+      }
+    }
+  }
+}
