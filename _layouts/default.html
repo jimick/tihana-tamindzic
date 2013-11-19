@@ -35,8 +35,9 @@
         </div>
 
         <ul class="navigation-mobile off-canvas-navigation nav nav-pills nav-stacked visible-xs">
+
           {% for weight in (1..5) %}
-            {% for p in site.pages %}
+            {% for p in site.data.pages %}
               {% if p.weight == weight %}
                 {% if p.title == page.title %}
                   {% assign klass='active' %}
@@ -44,11 +45,12 @@
                   {% assign klass='' %}
                 {% endif %}
 
-                <li class="{{ klass }}"><a href="{{ p.url | remove: 'index.html' }}">{{ p.title }}</a></li>
+                  <li class="{{ klass }}"><a href="{{ site.baseurl }}{{ p.path }}">{{ p.title }}</a></li>
 
               {% endif %}
             {% endfor %}
           {% endfor %}
+
         </ul>
 
         <div class="container">

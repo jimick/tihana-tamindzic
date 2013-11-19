@@ -10,7 +10,7 @@
   </div>
 
   {% for weight in (1..5) %}
-    {% for p in site.pages %}
+    {% for p in site.data.pages %}
       {% if p.weight == weight %}
         {% if p.title == page.title %}
           {% assign klass='active' %}
@@ -18,7 +18,7 @@
           {% assign klass='' %}
         {% endif %}
 
-        <a class="list-group-item {{ klass }}" href="{{ p.url | remove: 'index.html' }}">{{ p.title }}</a>
+        <a class="list-group-item {{ klass }}" href="{{ site.baseurl }}{{ p.path }}">{{ p.title }}</a>
 
       {% endif %}
     {% endfor %}

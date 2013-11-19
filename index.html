@@ -11,25 +11,21 @@ title: Usudite se biti neustrašivo učinkoviti
 
 <nav class="jumbotron-navigation" role="navigation">
   <ol class="list-unstyled">
-    <li><a href="/transformation-coaching">
-        <span>Transformacijski coaching</span>
-    </a></li>
 
-    <li><a href="/about">
-        <span>Tihana Tamindžić</span>
-    </a></li>
+    {% for weight in (1..5) %}
+      {% for p in site.data.pages %}
+        {% if p.weight == weight %}
 
-    <li><a href="/contact">
-        <span>Kontakt</span>
-    </a></li>
+          <li>
+            <a href="{{ site.baseurl }}{{ p.path }}">
+              <span>{{ p.title }}</span>
+            </a>
+          </lI>
 
-    <li><a href="/projects">
-        <span>Projekti</span>
-    </a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
 
-    <li><a href="/faq">
-        <span>Često postavljena pitanja</span>
-    </a></li>
   </ol>
 </nav>
 

@@ -1,0 +1,20 @@
+-
+  title: "Transformacijski coaching"
+  path: "transformation-coaching"
+  weight: 1
+-
+  title: "Tko je Tihana Tamindžić"
+  path: "about"
+  weight: 2
+-
+  title: "Kontakt"
+  path: "contact"
+  weight: 3
+-
+  title: "Projekti"
+  path: "projects"
+  weight: 4
+-
+  title: "Često postavljena pitanja"
+  path: "faq"
+  weight: 5
