@@ -1,3 +1,4 @@
 //= require bootstrap
-//= require landing
+//
+//= require globals
 //= require off-canvas
