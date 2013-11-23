@@ -3,6 +3,7 @@ markdown: redcarpet
 pygments: true
 port: 3000
 exclude: [Gemfile, Gemfile.lock, _assets, _vendor]
+gems: [jekyll-assets, jekyll-assets/bourbon]
 
 assets:
   dirname: ../assets
