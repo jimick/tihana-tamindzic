@@ -5,6 +5,7 @@
   color: #fff;
 
   @media (min-width: $screen-sm-min) {
+    @include font-size(32px, 1.5);
     bottom: $sub * 2.5;
     width: 60%;
     margin: 0 auto;

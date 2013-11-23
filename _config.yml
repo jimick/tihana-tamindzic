@@ -5,6 +5,7 @@ port: 3000
 exclude: [Gemfile, Gemfile.lock, _assets, _vendor]
 
 assets:
+  dirname: ../assets
   sources:
     - _assets/stylesheets
     - _assets/javascripts
