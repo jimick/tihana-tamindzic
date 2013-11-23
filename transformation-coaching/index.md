@@ -35,4 +35,4 @@ Busamo se u prsa da želimo slobodu, a nismo ni svjesni da smo zatočenici vlast
 
 Eto to je transformacija.
 
-Zanima vas još? [Idemo na kavu](/contact).
+Zanima vas još? [Idemo na kavu]({{ site.baseurl }}contact).

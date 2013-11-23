@@ -1,0 +1,48 @@
+.social {
+  margin-top: $sub;
+}
+
+  .social-item {
+    @include font-size(19px);
+    margin-bottom: $suh;
+    text-transform: lowercase;
+    font-variant: small-caps;
+
+    i, span {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    i {
+      margin-right: $suh/2;
+      font-size: 32px;
+    }
+
+    @each $pair in
+      facebook $color-facebook,
+      email $color-gmail,
+      linkedin $color-linked-in {
+
+      $network: nth($pair, 1);
+      $color:   nth($pair, 2);
+
+      &.#{$network} {
+        a {
+          @include link-color(tint($color, 20%), shade($color, 20%));
+          display: inline-block;
+
+          @include on-interact {
+            text-decoration: none;
+          }
+        }
+      }
+
+    }
+
+    &.phone {
+      @include font-size(16px);
+      i {
+        font-size: 28px;
+      }
+    }
+  }
