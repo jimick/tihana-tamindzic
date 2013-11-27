@@ -1,0 +1,27 @@
+$size: 24px;
+
+.language {
+  margin-top: $suh;
+  height: $sub;
+
+  a {
+    @include size($size);
+    display: inline-block;
+  }
+
+  .navigation-bar & {
+    float: right;
+  }
+}
+
+  @each $language in croatia, united-kingdom {
+    .language-#{$language} {
+      background-image: asset_url("language/#{$language}.png");
+      background-repeat: no-repeat;
+
+      @include hidpi {
+        background-image: asset_url("language/#{$language}@2X.png");
+        background-size: $size;
+      }
+    }
+  }

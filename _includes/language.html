@@ -1,0 +1,8 @@
+<div class="language">
+  {% for p in site.data.pages %}
+    {% if p.title == page.title %}
+      <a class="language-croatia" href="{{ site.baseurl }}{{ p.path }}"></a>
+      <a class="language-united-kingdom" href="{{ site.baseurl }}en/{{ p.path }}"></a>
+    {% endif %}
+  {% endfor %}
+</div>
