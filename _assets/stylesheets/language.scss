@@ -15,7 +15,7 @@ $size: 24px;
   }
 }
 
-  @each $language in croatia, united-kingdom {
+  @each $language in croatia, usa {
     .language-#{$language} {
       background-image: asset_url("language/#{$language}.png");
       background-repeat: no-repeat;
