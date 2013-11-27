@@ -104,10 +104,11 @@ $margin-sm: $sub * 2;
       }
 
       @each $pair in
-        transformation-coaching 190 (8% 0 0 -8%),
-        about                   160 (0 0 26% -11%),
+        transformation-coaching 190 (1% 0 0 -2%),
+        about                   160 (0 0 38% -12%),
         contact                 130 (0 -3% 11% 0),
         projects                150 (6% 0% 0 0),
+        testimonials            140 (0 0 10% -5%),
         faq                     160 (0 -13% 38% 0) {
 
         $href: nth($pair, 1);

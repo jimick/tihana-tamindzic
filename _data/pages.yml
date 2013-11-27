@@ -15,6 +15,10 @@
   path: "projects"
   weight: 4
 -
+  title: "Iskustva polaznika"
+  path: "testimonials"
+  weight: 5
+-
   title: "Često postavljena pitanja"
   path: "faq"
-  weight: 5
+  weight: 6

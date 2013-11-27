@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Projekti
-weight: 4
 ---
 
 ### ŠKOLA ZA TRENERE

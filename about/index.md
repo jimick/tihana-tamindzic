@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Tko je Tihana Tamindžić
-weight: 2
 ---
 
 Tihana Tamindžić

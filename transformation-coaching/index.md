@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Transformacijski coaching
-weight: 1
 ---
 
 Transformacija.
