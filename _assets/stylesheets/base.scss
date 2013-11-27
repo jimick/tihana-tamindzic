@@ -12,6 +12,10 @@ main {
     @extend .img-responsive;
     @extend .img-thumbnail;
   }
+
+  iframe {
+    margin-bottom: $suh;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -47,7 +51,7 @@ strong {
   @each $pair in
     h1 48px 2,
     h2 42px 1.5,
-    h3 32px 1.5 {
+    h3 28px 1.5 {
 
       $selector:    nth($pair, 1);
       $font-size:   nth($pair, 2);
