@@ -6,7 +6,6 @@ exclude: [Gemfile, Gemfile.lock, _assets, _vendor]
 gems: [jekyll-assets, jekyll-assets/bourbon]
 
 assets:
-  dirname: ../assets
   sources:
     - _assets/stylesheets
     - _assets/javascripts
