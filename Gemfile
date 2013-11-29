@@ -1,9 +1,8 @@
-ruby "1.9.3"
+ruby "2.0.0"
 
 source "https://rubygems.org"
 
-gem "github-pages"
-
+gem "jekyll"
 gem "jekyll-assets"
 
 gem "sass"
