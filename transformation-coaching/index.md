@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Transformacijski coaching
+published: true
 ---
 
-Transformacija.
+Transformacija...
 
 Zgodna riječ, zar ne?
 
