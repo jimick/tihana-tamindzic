@@ -1,10 +1,11 @@
 @import "config/bootstrap";
 @import "bootstrap";
-@import "bourbon";
+@import "bourbon/bourbon";
 @import "icomoon";
 
 @import "variables";
 @import "colors";
+@import "functions";
 @import "mixins";
 @import "base";
 @import "navigation";

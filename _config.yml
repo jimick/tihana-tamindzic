@@ -2,19 +2,7 @@ name: tihana tamindžić
 markdown: redcarpet
 pygments: true
 port: 3000
-exclude: [Gemfile, Gemfile.lock, _assets, _vendor]
-gems: [jekyll-assets, jekyll-assets/bourbon]
+exclude: [Gemfile, Gemfile.lock, .sass-cache, _assets, _vendor]
 
 assets:
-  sources:
-    - _assets/stylesheets
-    - _assets/javascripts
-    - _assets/images
-    - _assets/fonts
-    - _vendor/stylesheets
-    - _vendor/javascripts
-    - _vendor/images
-    - _vendor/fonts
-  compress:
-    css: sass
-    js: uglifier
+  dirname: assets

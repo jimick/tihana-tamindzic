@@ -10,5 +10,5 @@ do ($ = jQuery) ->
       .after($btn)
 
     $btn.on "click", ->
-      $heading.nextAll().fadeIn()
+      $heading.nextAll().not(".btn-sm").fadeIn()
       $(@).hide()

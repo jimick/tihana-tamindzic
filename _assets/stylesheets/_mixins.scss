@@ -26,11 +26,11 @@
 
 @mixin subtle-pattern($pattern, $size, $fallback: #fff) {
   background-color: $fallback;
-  background-image: url(asset_path("patterns/#{$pattern}/#{$pattern}.png"));
+  background-image: image-url("patterns/#{$pattern}/#{$pattern}.png");
   background-repeat: repeat;
   background-size: $size;
 
   @include hidpi {
-    background-image: url(asset_path("patterns/#{$pattern}/#{$pattern}_@2X.png"));
+    background-image: image-url("patterns/#{$pattern}/#{$pattern}_@2X.png");
   }
 }

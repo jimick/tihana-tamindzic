@@ -1,4 +1,4 @@
-@include font-face("icomoon", "icomoon/icomoon", $asset-pipeline: true);
+@include font-face("icomoon", "/assets/fonts/icomoon/icomoon");
 
 [class*="icon-"] {
   font-family: 'icomoon';

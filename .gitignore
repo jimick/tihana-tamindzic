@@ -1,4 +1,5 @@
+.binstubs
 .bundle
 .sass-cache
 _site
-.jekyll-assets-cache
+_assets/javascripts/*.js

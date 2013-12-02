@@ -1,12 +1,14 @@
-ruby "2.0.0"
+ruby "1.9.3"
 
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "jekyll-assets"
+gem "github-pages"
 
-gem "sass"
-gem "bourbon"
-gem "coffee-script"
+gem "thin"
 gem "uglifier"
-gem "eco"
+
+gem "guard"
+gem "guard-jekyll-plus"
+gem "guard-sass"
+gem "guard-coffeescript"
+gem "guard-sprockets"

@@ -9,7 +9,7 @@
     {% include js.html %}
     {% include webfonts.html %}
     {% include analytics.html %}
-    {% stylesheet application %}
+    <link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets.dirname }}/stylesheets/application.css">
   </head>
 
   <body class="landing">
@@ -17,6 +17,6 @@
     {{ content }}
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-    {% javascript application %}
+    <script src="{{ site.baseurl }}{{ site.assets.dirname }}/javascripts/application.js"></script>
   </body>
 </html>
