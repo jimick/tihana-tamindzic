@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tko je Tihana Tamindžić
+published: true
 ---
 
 Tihana Tamindžić
