@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="hr">
+<html lang="{{ page.lang }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -40,16 +40,23 @@
 
         <ul class="navigation-mobile off-canvas-navigation nav nav-pills nav-stacked visible-xs">
 
-          {% for weight in (1..5) %}
+          {% for weight in (1..6) %}
             {% for p in site.data.pages %}
               {% if p.weight == weight %}
-                {% if p.title == page.title %}
-                  {% assign klass='active' %}
-                {% else %}
-                  {% assign klass='' %}
-                {% endif %}
 
-                  <li class="{{ klass }}"><a href="{{ site.baseurl }}{{ p.path }}">{{ p.title }}</a></li>
+                {% case page.title %}
+                {% when p.title_hr or p.title_en %}
+                  {% assign klass="active" %}
+                {% else %}
+                  {% assign klass="" %}
+                {% endcase %}
+
+                {% case page.lang %}
+                {% when "hr" %}
+                  <li class="{{ klass }}"><a href="{{ site.baseurl }}{{ p.path }}">{{ p.title_hr }}</a></li>
+                {% when "en" %}
+                  <li class="{{ klass }}"><a href="{{ site.baseurl }}en/{{ p.path }}">{{ p.title_en }}</a></li>
+                {% endcase %}
 
               {% endif %}
             {% endfor %}

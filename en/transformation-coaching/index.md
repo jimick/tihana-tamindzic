@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Transformacijski coaching
-lang: hr
+title: Transformation Coaching
+lang: en
 published: true
 ---
 
@@ -36,4 +36,4 @@ Busamo se u prsa da želimo slobodu, a nismo ni svjesni da smo zatočenici vlast
 
 Eto to je transformacija.
 
-Zanima vas još? [Idemo na kavu]({{ site.baseurl }}contact).
+Zanima vas još? [Idemo na kavu]({{ site.baseurl }}en/contact).

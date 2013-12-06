@@ -1,34 +1,7 @@
 ---
 layout: solo
 title: Usudite se biti neustrašivo učinkoviti
+lang: hr
 ---
 
-<div class="jumbotron">
-  <a class="jumbotron-logo" href="{{ site.baseurl }}"><i class="icon-logo"></i></a>
-
-  {% include elevator-phrase.html %}
-</div>
-
-<nav class="jumbotron-navigation" role="navigation">
-  <ol class="list-unstyled">
-
-    {% for weight in (1..6) %}
-      {% for p in site.data.pages %}
-        {% if p.weight == weight %}
-
-          <li>
-            <a href="{{ site.baseurl }}{{ p.path }}">
-              <span>{{ p.title }}</span>
-            </a>
-          </lI>
-
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-
-  </ol>
-</nav>
-
-<div class="container">
-  {% include footer.html %}
-</div>
+{% include landing.html %}

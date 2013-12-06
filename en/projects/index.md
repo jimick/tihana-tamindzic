@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projekti
-lang: hr
+title: Projects
+lang: en
 ---
 
 ### ŠKOLA ZA TRENERE
@@ -21,7 +21,7 @@ u formalnom ili neformalnom okviru...napokon prođete cjelovitu, temeljitu i nav
 **Usudite se biti neustrašivo učinkoviti.**
 
 <p>
-  <a class="project-details btn btn-primary" href="{{ site.baseurl }}contact">
+  <a class="project-details btn btn-primary" href="{{ site.baseurl }}en/contact">
     <i class="icon-link"></i>
     Saznaj više
   </a>

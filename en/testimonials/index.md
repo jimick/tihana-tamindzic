@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Iskustva polaznika
-lang: hr
+title: Testimonials
+lang: en
 ---
 
 > Dugo sam imala predrasude prema razvikanom coachingu, ali nakon što sam se uz Tihanu uvjerila da itekako djeluje, zadovoljnije pristupan svakodnevici i nastavljam raditi na sebi. <small>V.P., Zagreb</small>

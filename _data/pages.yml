@@ -1,24 +1,30 @@
 -
-  title: "Transformacijski coaching"
+  title_hr: "Transformacijski coaching"
+  title_en: "Transformation Coaching"
   path: "transformation-coaching"
   weight: 1
 -
-  title: "Tko je Tihana Tamindžić"
+  title_hr: "Tko je Tihana Tamindžić"
+  title_en: "Who is Tihana Tamindžić"
   path: "about"
   weight: 2
 -
-  title: "Kontakt"
+  title_hr: "Kontakt"
+  title_en: "Contact"
   path: "contact"
   weight: 3
 -
-  title: "Projekti"
+  title_hr: "Projekti"
+  title_en: "Projects"
   path: "projects"
   weight: 4
 -
-  title: "Iskustva polaznika"
+  title_hr: "Iskustva polaznika"
+  title_en: "Testimonials"
   path: "testimonials"
   weight: 5
 -
-  title: "Često postavljena pitanja"
+  title_hr: "Često postavljena pitanja"
+  title_en: "Frequently Asked Questions"
   path: "faq"
   weight: 6

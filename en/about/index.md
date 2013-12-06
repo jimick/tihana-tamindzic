@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Tko je Tihana Tamindžić
-lang: hr
-published: true
+title: Who is Tihana Tamindžić
+lang: en
 ---
 
 Tihana Tamindžić

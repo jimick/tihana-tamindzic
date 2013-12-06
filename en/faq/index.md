@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Često postavljena pitanja
-lang: hr
+title: Frequently Asked Questions
+lang: en
 ---
 
 ## 1.) Što je *coaching*?

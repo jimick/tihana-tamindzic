@@ -10,7 +10,7 @@
   }
 
   @media (min-width: $screen-sm-min) {
-    margin-top: $sub * 2;
+    margin-top: $sub * .5;
     margin-bottom: $sub - 1px;
   }
 }

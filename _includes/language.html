@@ -1,8 +1,23 @@
-<!-- <div class="language"> -->
-<!--   {% for p in site.data.pages %} -->
-<!--     {% if p.title == page.title %} -->
-<!--       <a class="language-croatia" href="{{ site.baseurl }}{{ p.path }}"></a> -->
-<!--       <a class="language-usa" href="{{ site.baseurl }}en/{{ p.path }}"></a> -->
-<!--     {% endif %} -->
-<!--   {% endfor %} -->
-<!-- </div> -->
+<div class="language">
+  {% unless page.layout == "solo" %}
+    {% for p in site.data.pages %}
+      {% case page.title %}
+      {% when p.title_hr %}
+        <a class="language-croatia active" href="{{ site.baseurl }}{{ p.path }}"></a>
+        <a class="language-usa" href="{{ site.baseurl }}en/{{ p.path }}"></a>
+      {% when p.title_en %}
+        <a class="language-croatia" href="{{ site.baseurl }}{{ p.path }}"></a>
+        <a class="language-usa active" href="{{ site.baseurl }}en/{{ p.path }}"></a>
+      {% endcase %}
+    {% endfor %}
+  {% else %}
+    {% case page.lang %}
+    {% when "hr" %}
+      <a class="language-croatia active" href="{{ site.baseurl }}"></a>
+      <a class="language-usa" href="{{ site.baseurl }}en"></a>
+    {% when "en" %}
+      <a class="language-croatia" href="{{ site.baseurl }}"></a>
+      <a class="language-usa active" href="{{ site.baseurl }}en"></a>
+    {% endcase %}
+  {% endunless %}
+</div>

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Kontakt
-lang: hr
-published: true
+title: Contact
+lang: en
 ---
 
 **Sada** je najbolje vrijeme da učinimo ono što smo oduvijek željeli.
