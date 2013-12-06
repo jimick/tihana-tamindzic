@@ -1,7 +1,16 @@
 <footer class="footer" role="contentinfo">
-  <small>
-    &copy; Tihana Tamindžić 2013. |
-    Dizajnirao <a href="http://twitter.com/silvenon">Matija Marohnić</a> |
-    Fotografirala <a href="http://fotozine.org/?omen=Airamana">Anamaria Kudrna</a>
-  </small>
+  {% case page.lang %}
+  {% when "hr" %}
+    <small>
+      &copy; Tihana Tamindžić 2013. |
+      Dizajnirao <a href="http://twitter.com/silvenon">Matija Marohnić</a> |
+      Fotografirala <a href="http://fotozine.org/?omen=Airamana">Anamaria Kudrna</a>
+    </small>
+  {% when "en" %}
+    <small>
+      &copy; Tihana Tamindžić 2013. |
+      Designer <a href="http://twitter.com/silvenon">Matija Marohnić</a> |
+      Photographer <a href="http://fotozine.org/?omen=Airamana">Anamaria Kudrna</a>
+    </small>
+  {% endcase %}
 </footer>
