@@ -1,4 +1,4 @@
-do ($ = jQuery) ->
+jQuery ($) ->
 
   if /about/.test(location.pathname)
 

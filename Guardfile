@@ -1,16 +1,12 @@
 # A sample Guardfile
 # More info at https://github.com/guard/guard#readme
 
-guard 'sass',
+guard "sass",
   input: "_assets/stylesheets",
   output: "assets/stylesheets",
   all_on_start: true,
   style: :compressed,
   load_paths: ["_assets/stylesheets", "_vendor/stylesheets"]
-
-guard "coffeescript",
-  input: "_assets/javascripts",
-  all_on_start: true
 
 guard "sprockets",
   root_file: "_assets/javascripts/application.js",

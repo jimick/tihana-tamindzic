@@ -6,9 +6,9 @@ gem "github-pages"
 
 gem "thin"
 gem "uglifier"
+gem "coffee-script"
 
 gem "guard"
 gem "guard-jekyll-plus"
 gem "guard-sass"
-gem "guard-coffeescript"
 gem "guard-sprockets"
