@@ -24,7 +24,7 @@
   path: "testimonials"
   weight: 5
 -
-  title_hr: "Često postavljena pitanja"
-  title_en: "Frequently Asked Questions"
+  title_hr: "Što je coaching?"
+  title_en: "What is Coaching?"
   path: "faq"
   weight: 6

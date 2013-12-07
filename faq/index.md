@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Često postavljena pitanja
+title: Što je coaching?
 path: faq
 lang: hr
 ---

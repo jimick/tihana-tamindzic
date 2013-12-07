@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequently Asked Questions
+title: What is Coaching?
 path: faq
 lang: en
 ---
