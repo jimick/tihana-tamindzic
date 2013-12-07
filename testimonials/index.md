@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Iskustva polaznika
+path: testimonials
 lang: hr
 ---
 

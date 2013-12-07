@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frequently Asked Questions
+path: faq
 lang: en
 ---
 

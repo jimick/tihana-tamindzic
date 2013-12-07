@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+path: projects
 lang: en
 ---
 

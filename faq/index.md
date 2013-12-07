@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Često postavljena pitanja
+path: faq
 lang: hr
 ---
 

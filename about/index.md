@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Tko je Tihana Tamindžić
+title: Tihana Tamindžić
+path: about
 lang: hr
 published: true
 ---

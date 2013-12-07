@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+path: contact
 lang: en
 ---
 

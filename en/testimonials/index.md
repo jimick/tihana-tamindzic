@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Testimonials
+path: testimonials
 lang: en
 ---
 

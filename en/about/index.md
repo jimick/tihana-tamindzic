@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Who is Tihana Tamindžić
+title: Tihana Tamindžić
+path: about
 lang: en
 ---
 

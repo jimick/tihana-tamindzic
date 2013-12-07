@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kontakt
+path: contact
 lang: hr
 published: true
 ---

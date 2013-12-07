@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projekti
+path: projects
 lang: hr
 ---
 

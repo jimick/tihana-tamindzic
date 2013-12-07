@@ -15,12 +15,11 @@
     {% for p in site.data.pages %}
       {% if p.weight == weight %}
 
-        {% case page.title %}
-        {% when p.title_hr or p.title_en %}
+        {% if p.path == page.path %}
           {% assign klass="active" %}
         {% else %}
           {% assign klass="" %}
-        {% endcase %}
+        {% endif %}
 
         {% case page.lang %}
         {% when "hr" %}
