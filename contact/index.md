@@ -12,6 +12,6 @@ published: true
 **Usudite se biti.**
 
 Tihana Tamindžić<br>
-transformacijski coach i trener
+*coach* i trener
 
 {% include social.html %}
