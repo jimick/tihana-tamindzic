@@ -18,11 +18,11 @@ Od sportaša, preko domaćica do poslovnih ljudi, kvalitetan coaching  nezamjenj
 
 
 
-## 2.) 	Koja korist od coachinga?
+## 2.) 	Koja korist od *coachinga*?
 
 Kako biste ustvrdili ima li za vas kakve koristi od *coachinga*, počnite od artikuliranja što točno želite postići. Jednom kada imate ideju o željenom cilju, coaching susreti mogu poslužiti kao izvrstan alat u izgradnji strategije po vašoj mjeri i sredstvo lakog postizanja željenog cilja. 
 
->„Čovjek promašuje 100% udaraca na koje se nikad ne odluči.“ <small>Wayne Gretzky </small>
+>*Čovjek promašuje 100% udaraca na koje se nikad ne odluči*.<small>Wayne Gretzky </small>
 
 Istina je da se *coaching* temelji da principu razgovora, odnosno da *coach* pita a klijent odgovara. Međutim to ne znači pasivan položaj klijenta. Taj odnos je partnerski odnos te zahtjeva od klijenta rad. Zapitajte se jeste li spremni:
 
@@ -54,7 +54,7 @@ Bitno je naglasiti da se *coaching* ne bavi prošlošću i onime što je klijent
 
 ## 4.) Tko je *coach*?
 
->„Coach je osoba kojoj možete vjerovati i koja može usmjeriti vašu pažnju s problema na rješenja – jer vi ste puno više nego što mislite da jeste...“ <small>J. Overdurf, NLP trener i *coach* </small>
+>*Coach je osoba kojoj možete vjerovati i koja može usmjeriti vašu pažnju s problema na rješenja – jer vi ste puno više nego što mislite da jeste...* <small>J. Overdurf, NLP trener i *coach* </small>
 
 *Coach*  poštuje činjenicu da je klijent stručnjak u području  svoga života i da on zapravo zna najbolje. Vjeruje da je klijent sam  po sebi kreativan, domišljat i potpun. S  tako postavljenim temeljima, coacheva odgovornost je da:
 
@@ -71,7 +71,7 @@ Bitno je naglasiti da se *coaching* ne bavi prošlošću i onime što je klijent
 
 ## 5.) Kakav je odnos klijenta i *coacha*?
 
-> "*Coaching* je profesija ljubavi. Ne možete *coachati* ljude ako ih ne volite." <small>Eddie Robinson</small>
+> *Coaching je profesija ljubavi. Ne možete coachati ljude ako ih ne volite.* <small>Eddie Robinson</small>
 
 *Coach* ne čini ništa umjesto klijenta, ne govori klijentu što da radi i ne sudi je li to što radi dobro ili loše. *Coacheva* zadaća je da u klijentu probudi sposobnost i odgovornost za njegove postupke. Shvatite ga kao najboljeg prijatelja koji gleda isključivo vašu dobrobit u vidu rezultata.
 
@@ -83,7 +83,7 @@ Kao *coach* naučila sam da bi svi moji klijenti htjeli slaviti rođendan ali bi
 
 ## 6.) Tko mi garantira rezultat?
 
-Prije nego se klijent odluči za svoga *coacha*, vrlo je važno da se oni slažu na onoj osnovnoj razini i da klijent vidi može li i želi li zapravo  raditi s određenim coachem. Zato postoji mogućnost  da se klijent i *coach* nađu, porazgovaraju te definiraju način (učestalost, trajanje, skype/uživo) i ciljeve *coachinga*.
+Prije nego se klijent odluči za svoga *coacha*, vrlo je važno da se oni slažu na onoj osnovnoj razini i da klijent vidi može li i želi li zapravo  raditi s određenim coachem. Zato postoji mogućnost  da se klijent i *coach* nađu, porazgovaraju te definiraju način (učestalost, trajanje, *online*/uživo) i ciljeve *coachinga*.
 
 ###Vi odlučujete: besplatan prvi susret.
 
@@ -97,7 +97,7 @@ Uvijek se možemo dogovoriti za kavu  <coach@tihanatamindzic.com>
 
 *Coaching* je zapravo alat koji uvodi klijenta u novu dimenziju rada na sebi. I iako započinje na samom susretu, klijent se uči pristupati na preispitujući način prema samom sebi tijekom cijelog budnog dana. Neki rezultati vidljivi su odmah nakon prvog susreta, neki nakon 4 mjeseca, a ima i onih koji se ukažu nakon godine dana.
 
-> "Čovjek koji je gospodar strpljenja je majstor za sve ostalo." <small>George Savile</small>
+> *Čovjek koji je gospodar strpljenja je majstor za sve ostalo.* <small>George Savile</small>
 
 Živimo u potrošačkom društvu gdje bismo željeli da nam se sve napravi odmah i sad. Međutim, trajne vrijednosti i korjenite promjene  grade se vremenom. Ništa se ne događa preko noći i bolje je da odmah budeš toga svjestan. Za rad na sebi potrebno je strpljenje i ustrajnost.
 
@@ -124,7 +124,7 @@ Kako sve ne bi ostalo na pukim riječima, pokazala je nedavna studija ICF-a (Int
 
 ## 9.) Kako znam da je tako nešto za mene za mene?
 
-### Napravite mali test. Postavite si pitanja
+### Napravite mali test. Postavite sebi pitanja:
 
   * Koliko ste puta radili bolje, dulje i više i zaista bili zadovoljni rezultatom?
   * Koliko ste se puta odlučili uvesti promjenu od sljedećeg ponedjeljka, jednom kada     smršavite ili budete imali dovoljno vremena i novaca?
