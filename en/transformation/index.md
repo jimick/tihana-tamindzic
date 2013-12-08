@@ -6,35 +6,34 @@ lang: en
 published: true
 ---
 
-Transformacija...
+Transformation.
 
-Zgodna riječ, zar ne?
+Cute word, isn`t it?
 
-Zvuči dobro, mislite, dajte odmah tri.
+Sounds good, I will have three, you`re thinking to yourself.
 
-Dogovoreno. Uz jedan uvjet. Da mislite to što
-kažete i da kažete to mislite.
+It`s a deal. Under one condition. That you mean what you say and you say what you mean.
 
-Jer poziv na transformaciju je kao poziv na buđenje, gdje vaš svijet vidite novim, naspavanim očima. Samo što...ne možemo probuditi osobu koja se pravi da spava.
+Because a call for transformation is similar to a wakeup call, where you see your world with new, rested eyes. Only one thing...we cannot awaken a person pretending to be asleep.
 
-Slažete se sa mnom?
 
-Izvrsno!
+You agree with me?
+Excellent!
 
-Transformacija je proces koji rezultira nepovratno novim originalom. To je puno više od pukog oduzimanja ili dodavanja faktora. Original doda novu torbicu i par cipela i misli da je drugačiji. No, je li?
 
-Koliko puta vam se dogodilo da ste napravili nešto drugačije, govoreći to je to, sad će napokon stvari krenuti na bolje. Kao na primjer upisali ste se u teretanu, pročitali knjigu, asertivno ste iznijeli što vas muči  na sastanku odjela, odlučili ste da odsad djeca idu spavati u 21h i ni minutu kasnije. Složit ćete se sa mnom da je motivacija za promjenom ekstremno visoka u početku, jer ste, napokon, napravili nešto novo, nešto drugačije. I svaka čast na hrabrosti! No to ne znači da ćete smršaviti jer ste tereteni dali xy kuna, to ne znači da živite u praksi usvojena teorijska znanja iz knjige, to ne znači da ćete na sastanku ostati asertivni kad vam netko digne živac i to ne znači da ćete biti dovoljno dosljedni i snažni da djeca baš svaku večer idu spavati u 21h.
+Transformation is a process resulting in an irretrievably new original. It consists much more than mere addition and subtraction. An original adds a new pair of shoes and a purse, thinking that now it is different. But, is it?
 
-Ili ste odlučili nabaviti nešto novo, misleći da će vam se sad napokon osmjehnuti sreća kada dobijete tu diplomu, date taj otkaz, kupite taj mobitel, otplatite taj kredit ili se napokon odselite u inozemstvo. Ništa vas ne sprečava, zar ne? To je je jedina stvar koja vas dijeli od sreće. Pogrešno. Nakon što početni entuzijazam koji se generirao nekim novitetom u životu malo splasne, vidite da vas muče iste stvari iako živite u Kanadi, imate najnoviji mobitel, imate drugi bolje plaćen posao: jer tu je i diploma, nemate kredit. I da demoni koji su vas proganjali vas proganjaju još uvijek bez obzira na to gdje se sakrili ili bolje rečeno, iza čega.
+How many times it happened that you did something differently, saying this is it, finally from now on things will go uphill. For example, you enrolled in a gym, read a book, assertively stated your problem on the department meeting, decided the children are going to bed 9 pm the latest. The motivation for a change is at its peak in the beginning, because you altered your old routine. You did something new, something different. Congratulations are in order! However, that does not mean that you will lose weight because you provided the gym with a certain amount of money, that does not mean that you are applying the red book theories, that you are going to remain assertive when a colleague pushes a nerve and that you are going to be consistent and strong enough for your children to go to bed at the arranged time every single night.
+Or you decided to get something new, thinking that finally your luck is about to change the moment you obtain that diploma, hand in that resignation, pay that loan or move abroad. Nothing is stopping you, is it? Just that one little thing is standing between you and happiness, right? Wrong. After the first enthusiasm surge of doing something out of your routine calms down, you realize that you are preoccupied with same problems even though you are living in Miami, own a cutting edge cell phone, have a better payed job (diploma). Yes, the demons that were haunting you back then are somehow still here.
 
-Bolje vam je da ste si dobri sami sa sobom iz vrlo jednostavnog razloga, provodite 24 sata dnevno s tom osobom. S tim jednim glasićem kojeg ne možete ušutkati ne pored najglasnije zvučnika. Glasić koji može postati vaš najbolji prijatelj ili najgori neprijatelj. On vam jasno govori da nije potrebno nešto **IMATI** (mobitel, novi posao, druga država) niti nešto **RADITI** (vježbati u teretani, čitati knjigu, tjerati djecu u krevet) da biste **BILI**. Da biste bili sretni, strpljivi, spokojni, hrabri, sexy, pametni, zen. Što god.
+You better have a pretty good relationship with yourself for one simple reason. You are 24/7 with this person. Hanging around with that little voice inside your head that does not seem to subdue even next to the loudest speaker. The voice that can become your best friend or worse enemy. It undoubtedly states you do not have to ****HAVE**** something (cell phone, new job, another state) or ****DO**** something (work out, read, make the children go to bed) in order for you to ****BE****. Happy, patient, serene, brave, sexy, smart, zen, whatever. 
 
-Ako se ponekad osjećate kao Sizif  i čini vam se da nešto radite pogrešno, odahnite. Jer sve što radite je savršeno ispravno, samo ispravite redoslijed. **Prvo odlučujemo BITI nešto, a iz toga proizlazi sve ostalo.** Prvo odlučim biti uspješna i iz te energije i stava djelujem i dobivam rezultate. Prvo definiram Tko želim biti i pustim da to kreira moje okolnosti, jer samo  se na taj način neću uloviti da se zadovoljavam s manjim i da sam nezadovoljna, zar ne?
+If sometimes you feel like Sisyphus and think there must be something wrong to what you are doing, relax. Everything you are up to is perfectly fine, you just need to correct the chronology of it. First you decide to BE a certain thing and from that stems all the rest. First I decide to be successful and working (DO) out of that energy and attitude, the results start coming in (HAVE). First I define Who I want to be and allow it to further create my circumstances, because it is the only way I am not going to settle for less, am I?
 
-Transformacija zadire puno dublje u onaj naš BITI, u onaj glasić koji stalno nešto priča, u utkane vrijednosti i uvjerenja osobe, u stvari koje čine našu istinu. Samo ga trebamo čuti i dobro razaznati  od mnoštva drugih glasića koje čujemo: mamin, bakin, učiteljev, veroučiteljev, hrvatski, kršćanski, veganski, Itd. Čuti pravi glasić jest jednako dobiti odgovor na ono strašno pitanje što zapravo želimo! Jednom kada tu dođe do pomaka, do aha-trenutka, sve što nadalje radimo ili priskrbljujemo nosi drugačiju notu. Nosi notu onoga što smo mi, a ne obrnuto. Ne da si priskrbimo /radimo nešto očajnički čekajući hoće li iz toga poteći tako potrebni visoki c.
+Transformation goes much deeper into the Being, the little never-ending voice, into our interwoven values and beliefs into all the things that constitute our Truth. We just have to be able to hear it and make a distinction between all the other voices we hear inside: mother, grandmother, teacher, priest, America, Christianity, vegetarianism, etc. To listen to the right voice equals getting the answer to the dreaded question: what do I want? Once you reach a breakthrough in this area, everything that happens from this moment on carries a different tune. A melody of Who you really are.
 
-Busamo se u prsa da želimo slobodu, a nismo ni svjesni da smo zatočenici vlastitih ograničavajućih uvjerenja i misli. I onda, ako patimo od kronične glavobolje, ispijajući tablete protiv bolova samo kratkotrajno rješavamo naš problem. Zašto? Jer smo samo eliminirali posljedicu. Uzrok glavobolje vrlo vjerojatno leži u nečemu što nas muči. A dok ne riješimo UZROK, problem će nam se vraćati kao bumerang, zar ne?
+Somehow all we want is to be free, blind to the fact that we are prisoners of our own limiting beliefs and thoughts. If we are experiencing a headache, taking pills will solve our problem only for a while. Why? Because we have eliminated just the consequence of our troubles. The cause of the ache lies most probably in a current *problem*.  Unless we solve the cause, the problem will keep returning, will it not?
 
-Eto to je transformacija.
 
-Zanima vas još? [Idemo na kavu]({{ site.baseurl }}en/contact).
+Now, that is transformation.
+[Want to know more?  Grab a cup of coffee with me](http://www.tihanatamindzic.com/en/contact/) 
