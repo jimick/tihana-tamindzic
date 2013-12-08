@@ -8,7 +8,6 @@ published: true
 
 **Sada** je najbolje vrijeme da učinimo ono što smo oduvijek željeli.
 
-> Čovjek promašuje 100% udaraca na koje se nikad ne odluči. <small>Wayne Gretzky</small>
 
 **Usudite se biti.**
 
