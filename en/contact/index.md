@@ -3,15 +3,14 @@ layout: default
 title: Contact
 path: contact
 lang: en
+published: true
 ---
 
-**Sada** je najbolje vrijeme da učinimo ono što smo oduvijek željeli.
+**Now** is the best time to do what we always wanted.
 
-> Čovjek promašuje 100% udaraca na koje se nikad ne odluči. <small>Wayne Gretzky</small>
-
-**Usudite se biti.**
+**Dare to be.**
 
 Tihana Tamindžić<br>
-transformacijski coach i trener
+coach and trainer
 
 {% include social.html %}
