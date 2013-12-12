@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang }}">
+<html class="no-js" lang="{{ page.lang }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{{ page.title }} · {{ site.name }}</title>
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% include js.html %}
     {% include webfonts.html %}
     {% include analytics.html %}
     <link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets.dirname }}/stylesheets/application.css">
   </head>
 
-  <body class="landing">
+  <body class="page-landing">
 
     {{ content }}
 
+    {% include js.html %}
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
     <script src="{{ site.baseurl }}{{ site.assets.dirname }}/javascripts/application.js"></script>
   </body>

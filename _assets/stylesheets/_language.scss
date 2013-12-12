@@ -19,7 +19,7 @@ $size: 24px;
     float: right;
   }
 
-  .landing & {
+  .page-landing & {
     @include position(absolute, 0px 0px 0 0px);
   }
 }
