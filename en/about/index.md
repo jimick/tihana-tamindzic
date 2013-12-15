@@ -31,11 +31,11 @@ I finished IV. Language grammar school and Faculty of Humanities and Social Scie
 
  ###Early on I discovered that education was a process not a goal.
  
-I was always interested in the way people function. Why is it they do the things they do, why they don`t change the patterns that don`t work for them anymore. Why the hell don`t they? How come my truth differs from yours? What are beliefs, where do they come from and why are they sometimes limiting? So I dipped into the field of psychology and kept myself busy by reading, exploring and taking action.
+I was always interested in the way people function. Why is it they do the things they do, why they do not change the patterns leading nowhere. Why the hell don`t they? How come my truth differs from yours? What are beliefs, where do they come from and why are they sometimes limiting? So I dipped into the field of psychology and kept myself busy by reading, exploring and taking action.
 
 > The real voyage of discovery consists not in seeking new lands but seeing with new eyes. <small>Marcel Proust</small>
 
-My personal development deserved time, so I decided to invest in it up to three years. I spent most of that time in Holland, doing international personal development trainings with the [Synergy Group](http://www.s-gr.com). Started as a participant and ended up as an Assistant. I also completed the NLP coaching training led by the organization [Its all About Doing](http://www.itsallaboutdoing.nl). Coaching drew me because I found it practical: if you want something, act upon it and get results. You are the creator. It couldn’t be any simpler. Putting my coaching skills immediately into practice, I now enjoy the support of many satisfied clients in Croatia and abroad. A part of the  [Croatian Association for Coaching](http://www.hr-coaching.hr), my speciality is transformational, that is ontological coaching. The love for ontology came from the dedication and love of my now late mentor, the experienced ontological coach from the South African Republic, [Pat Grove](www.trans4tech.wordpress.com/)
+My personal development deserved time, so I decided to invest in it up to three years. I spent most of that time in Holland, doing international personal development trainings with the [Synergy Group](http://www.s-gr.com). Started as a participant and ended up as an Assistant. I also completed the NLP coaching training led by the organization [Its all About Doing](http://www.itsallaboutdoing.nl). Coaching drew me because I found it practical: if you want something, act upon it and get results. You are the creator. It couldn’t be any simpler. Putting my coaching skills immediately into practice, I now enjoy the support of many satisfied clients in Croatia and abroad. A part of the  [Croatian Association for Coaching](http://www.hr-coaching.hr), my speciality is transformational, that is ontological coaching. The love for ontology came from the dedication and love of my now late mentor, the experienced ontological coach from the South African Republic, [Pat Grove](www.trans4tech.wordpress.com/).
 
 ### I am practical and result oriented.
 
@@ -45,21 +45,21 @@ Unfortunately I was not blessed with the knowledge of Dutch but with the desire 
 > Our deepest fear isn`t that we are inadequate.
 Our deepest fear is that we are powerful beyond measure.
 It is our light not our darkness that frightens us most. 
-We ask ourselves, who am I to be brilliant, gorgeous, talented, and fabulous? Actually, who are you not to be <small>Marianne Wiliamson</small>
+We ask ourselves, who am I to be brilliant, gorgeous, talented, and fabulous? Actually, who are you not to be? <small>Marianne Wiliamson</small>
 
 ### I believe people are a limitless possibility.
 
-I cherish the days I actively fulfilled the role of an [Outward Bound](http://www.outwardbound.hr) Instructor, a school dedicated to experiential learning in nature. The great mountain Velebit and the Croatian coast served as a classroom, hiking, rock climbing, kayaking and life in untouched nature as a method, and various problem solving, group and coaching activities as a means of personal transformation and discovering dormant strength and will. Outward Bound`s mission is making participants realize their own limits, then overcoming them and leading by example. One of its basic principles is nicely described in Admiral Hopper`s quote: "A ship in port is safe, but that's not what ships are built for."
+I cherish the days I actively fulfilled the role of an [Outward Bound](http://www.outwardbound.hr) Instructor, a school dedicated to experiential learning in nature. The great mountain Velebit and the Croatian coast served as a classroom, hiking, rock climbing, kayaking and life in untouched nature as a method, and various problem solving, group and coaching activities as a means of personal transformation and discovering dormant strength and will. The mission of Outward Bound is making participants realize their own limits, then overcoming them and leading by example. One of its basic principles is nicely described in Admiral Hopper`s quote: "A ship in port is safe, but that's not what ships are built for."
 
-> If you think adventure is dangerous, try routine; it is lethal.” <small>Paulo Coelho</small>
+> If you think adventure is dangerous, try routine; it is lethal. <small>Paulo Coelho</small>
 
 The power of neurolinguistic programming leaves a powerful mark on my way of reazoning because of its capability to explain personal development, discover the trigger causing the problem and install a solution, all with mathematical precision. NLP is definitely a strong pattern of my work. I am especially caught by the magic of language that meta and Milton model offer. Considering the linguistical background I hold, I went further into the topic and discovered how it makes a big difference how we say the things we think and how it is all connected to our emotional and physical state, and consequently our future. An approach similar to the ontological one. The patient Gordana Kastrapeli taught me Practitioner skills while I became a Master with the help of Sasha Tenodi.
 
 > Sticks and stones can break my bones, but words can`t hurt me. <small>children wisdom</small>
 
-It was a pleasure translation Sasha`s book, Be Your Better Self, which gives pragmatic guidelines towards personal transformation in today`s world through applied psychology, NLP methods and the author`s life experience.
+It was a pleasure translating Be Your Better Self, Amazon bestseller written by Sasha Tenodi, which gives pragmatic guidelines towards personal transformation in today`s world through applied psychology, NLP methods and the author`s life experience.
 
-> If you do what you`ve always done, you`ll get what you`ve always gotten. <small>Tony Robbins</small>
+> If you do what you have always done, you will get what you have always gotten. <small>Tony Robbins</small>
 
 For almost three years I was a part of Allianz as a sales, communication and presentation skills trainer. The sales business, this world being filled with imperative quick decision making, gave a new dimension to my comprehension of personal transformation. Together with participants, we chiseled the power of nonverbal communication, effective time management, the art of asking questions and oral expression, leadership, dynamic presentations, individual motivation, needs, habits and goals.
 
