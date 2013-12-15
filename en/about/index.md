@@ -29,7 +29,7 @@ Tihana is an expert in the field of **educational management**, in other words, 
 
 I finished IV. Language grammar school and Faculty of Humanities and Social Sciences in Zagreb which gave me a diploma in English and French language and literature. Drawn by the thought of teaching,  because of a direct impact into young people modeling and education, through the teacher role I had a chance to work in elementary schools, high schools and foreign language schools. The private tutoring lessons I gave never consisted solely from grammar improvement or conversational skills proficiency. They were regularly spiced up with a bit of personal development, so that, money aside, my reward was also the enthusiasm and satisfaction of a client.
 
- ###Early on I discovered that education was a process not a goal.
+ ### Early on I discovered that education was a process not a goal.
  
 I was always interested in the way people function. Why is it they do the things they do, why they do not change the patterns leading nowhere. Why the hell don`t they? How come my truth differs from yours? What are beliefs, where do they come from and why are they sometimes limiting? So I dipped into the field of psychology and kept myself busy by reading, exploring and taking action.
 
@@ -57,7 +57,7 @@ The power of neurolinguistic programming leaves a powerful mark on my way of rea
 
 > Sticks and stones can break my bones, but words can`t hurt me. <small>children wisdom</small>
 
-It was a pleasure translating Be Your Better Self, Amazon bestseller written by Sasha Tenodi, which gives pragmatic guidelines towards personal transformation in today`s world through applied psychology, NLP methods and the author`s life experience.
+It was a pleasure translating Be Your Better Self, Amazon bestseller written by Sasha Tenodi, which gives pragmatic guidelines towards personal transformation through applied psychology, NLP methods and the author`s life experience.
 
 > If you do what you have always done, you will get what you have always gotten. <small>Tony Robbins</small>
 
