@@ -21,7 +21,8 @@ Usavršila se u području primjenjene psihologije i postala **NLP majstor**. Pos
 Specijalizirana je za **edukacijski management**. Drugim riječima, posebnu pažnju obraća na sistematiziran, dosljedan i nadahnjujući razvoj ljudskog potencijala. Posebno je stručna u oblikovanju i obučavanju onih koji rade s grupama ljudima, kao što su: edukatori, voditelji, treneri.
 
 
-**Usudi se biti
+**Usudi se biti  
+
 svoje vlastito remek-djelo.**
 
 ## Za one koji žele znati više
