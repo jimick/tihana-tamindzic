@@ -6,7 +6,7 @@ lang: hr
 published: true
 ---
 
-Transformacija...
+Transformacija.
 
 Zgodna riječ, zar ne?
 
