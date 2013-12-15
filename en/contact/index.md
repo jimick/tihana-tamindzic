@@ -6,9 +6,9 @@ lang: en
 published: true
 ---
 
-**Now** is the best time to do what we always wanted.
+When if not **now**?
 
-**Dare to be.**
+**Dare to be your own masterpiece**
 
 Tihana Tamindžić<br>
 coach and trainer
