@@ -3,6 +3,7 @@ layout: default
 title: Projekti
 path: projects
 lang: hr
+published: true
 ---
 
 ### ŠKOLA ZA TRENERE
@@ -17,9 +18,9 @@ Uskoro se otvara mogućnost da svi vi koji:
 * nastavne jedinice
 * facilirate ciljana okupljanja
 
-u formalnom ili neformalnom okviru...napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
+u formalnom ili neformalnom okviru,
+napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
-**Usudite se biti neustrašivo učinkoviti.**
 
 <p>
   <a class="project-details btn btn-primary" href="{{ site.baseurl }}contact">
