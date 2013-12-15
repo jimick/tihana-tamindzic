@@ -8,7 +8,7 @@ published: true
 
 When if not **now**?
 
-**Dare to be your own masterpiece**
+**Dare to be your own masterpiece.**
 
 Tihana Tamindžić<br>
 coach and trainer
