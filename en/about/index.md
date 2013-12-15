@@ -1,29 +1,30 @@
 ---
 layout: default
-title: Tihana Tamindžić
+title: Tihana Tamindzic
 path: about
 lang: en
+published: true
 ---
 
-Tihana Tamindžić
+Tihana Tamindzic
 
-vjeruje da ne postoji ništa što nas sprečava da iskoristimo svoj puni potencijal i budemo ono što želimo biti osim nas samih i zato prvo sebi svakodnevno postavlja nove izazove, a tek onda drugima. Vesela i radoznala, objašnjava da treninzima i _coachingom_ uživa stvarati podržavajuće okruženje i dragocjenu priliku da svatko sam odnese
-svoju pobjedu: „Daj čovjeku ribu i nahranio si ga tog dana. Nauči ga da je
-ulovi i nahranio si ga doživotno.“, uvijek ponavlja. Tvrdi da kao trener i _coach_, nema ljepšeg prizora do osnaženog i ozarenog klijenta. Uvjerena je da u zdravom tijelu živi zdrav duh i zato će uvijek otići s vama trčati, planinariti, nabacivati se s loptom ili jednostavno smijati se do suza u parku.
+Believes nothing is stopping us from using our full potential or from being what we want to be except ourselves, so before challenging others she constantly creates new ones for herself. At the moment she is working on finishing a running marathon. Cheerful and inquisitive, Tihana explains that using coaching and trainings she enjoys creating a supportive surrounding and a valuable opportunity for everyone to take away their own victory. To be the best version of themselves. As a trainer and as a coach, she feels best upon seeing an empowered and radiant client. Tihana lives up to the Latin saying _Mens sana in corpora sano_ and that is why she will always join you for a run, a hike, a ballgame or simply laugh her pants off with you wherever.
 
 ![Tihana Tamindžić]({{ site.baseurl }}{{ site.assets.dirname }}/images/2.jpg)
 
-Kao **profesorica** engleskog i francuskog jezika radom u struci pretočila je teorijska znanja metodike, didaktike i pedagogije u praksu, odvojila je za edukaciju _coachinga_ i onu **transformacijskog trenera** par godina u Nizozemskoj, a kasnije nastavila u Hrvatskoj s Patom Groveom. Sudjelovala i održavala brojne internacionalne treninge osobnog razvoja i coachinga, zajedno s kolegama osnovala je  Syncro i udrugu za mlade Synergy Croatia, instruktorica je Hrvatske škole Outward Bound u mirovanju i **coach** Hrvatske udruge za _coaching_.
+Working as an English and French **teacher**, she put into practice all the theoretical knowledge on didactics, methodics and pedagogy; took a couple of years in Holland to educate herself further on being a coach and **transformational trainer**; cooperated and held numerous international personal development and coaching trainings;  together with her colleagues founded Syncro and Synergy Croatia, an NGO; proud to have been an Outward Bound instructor.
 
-Vjeruje da svatko od nas u sebi već nosi svo znanje potrebno da kreira najbolji život za sebe. Vidi _coaching_ kao proces koji pomaže: izvući na vidjelo to znanje, sagledati situaciju  iz dosad previđene perspektive i preuzeti kormilo svog života. _Coach_ postavlja pitanje, klijent pronalazi odgovor.
+As a Croatian Association for Coaching **coach**, she believes that we already know everything we need to know in order to recreate the things we want. She sees coaching as a process that supports:  verbalizing that knowledge, taking a peek at it from an overlooked  perspective and taking control over the paintbrush of your masterpiece. Coach asks the question, client finds (remembers) the answer.
 
-Usavršila se u području primjenjene psihologije i postala **NLP majstor** i poseban interes pokazuje u implementiranju te discipline modeliranja izvrsnosti u brzi poslovni svijet lidera i _managera_, što je i radila gotovo tri godine u Allianzu. Primjenjena verzija NLP-a u prodaji, organizaciji i rukovođenju pokazala se vrlo pragmatičnom i uspješnom jer daje odgovor na pitanje koja je razlika koja čini razliku uspješnih i zadovoljnih poslovnih ljudi?
+Becoming an **NLP master**, she perfected her applied psychology approach, paying special interest in implementing the excellence modeling discipline in the fast business world of leaders and managers. Three years of working in Allianz Zagreb insurance company gave her the required feedback. Applied NLP in sales, organisation and management proved to be helpful since it started answering the question preoccupying many people in business: what is the difference that makes the difference in successful and satifsied people?
 
-Specijalizirana je za **edukacijski management**. Drugim riječima, posebnu pažnju obraća na sistematiziran, dosljedan i nadahnjujući razvoj ljudskog potencijala. Posebno je stručna u oblikovanju i obučavanju onih koji rade s grupama ljudima, kao što su: edukatori, voditelji, treneri.
+Tihana is an expert in the field of **educational management**, in other words, pays particular attention to a sistematic, consistent and inspiring human potential and talent development. Especially forming and training the ones that work with groups of people: educators, managers, trainers.
 
-Proizvod produhovljenog i poslovnog svijeta, Tihana je definitivno uvijek za akciju.
 
-## Za one koji žele znati više
+**Dare to be
+your own masterpiece.**
+
+## Find out more
 
 Završila sam IV. gimnaziju i Filozofski fakultet u Zagrebu te postala stručna u području engleskog i francuskog jezika i književnosti. Privlačila me pomisao rada u nastavi zbog direktnog utjecaja u oblikovanje i obrazovanje mladih ljudi. Kroz ulogu profesorice imala sam priliku raditi u osnovnim školama, srednjim školama i školama stranih jezika. Moje privatne poduke nikada nisu isključivo one iz gramatike ili konverzacije, one su redovito oplemenjene osobnim razvojem tako da mi je osim novca nagrada elan i zadovoljstvo klijenta.
 
