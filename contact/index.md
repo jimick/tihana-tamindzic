@@ -6,10 +6,10 @@ lang: hr
 published: true
 ---
 
-**Sada** je najbolje vrijeme da učinimo ono što smo oduvijek željeli.
+Kad ako ne **sad**?
 
 
-**Usudite se biti.**
+**Usudi se biti svoje vlastito remek-djelo.**
 
 Tihana Tamindžić<br>
 *coach* i trener
