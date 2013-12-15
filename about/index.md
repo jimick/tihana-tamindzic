@@ -22,6 +22,7 @@ Specijalizirana je za **edukacijski management**. Drugim riječima, posebnu paž
 
 
 **Usudi se biti
+
 svoje vlastito remek-djelo.**
 
 ## Za one koji žele znati više
