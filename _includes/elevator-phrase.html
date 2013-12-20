@@ -1,5 +1,10 @@
 <div class="elevator-phrase">
   <div class="container">
-    Usudite se biti neustrašivo učinkoviti
+    {% case page.lang %}
+    {% when "hr" %}
+      Usudite se biti vlastito remek-djelo
+    {% when "en" %}
+      Dare to be your own masterpiece
+    {% endcase %}
   </div>
 </div>
