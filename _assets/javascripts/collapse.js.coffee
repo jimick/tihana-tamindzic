@@ -1,6 +1,6 @@
 jQuery ($) ->
 
-  if $(".page-faq").length
+  if $(".page-collapsable").length
     $last = null
 
     collapse = ($el) ->
@@ -20,5 +20,5 @@ jQuery ($) ->
 
       $this = $(@)
       $last = $this
-      $this.next().fadeIn("fast")
+      $this.next().show()
       $this.removeClass("is-collapsed")

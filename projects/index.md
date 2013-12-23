@@ -3,10 +3,11 @@ layout: default
 title: Projekti
 path: projects
 lang: hr
+class: page-collapsable
 published: true
 ---
 
-### ŠKOLA ZA TRENERE
+## ŠKOLA ZA TRENERE
 
 Uskoro se otvara mogućnost da svi vi koji:
 

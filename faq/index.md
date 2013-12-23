@@ -3,6 +3,7 @@ layout: default
 title: "Što je coaching?"
 path: faq
 lang: hr
+class: page-collapsable
 published: true
 ---
 
