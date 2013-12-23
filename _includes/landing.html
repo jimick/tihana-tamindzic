@@ -11,25 +11,19 @@
 <nav class="jumbotron-navigation" role="navigation">
   <ol class="list-unstyled">
 
-    {% for weight in (1..6) %}
-      {% for p in site.data.pages %}
-        {% if p.weight == weight %}
-
-          <li>
-            {% case page.lang %}
-            {% when "hr" %}
-              <a href="{{ site.baseurl }}{{ p.path }}">
-                <span>{{ p.title_hr }}</span>
-              </a>
-            {% when "en" %}
-              <a href="{{ site.baseurl }}en/{{ p.path }}">
-                <span>{{ p.title_en }}</span>
-              </a>
-            {% endcase %}
-          </lI>
-
-        {% endif %}
-      {% endfor %}
+    {% for p in site.data.pages %}
+      <li>
+        {% case page.lang %}
+        {% when "hr" %}
+          <a href="{{ site.baseurl }}{{ p.path }}">
+            <span>{{ p.title_hr }}</span>
+          </a>
+        {% when "en" %}
+          <a href="{{ site.baseurl }}en/{{ p.path }}">
+            <span>{{ p.title_en }}</span>
+          </a>
+        {% endcase %}
+      </li>
     {% endfor %}
 
   </ol>

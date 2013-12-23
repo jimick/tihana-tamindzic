@@ -11,24 +11,19 @@
     <a href="{{ site.baseurl }}"><i class="icon-logo"></i></a>
   </div>
 
-  {% for weight in (1..6) %}
-    {% for p in site.data.pages %}
-      {% if p.weight == weight %}
+  {% for p in site.data.pages %}
+    {% if p.path == page.path %}
+      {% assign klass="active" %}
+    {% else %}
+      {% assign klass="" %}
+    {% endif %}
 
-        {% if p.path == page.path %}
-          {% assign klass="active" %}
-        {% else %}
-          {% assign klass="" %}
-        {% endif %}
-
-        {% case page.lang %}
-        {% when "hr" %}
-          <a class="list-group-item {{ klass }}" href="{{ site.baseurl }}{{ p.path }}">{{ p.title_hr }}</a>
-        {% when "en" %}
-          <a class="list-group-item {{ klass }}" href="{{ site.baseurl }}en/{{ p.path }}">{{ p.title_en }}</a>
-        {% endcase %}
-
-      {% endif %}
-    {% endfor %}
+    {% case page.lang %}
+    {% when "hr" %}
+      <a class="list-group-item {{ klass }}" href="{{ site.baseurl }}{{ p.path }}">{{ p.title_hr }}</a>
+    {% when "en" %}
+      <a class="list-group-item {{ klass }}" href="{{ site.baseurl }}en/{{ p.path }}">{{ p.title_en }}</a>
+    {% endcase %}
   {% endfor %}
+
 </nav>

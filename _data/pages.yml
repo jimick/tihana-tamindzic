@@ -2,29 +2,23 @@
   title_hr: "Transformacija"
   title_en: "Transformation"
   path: "transformation"
-  weight: 1
 -
   title_hr: "Tihana Tamindžić"
   title_en: "Tihana Tamindžić"
   path: "about"
-  weight: 2
 -
   title_hr: "Kontakt"
   title_en: "Contact"
   path: "contact"
-  weight: 3
 -
   title_hr: "Projekti"
   title_en: "Projects"
   path: "projects"
-  weight: 4
 -
   title_hr: "Iskustva polaznika"
   title_en: "Testimonials"
   path: "testimonials"
-  weight: 5
 -
   title_hr: "Što je coaching?"
   title_en: "What is Coaching?"
   path: "faq"
-  weight: 6
