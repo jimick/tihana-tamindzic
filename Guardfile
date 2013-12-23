@@ -14,7 +14,7 @@ guard "sprockets",
   asset_paths: ["_assets/javascripts", "_vendor/javascripts"],
   minify: true do
 
-  watch %r{(_assets|_vendor)/javascripts/(.+\.js)$}
+  watch %r{(_assets|_vendor)/javascripts/(.+\.js(\.coffee)?)$}
 
 end
 
