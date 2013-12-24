@@ -11,7 +11,6 @@ published: true
 
 Uskoro se otvara mogućnost da svi vi koji:
 
-
 * vodite timove ljudi
 * educirate klijente
 * uvježbavate polaznike
