@@ -3,13 +3,14 @@ layout: default
 title: Projekti
 path: projects
 lang: hr
-class: page-collapsable
+class: "page-collapsable"
 published: true
 ---
 
 ## ŠKOLA ZA TRENERE
 
 Uskoro se otvara mogućnost da svi vi koji:
+
 
 * vodite timove ljudi
 * educirate klijente
