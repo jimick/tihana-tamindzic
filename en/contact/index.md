@@ -3,7 +3,6 @@ layout: default
 title: Contact
 path: contact
 lang: en
-published: true
 ---
 
 When if not **now**?
