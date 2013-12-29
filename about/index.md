@@ -3,7 +3,6 @@ layout: default
 title: Tihana Tamindžić
 path: about
 lang: hr
-published: true
 class: "page-collapsable"
 ---
 
