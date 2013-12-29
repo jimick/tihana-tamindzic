@@ -3,7 +3,6 @@ layout: default
 title: Kont
 path: contact
 lang: hr
-published: true
 ---
 
 Kad ako ne **sad**?
