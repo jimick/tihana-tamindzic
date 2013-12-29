@@ -3,8 +3,7 @@ layout: default
 title: Projects
 path: projects
 lang: en
-class: page-collapsable
-published: true
+class: "page-collapsable"
 ---
 
 ## ŠKOLA ZA TRENERE
