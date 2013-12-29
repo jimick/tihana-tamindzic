@@ -3,7 +3,6 @@ layout: default
 title: Transformacija
 path: transformation
 lang: hr
-published: true
 ---
 
 Transformacija.
