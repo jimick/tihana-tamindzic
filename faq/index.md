@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Što je coaching?"
+title: Što je coaching?
 path: faq
 lang: hr
 class: "page-collapsable"
