@@ -3,7 +3,6 @@ layout: default
 title: Transformation
 path: transformation
 lang: en
-published: true
 ---
 
 Transformation.
