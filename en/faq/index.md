@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "What is Coaching?"
+title: What is Coaching?
 path: faq
 lang: en
-class: page-collapsable
-published: true
+class: "page-collapsable"
 ---
 
 ## 1.) Što je *coaching*?
