@@ -3,7 +3,6 @@ layout: default
 title: Tihana Tamindzic
 path: about
 lang: en
-published: true
 ---
 
 Tihana Tamindzic
