@@ -4,7 +4,6 @@ title: Projekti
 path: projects
 lang: hr
 class: "page-collapsable"
-published: true
 ---
 
 ## ŠKOLA ZA TRENERE
