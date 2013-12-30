@@ -4,10 +4,10 @@
   path: "transformation"
 -
   title_hr: "Tihana Tamindžić"
-  title_en: "Tihana Tamindžić"
+  title_en: "Tihana Tamindzic"
   path: "about"
 -
-  title_hr: "Kont"
+  title_hr: "Kontakt"
   title_en: "Contact"
   path: "contact"
 -
@@ -15,14 +15,14 @@
   title_en: "Projects"
   path: "projects"
 -
-  title_hr: "Treninzi"
-  title_en: "Trainings"
+  title_hr: "TRENINZI"
+  title_en: "TRAININGS"
   path: "trainings"
 -
   title_hr: "Iskustva polaznika"
   title_en: "Testimonials"
   path: "testimonials"
 -
-  title_hr: "Što je coaching?"
-  title_en: "What is Coaching?"
+  title_hr: "COACHING"
+  title_en: "COACHING"
   path: "faq"
