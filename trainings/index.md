@@ -7,7 +7,8 @@ lang: hr
 
 
 **Posebno skrojeni treninzi i radionice na osnovu specifičnih jakih i slabih strana svakog pojedinačnog klijenta garantira promjenu.**
- U dogovoru s klijentom, uzimajući u obzir njegove želje i potrebe, kreira se optimalan program i raspored u kojem se svaka tema prilagođava širem kontekstu tvrtke i užom problematikom unutar nje i na taj se način stvaraju optimalni rezultati.
+ 
+U dogovoru s klijentom, uzimajući u obzir njegove želje i potrebe, kreira se optimalan program i raspored u kojem se svaka tema prilagođava širem kontekstu tvrtke i užom problematikom unutar nje i na taj se način stvaraju optimalni rezultati.
 
 ## METODA
 **Tehnike neurolingvističkog programiranja i transformacije po principu iskustvenog učenja daju dugoročne rezultate i vidljiv napredak.** Argument iza toga je jednostavan.  Koristeći metodu iskustvenog učenja polaznici pronalaze odgovor na svoje pitanje, ne ono opće generirano. 
