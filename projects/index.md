@@ -41,28 +41,42 @@ Pristup ne rezultira samo postizanjem individualnog cilja nego i cjelokupnim oso
 **Kome je namijenjeno?**
 
 •	Tečaj je namijenjem onima koji kad ih netko pita znaju li engleski odgovaraju s da, ali se s druge strane teško samostalno upuštaju u razgovore na engleskom,
+
 •	za one koji cijene svoje vrijeme i novac,
+
 •	namjenjen je onima koji znaju da mogu savladati do kraja taj engleski samo kad  učenje i tečajevi ne bi bili dosadni,
+
 •	za one koji su spremni napokon napraviti pomak iz sadašnjeg stanja,
+
 •	za one koji žele samouvjereno odgovoriti kad ih netko pita znaju li engleski s „You talking to me?“ i nastaviti dalje na engleskom , umjesto samo reći : „Znam.“
 
 **Uz engleski jezik razvija se i:**
 
 •	Dosljednost
+
 •	Predanost
+
 •	Odgovornost
+
 •	Elokventnost
+
 •	Upravljanje ciljevima
+
 •	Prezentacijske vještine
+
 •	Komunikacijske vještine
+
 •	Umijeće samokorekcije
+
 •	Umijeće davanja povratne informacije
+
 •	Kreativno razmišljanje izvan ustaljenih okvira
 
 
 ## BE YOUR BETTER SELF
 
 O KNJIZI MALO BLA BLA
+
 http://www.amazon.com/Be-Your-Better-Self-Approach-ebook/dp/B00GTKM9RM/ref=sr_1_1?ie=UTF8&qid=1388661494&sr=8-1&keywords=BE+YOUR+BETTER+SELF
 
 ## COACH CAN
