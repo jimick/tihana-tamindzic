@@ -25,7 +25,7 @@ napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
 Koliko ste puta poželjeli samouvjereno na engleskom nekom sugovorniku odgovoriti na postavljeno pitanje? Koliko puta ste se kasnije sjetili što ste mu sve mogli reći? Mislite li da ste napravili sve što ste mogli da naučite taj engleski a sad nikako da ga tečno progovorite? Želite li upotrebljavati druge riječi osim: nice, and, so, very good, hello, cat? Želite li ovladati rečenicama koje ne samo da su proširene nego su i šaljive? Želite li zablistati u očima poslovnih partnera, kolega, prijatelja i potencijalnih ljubavi? Možda postoji još nešto što niste dosad probali.
 
-# Radionice usavršavanja umijeća razgovora i komunikacije engleskog jezika
+**Radionice usavršavanja umijeća razgovora i komunikacije engleskog jezika**
 
 Jednogodišnja avantura čiji je krajnji cilj tečnije i elokventnije komuniciranje na engleskom jeziku. Ono što je drugačije od ostalih tečajeva jest da se ovdje ne radi samo na vježbanju vještine, nego se kroz coaching i postavljanje ciljeva radi na motivaciji, namjeri i blokadama koje stoje iza samoga jezika. Posebno je i to što polaznici s trenericom imaju stalan kontakt i praćenje putem maila.
 
