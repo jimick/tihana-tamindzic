@@ -31,7 +31,7 @@ Možda postoji još nešto što niste dosad probali.
 
 **Radionice usavršavanja umijeća razgovora i komunikacije engleskog jezika**
 
-**Jednogodišnja avantura čiji je krajnji cilj tečnije i elokventnije komuniciranje na engleskom jeziku. Ono što je drugačije od ostalih tečajeva jest da se ovdje ne radi samo na vježbanju vještine, nego se kroz coaching i postavljanje ciljeva radi na motivaciji, namjeri i blokadama koje stoje iza samoga jezika.** Posebno je i to što polaznici s trenericom imaju stalan kontakt i praćenje putem maila.
+Posebno je to što polaznici s trenericom imaju stalan kontakt i praćenje putem maila. Jednogodišnja avantura čiji je krajnji cilj **tečnije i elokventnije komuniciranje na engleskom jeziku. Ono što je drugačije od ostalih tečajeva jest da se ovdje ne radi samo na vježbanju vještine, nego se kroz coaching i postavljanje ciljeva radi na motivaciji, namjeri i blokadama koje stoje iza samoga jezika.** 
 
 Sastoji se od dvije veće cjeline odnosno semestra. **Prvi semestar**  poseban fokus  stavljen je na oslobađanje pri razgovoru,  ponavljanje i ovladavanje gramatičkim pravilima, usavršavanje postojećeg i dodavanje novog vokabulara i transformiranje misli u riječi, fraze, rečenice, odlomke i govore. 
 
@@ -86,9 +86,16 @@ O KNJIZI MALO BLA BLA
 
 http://www.amazon.com/Be-Your-Better-Self-Approach-ebook/dp/B00GTKM9RM/ref=sr_1_1?ie=UTF8&qid=1388661494&sr=8-1&keywords=BE+YOUR+BETTER+SELF
 
-## COACH CAN
+## CC
 
 KHBJVJV
+
+
+
+
+
+
+
 
 
 
