@@ -81,6 +81,7 @@ Pristup ne rezultira samo postizanjem individualnog cilja nego i cjelokupnim oso
 
 
  [više informacija](http://www.skolakvalitetnogucenja.com)
+ 
 
 
 ## BE YOUR BETTER SELF
@@ -88,7 +89,7 @@ Pristup ne rezultira samo postizanjem individualnog cilja nego i cjelokupnim oso
 
 
 [prelistajte knjigu](http://www.amazon.com/Be-Your-Better-Self-Approach-ebook/dp/B00GTKM9RM/ref=sr_1_1?ie=UTF8&qid=1388661494&sr=8-1&keywords=BE+YOUR+BETTER+SELF)
-## CC
+
 
 
 
