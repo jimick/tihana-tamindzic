@@ -85,12 +85,11 @@ Pristup ne rezultira samo postizanjem individualnog cilja nego i cjelokupnim oso
 
 ## BE YOUR BETTER SELF
 
-O KNJIZI MALO BLA BLA
+
 
 [prelistajte knjigu](http://www.amazon.com/Be-Your-Better-Self-Approach-ebook/dp/B00GTKM9RM/ref=sr_1_1?ie=UTF8&qid=1388661494&sr=8-1&keywords=BE+YOUR+BETTER+SELF)
 ## CC
 
-KHBJVJV
 
 
 
@@ -101,9 +100,5 @@ KHBJVJV
 
 
 
-<p>
-  <a class="project-details btn btn-primary" href="{{ site.baseurl }}contact">
-    <i class="icon-link"></i>
-    Saznaj više
-  </a>
-</p>
+
+
