@@ -86,15 +86,15 @@ Cjelovit i detaljan trening namjenjem usavršavanju osobe koja je zadužena za p
  
 •	Kvalitete _lidera_
 
-•	Kako lider predvodi?
+•	Kako _lider_ predvodi?
 
-•	Kako sastanake učiniti djelotvornim?
+•	Djelotvorni sastanci
 
 •	Motivacija zaposlenika
 
 •	Stvaranje tima i timski rad
 
-•	Kako napraviti izvrstan ppt
+•	Izvrsno napravljen ppt
 
 
 ## MOĆ EDUKACIJE
