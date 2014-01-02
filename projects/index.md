@@ -20,7 +20,8 @@ Uskoro se otvara mogućnost da svi vi koji:
 
 u formalnom ili neformalnom okviru,
 napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
-www.skolatrenera.com
+
+<www.skolatrenera.com>
 
 ## YOU TALKING TO ME?
 
