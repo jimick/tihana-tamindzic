@@ -21,7 +21,7 @@ Uskoro se otvara mogućnost da svi vi koji:
 u formalnom ili neformalnom okviru,
 napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
-<www.skolatrenera.com>
+[Škola trenera](http://www.skolatrenera.com)
 
 ## YOU TALKING TO ME?
 
@@ -31,7 +31,7 @@ Možda postoji još nešto što niste dosad probali.
 
 **Radionice usavršavanja umijeća razgovora i komunikacije engleskog jezika**
 
-Posebno je to što polaznici s trenericom imaju stalan kontakt i praćenje putem maila. Jednogodišnja avantura čiji je krajnji cilj **tečnije i elokventnije komuniciranje na engleskom jeziku. Ono što je drugačije od ostalih tečajeva jest da se ovdje ne radi samo na vježbanju vještine, nego se kroz coaching i postavljanje ciljeva radi na motivaciji, namjeri i blokadama koje stoje iza samoga jezika.** 
+Posebno je to što polaznici s trenericom imaju stalan kontakt i praćenje putem maila. Jednogodišnja avantura čiji je krajnji cilj **tečnije i elokventnije komuniciranje na engleskom jeziku. Ono što je drugačije od ostalih tečajeva jest da se ovdje ne radi samo na vježbanju vještine, nego se kroz _coaching_ i postavljanje ciljeva radi na motivaciji, namjeri i blokadama koje stoje iza samoga jezika.** 
 
 Sastoji se od dvije veće cjeline odnosno semestra. **Prvi semestar**  poseban fokus  stavljen je na oslobađanje pri razgovoru,  ponavljanje i ovladavanje gramatičkim pravilima, usavršavanje postojećeg i dodavanje novog vokabulara i transformiranje misli u riječi, fraze, rečenice, odlomke i govore. 
 
@@ -39,7 +39,7 @@ Sastoji se od dvije veće cjeline odnosno semestra. **Prvi semestar**  poseban f
 
 **Kako to izgleda?**
 
-Na polazniku leži odgovornost aktivnog sudjelovanja i prepuštanja avanturi. Uz stručno vodstvo Tihane Tamindžić, coacha i profesorice engleskog jezika, jednom tjedno polaznici će se po 3 školska sata intenzivno baviti sobom a i svojim jezičnim vještinama.
+Na polazniku leži odgovornost aktivnog sudjelovanja i prepuštanja avanturi. Uz stručno vodstvo Tihane Tamindžić, _coacha_ i profesorice engleskog jezika, jednom tjedno polaznici će se po 3 školska sata intenzivno baviti sobom a i svojim jezičnim vještinama.
 
 Iskustveno učenje putem samokorekcije, stalnom provjerom razvoja vokabulara i tečnosti govora putem videosnimki i rada na individualnim ciljevima, omogućava svakom polazniku da dosegne onu razinu umijeća koju želi. Na radionicama se vježba, radi i utvrđuje. Pretjerano teoretiziranje nije dopušteno.
 
@@ -78,6 +78,9 @@ Pristup ne rezultira samo postizanjem individualnog cilja nego i cjelokupnim oso
 •	Umijeće davanja povratne informacije
 
 •	Kreativno razmišljanje izvan ustaljenih okvira
+
+
+više informacija [Synergy Grupe](http://www.s-gr.com)
 
 
 ## BE YOUR BETTER SELF
