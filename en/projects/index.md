@@ -6,7 +6,7 @@ lang: en
 class: "page-collapsable"
 ---
 
-## ŠKOLA TRENERA
+## TRAINER SCHOOL
 
 Uskoro se otvara mogućnost da svi vi koji:
 
