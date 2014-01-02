@@ -5,7 +5,7 @@ path: about
 lang: en
 ---
 
-Tihana Tamindzic
+
 
 Believes nothing is stopping us from using our full potential or from being what we want to be except ourselves, so before challenging others she constantly creates new ones for herself. At the moment she is working on finishing a running marathon. Cheerful and inquisitive, Tihana explains that using coaching and trainings she enjoys creating a supportive surrounding and a valuable opportunity for everyone to take away their own victory. To be the best version of themselves. As a trainer and as a coach, she feels best upon seeing an empowered and radiant client. Tihana lives up to the Latin saying _Mens sana in corpora sano_ and that is why she will always join you for a run, a hike, a ballgame or simply laugh her pants off with you wherever.
 
