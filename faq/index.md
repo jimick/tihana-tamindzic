@@ -41,11 +41,17 @@ Kako biste ustvrdili ima li za vas kakve koristi od *coachinga*, počnite od art
 Istina je da se *coaching* temelji na principu razgovora, odnosno da *coach* pita a klijent odgovara. Međutim to ne znači pasivan položaj klijenta. Taj odnos je partnerski odnos te zahtjeva od klijenta rad. Zapitajte se jeste li spremni:
 
 •	 raditi na sebi?
+
 •	 biti iskreni sami sa sobom?
-•	 biti odgovorni za svoja djela
-•	 biti dosljedni
+
+•	 biti odgovorni za svoja djela?
+
+•	 biti dosljedni?
+
 •	 promotriti situaciju iz ostala 3 kuta?
+
 •	 posvetiti vrijeme i energiju stvaranju  života kakvog želite?
+
 •	 istjerati započeto do kraja?
 
 Ako  ste na  sva pitanja odgovorili potvrdno, onda vama *coaching* može pomoći da rastete i napredujete.
@@ -59,14 +65,14 @@ Kažu da klijenti ponovno postaju autentične i kreativne individue. Autentične
 
 Ciljani rezultati svakog _coachinga_ su:
 
-1. *Dugoročna izvrsnost u izvedbi*
+1. **Dugoročna izvrsnost u izvedbi**
 Klijent zadovoljava objektivne standarde discipline odnosno teme oko koje se odvija _coaching_.
 
 
-2. *Samo korekcija*
+2. **Samo korekcija**
 Kvalitetno _coachani_ klijenti mogu primijetiti kada im ide dobro a kada ne. I sposobni su samostalno napraviti     korekciju u trenutku dok se sam događaj odvija, neovisno od _coacha_.
 
-3. *Samo generacija*
+3. **Samo generacija**
 Uvijek u svakom pogledu možemo napredovati i iz svakog iskustva nešto naučiti, primijeniti. Kvalitetno _coachani_ klijenti to znaju.
 
 
@@ -81,7 +87,9 @@ Posao _coacha_ je da razumije na koji način klijent vidi, odnosno interpretira 
 
 > *Jezik postoji kao tip igre koji se održava na životu i ima smisla jedino u kontekstu svijeta stvorenog od samog tvorga jezika.* <small>Wittgestein</small>
 
-Coach je u stanju promijeniti klijentov doživljaj onoga što mu se događa tako da mu učini dostupnim nove distinkcije (različitosti, osvještavanje nečega što se gledalo a nije vidjelo) i navike koje potom postaju trajni dio klijentove strukture interpretacije. To radi pomoću uvođenja novog jezika, doslovno novih riječi, koje zauzvrat omogućavaju klijentu nova zapažanja. Tako se rađaju distinkcije koje znače trajnu promjenu. Jednostavnije, kad vam netko osvijesti mrlju na košulji koju nosite (napravi tu distinkciju i nazove mrlju mrljom) više se ne možete praviti da ona ne postoji. Klijent je taj koji poduzima akciju, jednostavno zbog toga što sada ne može zanemariti postojanje toga nečega, odnosno oblači čistu košulju.
+Coach je u stanju promijeniti klijentov doživljaj onoga što mu se događa tako da mu učini dostupnim nove distinkcije (različitosti, osvještavanje nečega što se gledalo a nije vidjelo) i navike koje potom postaju trajni dio klijentove strukture interpretacije. To radi pomoću uvođenja novog jezika, doslovno novih riječi, koje zauzvrat omogućavaju klijentu nova zapažanja. Tako se rađaju distinkcije koje znače trajnu promjenu. 
+
+Jednostavnije, kad vam netko osvijesti mrlju na košulji koju nosite (napravi tu distinkciju i nazove mrlju mrljom) više se ne možete praviti da ona ne postoji. Klijent je taj koji poduzima akciju, jednostavno zbog toga što sada ne može zanemariti postojanje toga nečega, odnosno oblači čistu košulju.
 
 
 
@@ -91,11 +99,13 @@ Coach je u stanju promijeniti klijentov doživljaj onoga što mu se događa tako
 
 *Coach* ne čini ništa umjesto klijenta, ne govori klijentu što da radi i ne sudi je li to što radi dobro ili loše. *Coacheva* zadaća je da u klijentu probudi sposobnost i odgovornost za svoje postupke. Shvatite ga kao najboljeg prijatelja koji gleda isključivo vašu dobrobit.
 
-Taj odnos krasi obostrano
+Odnos je nešto što ide u oba smjera. Krasi ga:
 
-1. *poštovanje*. Bit poštovanja je prihvaćanje drugoga onakvim kakvim jest i onakvim kakvim se predstavljaju.
-2. *Povjerenje*. Povjerenje je dar koji odlučimo pokloniti nekome.
-3. *Sloboda izražavanja*. Dijeljenje bez osude i obrane.
+1. **Obostrano poštovanje**. Bit poštovanja je prihvaćanje drugoga onakvim kakvim jest i onakvim kakvim se predstavljaju.
+
+2. **Obostrano Povjerenje**. Povjerenje je dar koji odlučimo pokloniti nekome.
+
+3. **Obostrana sloboda izražavanja**. Dijeljenje bez osude i obrane.
 
 
 
@@ -142,7 +152,7 @@ Kako sve ne bi ostalo na pukim riječima, pokazala je nedavna studija ICF-a (Int
 •	povećano samopouzdanje 52%
 
 
-###Problem je mogućnost strelovitog napretka.
+
 
 
 
