@@ -27,7 +27,7 @@ U cilju kvalitete izvedbe i dugoročnih rezultata, proces se sastoji od tri faze
 
 1.	PRIJE TRENINGA: razgovor i analiza, utvrđivanje potreba, utvrđivanje sadašnjeg i željenog stanja
 
-2.	TRRENING
+2.	TRENING
 
 3.	POSLIJE TRENINGA: popratne aktivnosti u svrhu utvrđivanja pređenog sadržaja, povratna informacija, mjerenje rezultata, kalibriranje željenog stanja, individualni akcijski plan
 
