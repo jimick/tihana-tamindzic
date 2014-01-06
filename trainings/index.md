@@ -32,7 +32,7 @@ U cilju kvalitete izvedbe i dugoročnih rezultata, proces se sastoji od tri faze
 3.	POSLIJE TRENINGA: popratne aktivnosti u svrhu utvrđivanja pređenog sadržaja, povratna informacija, mjerenje rezultata, kalibriranje željenog stanja, individualni akcijski plan
 
 
-## TEMATIKA
+## NEKE TEME
 **Škola trenera**
 
 Cjelovit i detaljan trening namjenjem usavršavanju osobe koja je zadužena za prijenos znanja u kompaniji. Ulaganje u edukaciju o edukaciji jednog internog edukatora omogućuje znatnu uštedu resursa i rasta kvalitete.
