@@ -101,7 +101,7 @@ Jednostavnije, kad vam netko osvijesti mrlju na košulji koju nosite (napravi tu
 
 Odnos je nešto što ide u oba smjera. Krasi ga:
 
-1. **Obostrano poštovanje**. Bit poštovanja je prihvaćanje drugoga onakvim kakvim jest i onakvim kakvim se predstavlja..
+1. **Obostrano poštovanje**. Bit poštovanja je prihvaćanje drugoga onakvim kakvim jest i onakvim kakvim se predstavlja.
 
 2. **Obostrano povjerenje**. Povjerenje je dar koji odlučimo pokloniti nekome.
 
