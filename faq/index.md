@@ -8,20 +8,20 @@ class: "page-collapsable"
 
 ## 1.) Što je *coaching*?
 
-###Partnerski odnos u kojem *coach* pomaže klijentu ostvariti njegov cilj.
+###Partnerski odnos u kojem *coach* podupire klijenta u ostvarenju cilja.
 
 Koje god prirode on bio. To je odnos koji nadahnjuje i vodi klijenta k povećavanju iskorištavanja svog osobnog i profesionalnog potencijala. Proces koji izaziva uvide, nove poglede i mogućnosti.  *Coachevi* kroz razgovor i  pitanja pomažu klijentu identificirati njegove vlastite ciljeve (želje, talente, snove, ograničenja, strahove), te podsjećajući ga na njegovo samopouzdanje i vještine, ubrzavaju  postizanje rezultata.
 
-Drugim riječima, kad odjednom postanete svjesni da  ne dobivate rezltate koje očekujete, uobičajena reakcija je negiranje ili promjena nečega što radite. Međutim, žurba na akciju bez zaustavljanja i promišljanja o uvjerenjima i vrijednostima koje tvore dio (nesvjesnog) vas, utječu na vaše izbore i ograničavaju postizanje kvalitetnog rezultata.
+Drugim riječima, kad odjednom postanete svjesni da ne dobivate rezltate koje očekujete, uobičajena reakcija je negiranje ili promjena nečega što radite. Međutim, žurba na akciju bez zaustavljanja i promišljanja o uvjerenjima i vrijednostima koje tvore dio (nesvjesnog) vas, utječu na vaše izbore i ograničavaju postizanje kvalitetnog rezultata.
 
-Od sportaša, preko domaćica do poslovnih ljudi, kvalitetan coaching  nezamjenjiv je faktor izvrsnosti. *Coaching* je proces koji je osmišljen na način da stvara rezultate, optimira izvedbu i time pomaže klijentu  poboljšati sveukupnu  kvalitetu  života. Suradnja iz koje klijent izlazi kao osvještena, proaktivna i zadovoljna individua koja je ovladala svojim vrlinama i manama te zna kada odigrati koju kartu.
+Od sportaša do poslovnih ljudi, kvalitetan coaching  nezamjenjiv je faktor izvrsnosti. *Coaching* je proces koji je osmišljen na način da stvara rezultate, optimira izvedbu i time pomaže klijentu  poboljšati sveukupnu  kvalitetu  života. Suradnja iz koje klijent izlazi kao osvještena, proaktivna i zadovoljna individua koja je ovladala svojim vrlinama i manama te zna kada odigrati koju kartu.
 
 
 
 
 ## 2.) Čime se *coaching* bavi?
 
-Onime što klijenta zaokuplja. Što ga muči. Tema može biti emocionalne prirode, može biti poslovne prirode. Bitno je da postoji pitanje odnosno nešto što klijent želi razriješiti, zaliječiti ili postići. 
+Onime što klijenta zaokuplja. Što ga muči.  Tema može biti emocionalne prirode, može biti poslovne prirode. Bitno je da postoji pitanje odnosno nešto što klijent želi razriješiti, zaliječiti ili postići. 
 
 Ljepota leži u tome da izvrsnost postignuta na bilo kojem polju, osobito na onom osobnom, utječe na sve aspekte klijentovog života.
 
@@ -61,7 +61,7 @@ Ako  ste na  sva pitanja odgovorili potvrdno, onda vama *coaching* može pomoći
 
 ## 4.) Koji su rezultati _coachinga_?
 
-Kažu da klijenti ponovno postaju autentične i kreativne individue. Autentične u smislu da ponovno postaju autori svoga života (od starolatinskog _authenticus_  koji dolazi od riječi _author_; od starogrčkog _authentikos_, koji dolazi od riječi _authentēs_: onaj koji djeluje neovisno). Dok kad kažem kreativne, mislim na onu životnu kreativnost koja vidi mogućnost izvan okvira trenutno ponuđenih opcija.
+Kažu da klijenti ponovno postaju autentične i kreativne individue. Autentične u smislu da se prisjećaju kako je to biti autor svoga života (od starolatinskog _authenticus_  koji dolazi od riječi _author_; od starogrčkog _authentikos_, koji dolazi od riječi _authentēs_: onaj koji djeluje neovisno). Kad kažem kreativne, mislim na onu kreativnost koja vidi mogućnost izvan okvira trenutno ponuđenih opcija.
 
 Ciljani rezultati svakog _coachinga_ su:
 
@@ -85,11 +85,11 @@ Uvijek u svakom pogledu možemo napredovati i iz svakog iskustva nešto naučiti
 Posao _coacha_ je da razumije na koji način klijent vidi, odnosno interpretira svijet, kako se ponaša, koje navike posjeduje, kako se izražava, u kojem raspoloženju živi. _Coach_ je u stanju osvijestiti klijentu tu strukturu interpretacije i učiniti je dostupnom za željene modifikacije. Da bi to postigao, mora moći promatrati način na koji klijent promatra te biti u stanju verbalizirati to natrag klijentu.
 
 
-> *Jezik postoji kao tip igre koji se održava na životu i ima smisla jedino u kontekstu svijeta stvorenog od samog tvorga jezika.* <small>Wittgestein</small>
+> *Jezik postoji kao tip igre koji se održava na životu i ima smisla jedino u kontekstu svijeta stvorenog od samog tvorca jezika.* <small>Wittgestein</small>
 
 Coach je u stanju promijeniti klijentov doživljaj onoga što mu se događa tako da mu učini dostupnim nove distinkcije (različitosti, osvještavanje nečega što se gledalo a nije vidjelo) i navike koje potom postaju trajni dio klijentove strukture interpretacije. To radi pomoću uvođenja novog jezika, doslovno novih riječi, koje zauzvrat omogućavaju klijentu nova zapažanja. Tako se rađaju distinkcije koje znače trajnu promjenu. 
 
-Jednostavnije, kad vam netko osvijesti mrlju na košulji koju nosite (napravi tu distinkciju i nazove mrlju mrljom) više se ne možete praviti da ona ne postoji. Klijent je taj koji poduzima akciju, jednostavno zbog toga što sada ne može zanemariti postojanje toga nečega, odnosno oblači čistu košulju.
+Jednostavnije, kad vam netko osvijesti mrlju na košulji koju nosite (napravi tu distinkciju i nazove mrlju mrljom) više se ne možete praviti da ona ne postoji. Klijent je taj koji poduzima akciju,  zbog toga što sada ne može zanemariti postojanje toga nečega, odnosno oblači čistu košulju.
 
 
 
@@ -101,9 +101,9 @@ Jednostavnije, kad vam netko osvijesti mrlju na košulji koju nosite (napravi tu
 
 Odnos je nešto što ide u oba smjera. Krasi ga:
 
-1. **Obostrano poštovanje**. Bit poštovanja je prihvaćanje drugoga onakvim kakvim jest i onakvim kakvim se predstavljaju.
+1. **Obostrano poštovanje**. Bit poštovanja je prihvaćanje drugoga onakvim kakvim jest i onakvim kakvim se predstavlja..
 
-2. **Obostrano Povjerenje**. Povjerenje je dar koji odlučimo pokloniti nekome.
+2. **Obostrano povjerenje**. Povjerenje je dar koji odlučimo pokloniti nekome.
 
 3. **Obostrana sloboda izražavanja**. Dijeljenje bez osude i obrane.
 
@@ -111,7 +111,7 @@ Odnos je nešto što ide u oba smjera. Krasi ga:
 
 ## 7.) Od kuda početi?
 
-Prije nego se klijent odluči za svoga *coacha*, vrlo je važno da se oni slažu na onoj osnovnoj razini i da klijent vidi može li i želi li zapravo  raditi s određenim _coachem_. Zato postoji mogućnost  da se klijent i *coach* nađu, porazgovaraju te definiraju logističke detalje (učestalost, trajanje, lokaciju, itd.), temelje međusobnog odnosa i ciljeve samog *coachinga*.
+Prije nego se klijent odluči za svoga *coacha*, vrlo je važno da se oni slažu na onoj osnovnoj razini i da klijent vidi može li i želi li zapravo  raditi s određenim _coachem_. Zato postoji mogućnost  da se klijent i *coach* susretnu, porazgovaraju te definiraju logističke detalje (učestalost, trajanje, lokaciju, itd.), temelje međusobnog odnosa i ciljeve samog *coachinga*.
 
 
 Uvijek se možemo dogovoriti za kavu  <coach@tihanatamindzic.com>
