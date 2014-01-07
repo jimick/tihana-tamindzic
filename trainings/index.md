@@ -18,7 +18,7 @@ Argument iza toga je jednostavan.  Koristeći metodu iskustvenog učenja polazni
 
 Drugim riječima, 10 polaznika dolazi na radionicu s različitim pitanjima, problematikom i iskustvom. Ako tih 10 polaznika nakon radionice odu s unificiranim odgovorom koji ona nudi, bez obzira radi li se o usvajanju određene vještine ili ulaganja u osobni napredak, učenje je kratkoročno i u najmanju ruku nemotivirajuće. Kod visokog postotka polaznika radionica nije učinila promjenu jer jednostavno nije dotaknula njihov sustav vrijednosti, stvari koje su njima bitne.
 
-**NLP i transformacijski coaching** doprinose doživljavanju polaznika kao jedinstvenu cjelinu pri procesu učenja, uzimajući u obzir sve njegove aspekte: fiziologija, raspoloženje, jezik (i naravno um). 
+**NLP i transformacijski coaching** doprinose doživljavanju polaznika kao jedinstvenu cjelinu pri procesu učenja, uzimajući u obzir sve njegove aspekte: fiziologiju, raspoloženje, jezik (i naravno um). 
 Konkretnije, ako želimo naučiti žonglirati nećemo samo raspravljati o teoriji i povijesti žongliranja (um),  nego ćemo  ustati i probati (fiziologija),  učiniti tu aktivnost zabavnom i željenom (raspoloženje) i dobro je zapamtiti učeći nekoga drugoga žonglirati (jezik).
 
 ## KAKO TO IZGLEDA?
