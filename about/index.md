@@ -49,7 +49,7 @@ Rado se sjećam dana kada sam aktivno djelovala kao instruktorica iskustvenog u�
 
 > Ako misliš da su pustolovine opasne, isprobaj rutinu; ona je smrtonosna. <small>Paulo Coelho</small>
 
-Moć neurolingvističkog programiranja ostavlja vrlo jak utisak na mene zbog svoje sposobnosti da matematičkom točnoću objasni osobni razvoj, otkrije kamen spoticanja i instalira rješenje. NLP je definitivno snažan lajtmotiv moga rada. Posebno me oplemenila moć jezika koju nudi meta i Milton model. Obzirom na moju lingvističku pozadinu, dala sam si truda i otkrila kako nije svejedno na koji način kažemo ono što mislimo i kako to dalje ima domino efekt na naše emocionalno i fizičko stanje a time i na našu budućnost. Trojedin pristup vrlo sličan onomu ontološkom. Praktičarskim vještinama me učila strpljiva Gordana Kastrapeli a uz pomoć Saše Tenodija sam postala Majstora.
+Moć neurolingvističkog programiranja ostavlja vrlo jak utisak na mene zbog svoje sposobnosti da matematičkom točnoću objasni osobni razvoj, otkrije kamen spoticanja i instalira rješenje. NLP je definitivno snažan lajtmotiv moga rada. Posebno me oplemenila moć jezika koju nudi meta i Milton model. Obzirom na moju lingvističku pozadinu, dala sam si truda i otkrila kako nije svejedno na koji način kažemo ono što mislimo i kako to dalje ima domino efekt na naše emocionalno i fizičko stanje a time i na našu budućnost. Trojedin pristup vrlo sličan onomu ontološkom. Praktičarskim vještinama me učila strpljiva Gordana Kastrapeli a uz pomoć Saše Tenodija sam postala Majstor.
 
 > Što govoriš, to postojiš. <small>dječja mudrost</small>
 
