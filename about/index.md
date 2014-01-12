@@ -8,7 +8,7 @@ class: "page-collapsable"
 
 
 
-vjeruje da ne postoji ništa što nas sprečava da iskoristimo svoj puni potencijal i budemo ono što želimo biti osim nas samih i zato prvo sebi svakodnevno postavlja nove izazove, a tek onda drugima. Trenutno radi na istrčavanju maratona. Vesela i radoznala, objašnjava da treninzima i _coachingom_ uživa stvarati podržavajuće okruženje i dragocjenu priliku kako bi svatko mogao odnijeti svoju pobjedu. Biti najbolja verzija sebe. Tvrdi da kao trener i _coach_, nema ljepšeg prizora do osnaženog i ozarenog klijenta. Uvjerena je da u zdravom tijelu živi zdrav duh i zato će uvijek otići s vama trčati, planinariti, nabacivati se s loptom ili jednostavno smijati se do suza u parku.
+vjeruje da ne postoji ništa što nas sprečava da iskoristimo svoj puni potencijal i budemo ono što želimo biti osim nas samih i zato prvo sebi svakodnevno postavlja nove izazove, a tek onda drugima. Trenutno radi na istrčavanju maratona. Vesela i radoznala, objašnjava da treninzima i _coachingom_ uživa stvarati podržavajuće okruženje i dragocjenu priliku kako bi svatko mogao odnijeti svoju pobjedu. Biti svoje remek-djelo. Tvrdi da kao trener i _coach_, nema ljepšeg prizora do osnaženog i ozarenog klijenta. Uvjerena je da u zdravom tijelu živi zdrav duh i zato će uvijek otići s vama trčati, planinariti, nabacivati se s loptom ili jednostavno smijati se do suza u parku.
 
 ![Tihana Tamindžić]({{ site.baseurl }}{{ site.assets.dirname }}/images/2.jpg)
 
@@ -16,7 +16,7 @@ Kao **profesorica** engleskog i francuskog jezika radom u struci pretočila je t
 
 Vjeruje da svatko od nas u sebi već nosi svo znanje potrebno da (re)kreira što god želi. Vidi _coaching_ kao proces koji pomaže: izvući na vidjelo to znanje, sagledati situaciju iz dosad previđene perspektive i preuzeti kontrolu nad kistom vašeg remek-djela u svoje ruke. _Coach_ postavlja pitanje, klijent pronalazi odgovor.
 
-Usavršila se u području primjenjene psihologije i postala **NLP majstor**. Poseban interes pokazuje u implementiranju te discipline modeliranja izvrsnosti u brzi poslovni svijet lidera i _managera_, što je i radila gotovo tri godine u Allianzu. Primjenjena verzija NLP-a u prodaji, organizaciji i rukovođenju pokazala se vrlo pragmatičnom i uspješnom jer daje odgovor na pitanje koje muči svaku podezetnu osobu: koja je razlika koja čini razliku uspješnih i zadovoljnih ljudi?
+Usavršila se u području primjenjene psihologije i postala **NLP majstor**. Poseban interes pokazuje u implementiranju te discipline modeliranja izvrsnosti u brzi poslovni svijet lidera i _managera_, što je i radila gotovo tri godine u Allianzu. Primjenjena verzija NLP-a u prodaji, organizaciji i rukovođenju pokazala se vrlo pragmatičnom i uspješnom jer daje odgovor na pitanje koje muči svaku poduzetnu osobu: koja je razlika koja čini razliku uspješnih i zadovoljnih ljudi?
 
 Specijalizirana je za **edukacijski management**. Drugim riječima, posebnu pažnju obraća na sistematiziran, dosljedan i nadahnjujući razvoj ljudskog potencijala. Posebno je stručna u oblikovanju i obučavanju onih koji rade s grupama ljudima, kao što su: edukatori, voditelji, treneri.
 
