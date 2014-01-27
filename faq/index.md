@@ -156,7 +156,7 @@ Kako sve ne bi ostalo na pukim riječima, pokazala je nedavna studija ICF-a (Int
 
 
 
-## 10.) Kako znam da je tako nešto za mene za mene?
+## 10.) Kako znam da je tako nešto za mene?
 
 ### Napravite mali test. Postavite sebi pitanja:
 
