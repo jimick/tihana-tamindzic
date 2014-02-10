@@ -21,7 +21,7 @@ Uskoro se otvara mogućnost da svi vi koji:
 u formalnom ili neformalnom okviru,
 napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
-[Škola trenera](http://www.skolatrenera.com)
+
 
 ## YOU TALKING TO ME?
 
