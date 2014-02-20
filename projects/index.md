@@ -22,6 +22,20 @@ u formalnom ili neformalnom okviru,
 napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
 
+## OUTWARD BeaTS, Basic Trainer Skills
+
+Outward BeaTS is designed for the ones interested in finally stating: “I have Basic Trainer Skills, I know they work and I`m not afraid to use them!” To top it all off a 2 day kayaking expedition as an outdoor education element is included in the training.
+
+Outward Bound presents an 8 day training held in the coastal Croatian town Vrsar, filled with hands-on activities, real-life examples and skill-building exercises that prepare participants to successfully hold workshops, 1-2 day trainings and walk away with a verified and individually tailored BTS toolkit they can immediately implement in their work. 
+
+Outward BeaTS specifically focuses on deepening the understanding of facilitation, coaching, feedback and experiential learning, improving in that way the needed professional competences. It will also point out different learning styles as well as different leading styles which can help ease the process of knowledge transfer and group dynamics. Outward BeaTS provides a space for practice and result measurement.
+ 
+
+http://www.outwardbound.hr/en/courses/trainers-skills-trainings/outward-beats
+
+
+## OUTWARD beATS, Advanced Trainer Skills
+
 
 ## YOU TALKING TO ME?
 
