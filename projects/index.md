@@ -26,11 +26,11 @@ napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
 **Basic Trainer Skills**
 
-Outward BeaTS is designed for the ones interested in finally stating: “I have Basic Trainer Skills, I know they work and I`m not afraid to use them!” To top it all off a *2 day kayaking expedition* as an outdoor education element is included in the training.
+Outward BeaTS is designed for the ones interested in finally stating: “I have Basic Trainer Skills, I know they work and I`m not afraid to use them!” To top it all off a **2 day kayaking expedition** as an outdoor education element is included in the training.
 
-This is an 8 day training held in the coastal *Croatian town Vrsar*, filled with hands-on activities, real-life examples and skill-building exercises that prepare participants to *successfully hold workshops, 1-2 day trainings* and walk away with a verified and *individually tailored BTS toolkit* they can immediately implement in their work. 
+This is an 8 day training held in the coastal **Croatian town Vrsar**, filled with hands-on activities, real-life examples and skill-building exercises that prepare participants to **successfully hold workshops, 1-2 day trainings** and walk away with a verified and **individually tailored BTS toolkit** they can immediately implement in their work. 
 
-Outward BeaTS specifically focuses on deepening the understanding of *facilitation, coaching, feedback* and *experiential learning techniques*, improving in that way the needed professional competences. It will also point out different learning styles as well as different leading styles which can help ease the process of *knowledge transfer* and group dynamics. Outward BeaTS provides a space for practice and result measurement.
+Outward BeaTS specifically focuses on deepening the understanding of **facilitation, coaching, feedback** and **experiential learning techniques**, improving in that way the needed professional competences. It will also point out different learning styles as well as different leading styles which can help ease the process of **knowledge transfer** and group dynamics. Outward BeaTS provides a space for practice and result measurement.
  
 
 [više informacija](http://www.outwardbound.hr/en/courses/trainers-skills-trainings/outward-beats)
@@ -42,13 +42,13 @@ Outward BeaTS specifically focuses on deepening the understanding of *facilitati
 ## OUTWARD beATS: Advanced Trainer Skills
 
 
-*Advanced Trainer Skills*
+**Advanced Trainer Skills**
 
-It`s designed for the ones who are interested in finally stating: I have Advanced Trainer Skills, a lot of practice and experience behind me…how can I help you? To top it all off, we included a *3 day diving experience* just for the sake of you having a chance getting to know yourself better.
+It`s designed for the ones who are interested in finally stating: I have Advanced Trainer Skills, a lot of practice and experience behind me…how can I help you? To top it all off, we included a **3 day diving experience** just for the sake of you having a chance getting to know yourself better.
 
-This is an 8 day training held in the coastal *Croatian town Vrsar*, filled with hands-on activities, real-life examples and skill-building exercises that prepare participants to successfully hold an extensive training and walk away with a verified and *individually tailored ATS toolkit* they can immediately implement in their work.
+This is an 8 day training held in the coastal **Croatian town Vrsar**, filled with hands-on activities, real-life examples and skill-building exercises that prepare participants to successfully hold an extensive training and walk away with a verified and **individually tailored ATS toolkit** they can immediately implement in their work.
 
-The main difference from its predecessor, Outward BeaTS which offers Basic Trainer Skills, is that this one gives you the opportunity to dive in further into the topic of Trainership and while playing with what you already know on one hand, expand old and master new skills on the other. Here we are moving towards not only understanding *leadership*, but breathing and being a leader. You will not only know *feedback*, you will use for rapid self improvement. You will not only know *coaching*, you will use it for swift participant transformation. You will engage in serious *decision making processe*s and learn about *responsibility, organization* and *management*. Your *communication and presentation skills* will also excel.
+The main difference from its predecessor, Outward BeaTS which offers Basic Trainer Skills, is that this one gives you the opportunity to dive in further into the topic of Trainership and while playing with what you already know on one hand, expand old and master new skills on the other. Here we are moving towards not only understanding **leadership**, but breathing and being a leader. You will not only know **feedback**, you will use for rapid self improvement. You will not only know **coaching**, you will use it for swift participant transformation. You will engage in serious **decision making processes** and learn about **responsibility, organization** and **management**. Your **communication and presentation skills** will also excel.
 
 
 Više informacija
