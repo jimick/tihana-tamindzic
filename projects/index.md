@@ -24,7 +24,7 @@ napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
 ## OUTWARD BeaTS: Basic Trainer Skills
 
-*Basic Trainer Skills*
+**Basic Trainer Skills**
 
 Outward BeaTS is designed for the ones interested in finally stating: “I have Basic Trainer Skills, I know they work and I`m not afraid to use them!” To top it all off a *2 day kayaking expedition* as an outdoor education element is included in the training.
 
