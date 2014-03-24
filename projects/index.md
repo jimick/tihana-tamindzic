@@ -31,7 +31,7 @@ Prvi dio jednostvano naslovljen JA, fokusira se na osobni razvoj i transformacij
 
 Dodatni četvrti dio u sebi sadrži samo jedan modul Pozicioniranja i prodaje je otvoren za one koji se žele osamostaliti i pokrenuti vlastiti biznis, a besplatan onima koji su završili Školu Trenera.
 
-[Škola Trenera](www.skolatrenera.com)
+[Škola Trenera](http://www.skolatrenera.com)
 
 
 ## OUTWARD BeaTS: Basic Trainer Skills
