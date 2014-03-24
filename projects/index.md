@@ -21,6 +21,18 @@ Uskoro se otvara mogućnost da svi vi koji:
 u formalnom ili neformalnom okviru,
 napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
+Treneri intenzivno rade na sebi i znaju u što vrijedi uložiti energiju i vrijeme a u što ne. Tijekom tri dijela od kojih je svaki podijeljen u tri vikend modula, polaznici imaju priliku aktivno raditi na vlastitoj izvrsnosti i podržavaju jedan drugoga. Izvrstan trener zna da je cjelina jača od zbroja njezinih dijelova. Treneri rade na svojoj izvrsnosti
+
+Za vrijeme vikend modula, izmjena teorije i prakse na dnevnoj bazi traje otprilike 8 sati,  gdje su ubrojane i pauze.
+
+Škola je Trenera pažljivo osmišljena kako bi i sama, baš onako kako će predstaviti svojim polaznicima, tvorila metodičku cjelinu, gdje redoslijed nizanja svakog dijela i modula igra važnu ulogu i gdje svaki prethodni modul otvara mjesto onom koji slijedi, zaokružujući u konačnici osobni razvoj, stjecanje znanja i uvježbavanje naučenog.
+
+Prvi dio jednostvano naslovljen JA, fokusira se na osobni razvoj i transformaciju perspektive na privatnoj razini. To radi podizanjem svijesti i donošenjem konkretnih odluka. Drugi dio, pod nazivom KAKO, stavlja naglasak na znanstvena ishodišta trenerstva, teorijsku podlogu i istaknute ličnosti u području edukacije kao i njihove modele, te razvoj osnovnih vještina: komunikacijskih, prezentacijskih, pedagoških i onih coaching. Strukturiranje treninga, njegov put od ideje do izvedbe i usavršavanja svoje mjesto ima poslijednjem dijelu Škole Trenera -  ONI.
+
+Dodatni četvrti dio u sebi sadrži samo jedan modul Pozicioniranja i prodaje je otvoren za one koji se žele osamostaliti i pokrenuti vlastiti biznis, a besplatan onima koji su završili Školu Trenera.
+
+[Škola Trenera](www.skolatrenera.com)
+
 
 ## OUTWARD BeaTS: Basic Trainer Skills
 
