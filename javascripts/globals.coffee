@@ -1,3 +1,6 @@
+---
+---
+
 do ($ = jQuery) ->
 
   window.App =

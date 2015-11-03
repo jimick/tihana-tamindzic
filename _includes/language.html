@@ -4,22 +4,22 @@
       {% if p.path == page.path %}
         {% case page.lang %}
         {% when "hr" %}
-          <a class="language-croatia active" href="{{ site.baseurl }}{{ p.path }}"></a>
-          <a class="language-usa" href="{{ site.baseurl }}en/{{ p.path }}"></a>
+          <a class="language-croatia active" href="/{{ p.path }}"></a>
+          <a class="language-usa" href="/en/{{ p.path }}"></a>
         {% when "en" %}
-          <a class="language-croatia" href="{{ site.baseurl }}{{ p.path }}"></a>
-          <a class="language-usa active" href="{{ site.baseurl }}en/{{ p.path }}"></a>
+          <a class="language-croatia" href="/{{ p.path }}"></a>
+          <a class="language-usa active" href="/en/{{ p.path }}"></a>
         {% endcase %}
       {% endif %}
     {% endfor %}
   {% else %}
     {% case page.lang %}
     {% when "hr" %}
-      <a class="language-croatia active" href="{{ site.baseurl }}"></a>
-      <a class="language-usa" href="{{ site.baseurl }}en"></a>
+      <a class="language-croatia active" href="/"></a>
+      <a class="language-usa" href="/en"></a>
     {% when "en" %}
-      <a class="language-croatia" href="{{ site.baseurl }}"></a>
-      <a class="language-usa active" href="{{ site.baseurl }}en"></a>
+      <a class="language-croatia" href="/"></a>
+      <a class="language-usa active" href="/en"></a>
     {% endcase %}
   {% endunless %}
 </div>

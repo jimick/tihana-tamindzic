@@ -1,8 +1,8 @@
 name: tihana tamindžić
 markdown: redcarpet
-pygments: true
-port: 3000
-exclude: [Gemfile, Gemfile.lock, .sass-cache, _assets, _vendor]
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
-assets:
-  dirname: assets
+sass:
+  sass_dir: stylesheets

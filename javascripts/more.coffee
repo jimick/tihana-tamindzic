@@ -1,3 +1,6 @@
+---
+---
+
 jQuery ($) ->
 
   if /about/.test(location.pathname)

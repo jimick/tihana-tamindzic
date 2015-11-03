@@ -10,7 +10,7 @@ class: "page-collapsable"
 
 vjeruje da ne postoji ništa što nas sprečava da iskoristimo svoj puni potencijal i budemo ono što želimo biti osim nas samih i zato prvo sebi svakodnevno postavlja nove izazove, a tek onda drugima. Trenutno radi na istrčavanju maratona. Vesela i radoznala, objašnjava da treninzima i _coachingom_ uživa stvarati podržavajuće okruženje i dragocjenu priliku kako bi svatko mogao odnijeti svoju pobjedu. Biti svoje remek-djelo. Tvrdi da kao trener i _coach_, nema ljepšeg prizora do osnaženog i ozarenog klijenta. Uvjerena je da u zdravom tijelu živi zdrav duh i zato će uvijek otići s vama trčati, planinariti, nabacivati se s loptom ili jednostavno smijati se do suza u parku.
 
-![Tihana Tamindžić]({{ site.baseurl }}{{ site.assets.dirname }}/images/2.jpg)
+![Tihana Tamindžić](/images/2.jpg)
 
 Kao **profesorica** engleskog i francuskog jezika radom u struci pretočila je teorijska znanja metodike, didaktike i pedagogije u praksu, odvojila je za edukaciju _coachinga_ i onu **transformacijskog trenera** par godina u Nizozemskoj, a kasnije nastavila u Hrvatskoj s Patom Groveom. Sudjelovala i održavala brojne internacionalne treninge osobnog razvoja i _coachinga_, zajedno s kolegama osnovala je Syncro i udrugu za mlade Synergy Croatia, instruktorica je Hrvatske škole Outward Bound u mirovanju i **coach** Hrvatske udruge za _coaching_.
 

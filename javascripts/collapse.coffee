@@ -1,3 +1,6 @@
+---
+---
+
 jQuery ($) ->
 
   if $(".page-collapsable").length

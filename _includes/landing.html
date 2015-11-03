@@ -3,7 +3,7 @@
 </div>
 
 <div class="jumbotron">
-  <a class="jumbotron-logo" href="{{ site.baseurl }}"><i class="icon-logo"></i></a>
+  <a class="jumbotron-logo" href="/"><i class="icon-logo"></i></a>
 
   {% include elevator-phrase.html %}
 </div>
@@ -15,11 +15,11 @@
       <li>
         {% case page.lang %}
         {% when "hr" %}
-          <a href="{{ site.baseurl }}{{ p.path }}">
+          <a href="/{{ p.path }}">
             <span>{{ p.title_hr }}</span>
           </a>
         {% when "en" %}
-          <a href="{{ site.baseurl }}en/{{ p.path }}">
+          <a href="/en/{{ p.path }}">
             <span>{{ p.title_en }}</span>
           </a>
         {% endcase %}
