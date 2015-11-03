@@ -55,9 +55,9 @@ Ne bi li bilo olakšavajuće saznati da sve možete pronaći na jednom mjestu. K
 
 •	**Ubrzano ćete se razvijati**: treneri odmah nakon usvajanja najbitnijih informacija, imaju priliku izvježbati način na koji vode grupu u trećem dijelu Škole trenera. Na taj način odmah dobivaju povratnu informaciju od više ljudi: svojih kolega I Glavnog trenera. A kasnije, prilikom stvarnog treninga kojeg organiziraju i održe, na kojem je prisutan I Glavni trener, imaju priliku usvojiti I promijeniti sve prethodne informacije nastaviti se razvijati kroz individualni coaching s Coachem.
 
-•**Održat ćete vlastiti trening/radionicu**: želimo stvoriti Trenere koji će trenirati a ne priati o tome. Jedan od uvjeta prilikom upisa jest da nakon završene edukacije održite I vlastiti trening/radionicu. Možete računati na našu potporu I pomoć na svakom koraku. Za to I jeste tu, zar ne? Ako već držite treninge/radionice, tim bolje. Jer u oba slučaja Glavni trener će biti prisutan na vašem treningu/radionici. Nema diplome bez real life situacije 
+•**Održat ćete vlastiti trening/radionicu**: želimo stvoriti Trenere koji će trenirati a ne priati o tome. Jedan od uvjeta prilikom upisa jest da nakon završene edukacije održite I vlastiti trening/radionicu. Možete računati na našu potporu I pomoć na svakom koraku. Za to I jeste tu, zar ne? Ako već držite treninge/radionice, tim bolje. Jer u oba slučaja Glavni trener će biti prisutan na vašem treningu/radionici. Nema diplome bez *real life* situacije! 
 
-•	**Postat ćete leade**r: kako se zove osoba koja poznaje sebe, ima jasnu viziju kamo ide, zna kako do tamo doći, zna potaknuti druge da I oni pođu? Samopouzdana je, proaktivna, kreativna, energična I zrela?  Leader.
+•	**Postat ćete *leader***: kako se zove osoba koja poznaje sebe, ima jasnu viziju kamo ide, zna kako do tamo doći, zna potaknuti druge da I oni pođu? Samopouzdana je, proaktivna, kreativna, energična I zrela?  Leader.
 
 •	**Modul Prodaja: 11. modul opcionalan I besplatan za Polaznike.**
 
@@ -76,9 +76,9 @@ Dinamika održavanja modula je svaka tri tjedna. Između modula polaznici dobiva
 Dakle kompletna Škola trenera je intenzivno iskustvo koje traje 8 mjeseci. Dovoljno kratko da ne dosadi, dovoljno dugo da ostavi utisak. Sadrži dio vođenog učenja: moduli i samostalnog učenja: prostor između modula.
 	 
 
-        **JA
--kako radim sam sa sobom-
-prvi dio: sastoji se od tri modula***
+        **JA**
+**-kako radim sam sa sobom-**
+**prvi dio: sastoji se od tri modula***
 1.	Koliko dobro se poznajem
 2.	Koja je razlika između dobrog I izvrsnog trenera?
 3.	Upravljanje stresom I promjenama
@@ -98,16 +98,17 @@ prvi dio: sastoji se od tri modula***
 •	Vlada promjenama I fleksibilan je
 •	Vlada sposobnosti odlučivanja
 
-        **ONI
--kako radim s drugima-
-drugi dio: sastoji se od četiri modula**
+        **ONI**
+**-kako radim s drugima-**
+**drugi dio: sastoji se od četiri modula**
 1.	Pristup usvajanju znanja
 2.	Grupni rad
 3.	Individualni rad
 4.	Što sve može poći po zlu?
 
 **IZRAVNE KORISTI/TEME DRUGOG DIJELA**
-•	Su dosljedni, autentični i iskreni	•	Vlada osnovama coachinga
+•	Su dosljedni, autentični i iskreni
+•	Vlada osnovama *coachinga*
 •	Vlada osnovama NLP-a (neurolingvističkog programiranja)
 •	Razumije pedagoške i psihološke pristupe odgoju i obrazovanju
 •	Razumije princip iskustvenog učenja
@@ -117,15 +118,16 @@ drugi dio: sastoji se od četiri modula**
 •	Uspješno stvara  odnos (rapport) s grupom i pojedincem
 •	Uspješno prati dinamiku grupe i održava razinu pažnje   
 
-       **PUT DO IZVRSNOSTI
--kako vladam svojim resursima-
-treći dio: sastoji se od tri modula**
+       **PUT DO IZVRSNOSTI**
+**-kako vladam svojim resursima-**
+**treći dio: sastoji se od tri modula**
 1.  Strategija izrade treninga
 2.  Načini izvedbe treninga
 3.  Kako učiniti trening uspješnim?
 
 **IZRAVNE KORISTI/TEME TREĆEG DIJELA**
-•	Zna razriješiti konfliktne situacije I raditi s problematičnim polaznicima	•	Zna stukturirati trening od ideje do izvedbe
+•	Zna razriješiti konfliktne situacije I raditi s problematičnim polaznicima	
+•	Zna stukturirati trening od ideje do izvedbe
 •	Zna izmjeriti i koristiti rezultate održane edukacije
 •	Uspješno prezentira i koristi prostor
 •	Koristi interaktivne prezentacijske vještine
@@ -133,14 +135,14 @@ treći dio: sastoji se od tri modula**
 •	Uspješno prima, daje i uči iz povratne informacije
 •	Vlada utjecajnom (neverbalnom) komunikacijom
 •	Zna motivirati polaznike
-•	Pokazuje karakeristike predvodnika (leadera)
+•	Pokazuje karakeristike predvodnika (*leadera*)
 •	Je samopouzdan i predvodi primjerom		
 
 **OPCIONALNO I BESPLATNO**
-Voditelj edukacije/coach prisutan na stvarnom treningu koji polaznik odrađuje + povratne informacije
+Glavni trener/*coach* prisutan na stvarnom treningu koji polaznik odrađuje + povratne informacije
 
 **OPCIONALNO**
-Individualni coaching svakog polaznika
+Individualni *coaching* svakog polaznika
 
 
 **Metode rada**
@@ -152,22 +154,22 @@ diskusije, igre, povratna informacija
 
 
 **TKO JE TRENER?**
-„Ako  ne znaš objasniti na jednostavan način, ne razumiješ temu dovoljno dobro.“
-Einstein
+*„Ako  ne znaš objasniti na jednostavan način, ne razumiješ temu dovoljno dobro.“*
+*Einstein*
 
 Prenošenje znanja je umjetnost. Nemojte mi vjerovati na riječ nego provjerite odmah.  
 Sjetite se teme koja vam je jako draga i koja vas inspirira. Jeste?  Dobro. Zamislite da čitate članak ili knjigu na tu temu kako biste naučili nešto više jednostavno zato što vas zanima. Uživate, tema vas ponese, brzo čitate, zar ne? Cilj je zadovoljstvo i zadovoljavanje znatiželje. 
 
 Zamislite sada da čitate taj isti članak s ciljem prenošenja informacija iz teksta nekomedrugome. Po mogućnosti nekome kome treba još malo predznanja da bi shvatio o čemu pričate. Način na koji ćete čitati taj tekst i način na koji ćete mu pristupati dok vam se budu u mislima rojile ideje i metafore:  aha ovo je važno, a ovo bi mogao predstaviti  kroz aktivnost u paru, i kako da mu ovo ne kažem direktno već da sam dođe do rješenja? 
 
-Uspjeh je samo 20% talenta. Ostao je rad i vježba.
+*Uspjeh je samo 20% talenta. Ostao je rad i vježba.*
 
 Ako se sada smješkate i kimate glavom, bili ste u ovakvoj pedagoškoj situaciji i razumijete dosjetljivost prenošenja znanja. I znate da je uspjeh samo 20% talenta. Ostao je rad i vježba.
 Trener je uloga koja nam je poznata iz sportskog svijeta. I već imamo poprilično dobru sliku o tome što je to što jedan sportski trener radi. Bilo da se radi o timskom sportu ili individualnom, trener je taj koji smišlja i prilagođava pobjedničku strategiju i  vodi igrače od početka do pobjede. Trener je taj koji korak po korak uvodi nove elemente, uvježbava, provjerava naučeno, usklađuje, pomaže, pokazuje, coacha, sugerira, motivira, vodi primjerom i u konačnici omogućava igraču odnijeti pobjedu. Stvara priliku da igrač postane trener.
 Trener vještina i osobnog razvoja radi upravo to samo što je pobjeda koju on omogućava ona na poslovnom ili osobnom planu. Jer svi smo mi igrači neke svoje utakmice. Bilo da se radi o prodajnim vještinama, koristima određenog proizvoda,  rada na samopouzdanju, pronalaženju partnera, tečaja šivanja ili kuhanja...princip je jednak.
 
-„ Strategija zahtijeva razmišljanje, taktika zahtijeva promatranje.“  A uspjeh djelovanje i ustrajnost.
- Max Euwe
+*„Strategija zahtijeva razmišljanje, taktika zahtijeva promatranje.“  A uspjeh djelovanje i ustrajnost.*
+ *Max Euwe*
 
 Trener u isto vrijeme ima na umu  generalnu svrhu, odnosno što se zapravo želi postići cjelokupnim treningom,  i  kratkoročne ciljeve, odnosno kako razlomiti veliki zalogaj na manje, lakše probavljive komadiće. U isto vrijeme ima u vidu želje individualca i potrebe grupe koju oni zajedno tvore. Sam usklađuje kontekst i sadržaj treninga koji daje. To može zato što je dobro utreniran. I on je nekad bio polaznik.
 Trener zna da je cjelina  puno više od zbroja njezinih djelova.
