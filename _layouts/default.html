@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% include webfonts.html %}
     {% include analytics.html %}
-    <link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets.dirname }}/stylesheets/application.css">
+    <link rel="stylesheet" href="/stylesheets/application.css">
   </head>
 
   <body class="page-{{ page.path }} {{ page.class }}">
@@ -49,9 +49,9 @@
 
             {% case page.lang %}
             {% when "hr" %}
-              <li class="{{ klass }}"><a href="{{ site.baseurl }}{{ p.path }}">{{ p.title_hr }}</a></li>
+              <li class="{{ klass }}"><a href="/{{ p.path }}">{{ p.title_hr }}</a></li>
             {% when "en" %}
-              <li class="{{ klass }}"><a href="{{ site.baseurl }}en/{{ p.path }}">{{ p.title_en }}</a></li>
+              <li class="{{ klass }}"><a href="/en/{{ p.path }}">{{ p.title_en }}</a></li>
             {% endcase %}
           {% endfor %}
 
@@ -69,6 +69,12 @@
 
     {% include js.html %}
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}{{ site.assets.dirname }}/javascripts/application.js"></script>
+    <script src="/javascripts/bootstrap.min.js"></script>
+
+    <script src="/javascripts/globals.js"></script>
+
+    <script src="/javascripts/collapse.js"></script>
+    <script src="/javascripts/more.js"></script>
+    <script src="/javascripts/off-canvas.js"></script>
   </body>
 </html>

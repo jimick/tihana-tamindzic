@@ -1,6 +1,6 @@
 <div class="navigation-bar visible-xs clearfix">
   <a class="navigation-toggle off-canvas-toggle" href="#"><i class="icon-menu"></i></a>
-  <a class="navigation-logo" href="{{ site.baseurl }}"><i class="icon-logo"></i></a>
+  <a class="navigation-logo" href="/"><i class="icon-logo"></i></a>
 
   {% include language.html %}
 </div>
@@ -8,7 +8,7 @@
 
 <nav class="navigation-desktop hidden-xs" role="navigation" class="list-group">
   <div class="list-group-item navigation-logo">
-    <a href="{{ site.baseurl }}"><i class="icon-logo"></i></a>
+    <a href="/"><i class="icon-logo"></i></a>
   </div>
 
   {% for p in site.data.pages %}
@@ -20,9 +20,9 @@
 
     {% case page.lang %}
     {% when "hr" %}
-      <a class="list-group-item {{ klass }}" href="{{ site.baseurl }}{{ p.path }}">{{ p.title_hr }}</a>
+      <a class="list-group-item {{ klass }}" href="/{{ p.path }}">{{ p.title_hr }}</a>
     {% when "en" %}
-      <a class="list-group-item {{ klass }}" href="{{ site.baseurl }}en/{{ p.path }}">{{ p.title_en }}</a>
+      <a class="list-group-item {{ klass }}" href="/en/{{ p.path }}">{{ p.title_en }}</a>
     {% endcase %}
   {% endfor %}
 

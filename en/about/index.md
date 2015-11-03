@@ -9,7 +9,7 @@ lang: en
 
 Believes nothing is stopping us from using our full potential or from being what we want to be except ourselves, so before challenging others she constantly creates new ones for herself. At the moment she is working on finishing a running marathon. Cheerful and inquisitive, Tihana explains that using coaching and trainings she enjoys creating a supportive surrounding and a valuable opportunity for everyone to take away their own victory. To be the best version of themselves. As a trainer and as a coach, she feels best upon seeing an empowered and radiant client. Tihana lives up to the Latin saying _Mens sana in corpora sano_ and that is why she will always join you for a run, a hike, a ballgame or simply laugh her pants off with you wherever.
 
-![Tihana Tamindžić]({{ site.baseurl }}{{ site.assets.dirname }}/images/2.jpg)
+![Tihana Tamindžić](/images/2.jpg)
 
 Working as an English and French **teacher**, she put into practice all the theoretical knowledge on didactics, methodics and pedagogy; took a couple of years in Holland to educate herself further on being a coach and **transformational trainer**; cooperated and held numerous international personal development and coaching trainings;  together with her colleagues founded Syncro and Synergy Croatia, an NGO; proud to have been an Outward Bound instructor.
 
@@ -29,7 +29,7 @@ Tihana is an expert in the field of **educational management**, in other words, 
 I finished IV. Language grammar school and Faculty of Humanities and Social Sciences in Zagreb which gave me a diploma in English and French language and literature. Drawn by the thought of teaching,  because of a direct impact into young people modeling and education, through the teacher role I had a chance to work in elementary schools, high schools and foreign language schools. The private tutoring lessons I gave never consisted solely from grammar improvement or conversational skills proficiency. They were regularly spiced up with a bit of personal development, so that, money aside, my reward was also the enthusiasm and satisfaction of a client.
 
  ### Early on I discovered that education was a process not a goal.
- 
+
 I was always interested in the way people function. Why is it they do the things they do, why they do not change the patterns leading nowhere. Why the hell don`t they? How come my truth differs from yours? What are beliefs, where do they come from and why are they sometimes limiting? So I dipped into the field of psychology and kept myself busy by reading, exploring and taking action.
 
 > The real voyage of discovery consists not in seeking new lands but seeing with new eyes. <small>Marcel Proust</small>
@@ -43,7 +43,7 @@ Unfortunately I was not blessed with the knowledge of Dutch but with the desire 
 
 > Our deepest fear isn`t that we are inadequate.
 Our deepest fear is that we are powerful beyond measure.
-It is our light not our darkness that frightens us most. 
+It is our light not our darkness that frightens us most.
 We ask ourselves, who am I to be brilliant, gorgeous, talented, and fabulous? Actually, who are you not to be? <small>Marianne Wiliamson</small>
 
 ### I believe people are a limitless possibility.

@@ -1,5 +1,2 @@
-.binstubs
-.bundle
 .sass-cache
 _site
-_assets/javascripts/*.js
