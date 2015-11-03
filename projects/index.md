@@ -21,15 +21,163 @@ Uskoro se otvara mogućnost da svi vi koji:
 u formalnom ili neformalnom okviru,
 napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
-Treneri intenzivno rade na sebi i znaju u što vrijedi uložiti energiju i vrijeme a u što ne. Tijekom tri dijela od kojih je svaki podijeljen u tri vikend modula, polaznici imaju priliku aktivno raditi na vlastitoj izvrsnosti i podržavaju jedan drugoga. Izvrstan trener zna da je cjelina jača od zbroja njezinih dijelova. Treneri rade na svojoj izvrsnosti
+**ŠTO JE ŠKOLA TRENERA?**
+Škola trenera je cjelovita edukacija koja omogućava usvajanje pozadine, vještina i tajni vođenja različitih vrsta prenošenja znanja: treninga, radionica, seminara, predavanja itd.
+Škola trenera želi stvoriti kvalitetne i motivirane stručnjake u području prenošenja znanja i vještina. Cilj joj je osnažiti i istrenirati Trenera dok ne postane najbolja verzija sebe. Želja joj je da kroz nju Trener postane i leader te da ona bude posljednja edukacija te vrste koju će Trener pohađati. Zato što će mu otkriti metode neprekidnog razvoja i usavršavanja. Sastoji se od tri dijela, svaki od kojih obuhvaća nezaobilazne teme u treniranju jednog Trenera:
 
-Za vrijeme vikend modula, izmjena teorije i prakse na dnevnoj bazi traje otprilike 8 sati,  gdje su ubrojane i pauze.
+**1. dio: JA**
+koliko dobro se poznajem, kako koristim svoje jake i slabe strane i kakav trener želim biti. Odgovara na pitanje tko i što?
 
-Škola je Trenera pažljivo osmišljena kako bi i sama, baš onako kako će predstaviti svojim polaznicima, tvorila metodičku cjelinu, gdje redoslijed nizanja svakog dijela i modula igra važnu ulogu i gdje svaki prethodni modul otvara mjesto onom koji slijedi, zaokružujući u konačnici osobni razvoj, stjecanje znanja i uvježbavanje naučenog.
+**2. dio: ONI**
+koliko dobro radim s individuama, s grupom. Odgovara na pitanje kako i zašto?
 
-Prvi dio jednostvano naslovljen JA, fokusira se na osobni razvoj i transformaciju perspektive na privatnoj razini. To radi podizanjem svijesti i donošenjem konkretnih odluka. Drugi dio, pod nazivom KAKO, stavlja naglasak na znanstvena ishodišta trenerstva, teorijsku podlogu i istaknute ličnosti u području edukacije kao i njihove modele, te razvoj osnovnih vještina: komunikacijskih, prezentacijskih, pedagoških i onih coaching. Strukturiranje treninga, njegov put od ideje do izvedbe i usavršavanja svoje mjesto ima poslijednjem dijelu Škole Trenera -  ONI.
+**3.dio: PUT DO IZVRSNOSTI**
+kako upravljam svojim resursima i strategijom napredovanja. Odgovara na pitanje što ako?
+Cjelovita u smislu da obuhvaća sve ono što je potrebno da jedan polaznik ode s vašeg treninga s teorijom, praksom i motivacijom. Željan ulagati dalje u sebe i druge. Cilj je da učenik postane učiteljem. Dolazi u in house i open call obliku.
 
-Dodatni četvrti dio u sebi sadrži samo jedan modul Pozicioniranja i prodaje je otvoren za one koji se žele osamostaliti i pokrenuti vlastiti biznis, a besplatan onima koji su završili Školu Trenera.
+**KOME JE NAMJENJENA**
+•	Trenerima koji žele biti izvrsni u svom poslu
+•	Voditeljima koji žele vrhunsku uigranost i motivaciju svoga tima
+•	Organizatorima koji žele vidljive rezultate
+•	Managerima koji žele učinkovito iskoristiti svoje vrijeme
+•	Nastavnicima koji žele povesti primjerom
+•	Edukatorima koji žele dovesti svoju stručnost do zavidne razine
+•	Vama koji imate prirodan talent rada s ljudima i želite otvoriti svoj posao
+
+Ako  na postojećem radnom mjestu vodite timove ljudi, održavate treninge, educirate potencijalne klijente ili zaposlenike, uvježbavate polaznike, držite radionice ili nastavne jedinice, facilitirate tematska okupljanja, sigurno to radite intuitivno jako dobro jer ste prirodno nadareni za takvu vrstu posla. Obzirom da ste i sposobni, uspješno ste do sad održavali potrebna znanja, putem pohađanja seminara, čitanja knjiga i članaka ili čak razmjenjivanja informacija s kolegama. 
+
+Može biti da ste nezaposleni. U jednom trenutku u svom životu ste imali iskustva u radu s ljudima, bilo individualnom ili grupnom i znate da vas takav rad ispunjava. Razmišljate o tome da se napokon i vi osamostalite i zaposlite same sebe. Samo otkuda početi. Škola trenera nudi i dodatni modul pod nazivom Prodaja, čija znanja osiguravaju definiranje niše, definiranje proizvoda i ciljne skupine, besprijekorno pozicioniranje na tržištu, marketing, rješavanje sebe kao pravne osobe, poslovnog prostora i financiranja.
+Ne bi li bilo olakšavajuće saznati da sve možete pronaći na jednom mjestu. Kompletno školovanje za jednog trenera,  nepresušan izvor resursa rasta u obliku zajednice kolega sličnih iskustava i znanja, materijala, medije i poslovnih prilika.
+
+
+**ZAŠTO UPISATI ŠKOLU TRENERA?**
+•	**Dugoročno ćete smanjiti svoje troškove**: ulaganjem u sebe zadržavate i poboljšavate dosad akumulirano znanje i resurse,  generirate vlastitu specijalizaciju, podižete kvalitetu izvedbe i usluge.
+
+•	**Ubrzano ćete se razvijati**: treneri odmah nakon usvajanja najbitnijih informacija, imaju priliku izvježbati način na koji vode grupu u trećem dijelu Škole trenera. Na taj način odmah dobivaju povratnu informaciju od više ljudi: svojih kolega I Glavnog trenera. A kasnije, prilikom stvarnog treninga kojeg organiziraju i održe, na kojem je prisutan I Glavni trener, imaju priliku usvojiti I promijeniti sve prethodne informacije nastaviti se razvijati kroz individualni coaching s Coachem.
+
+•**Održat ćete vlastiti trening/radionicu**: želimo stvoriti Trenere koji će trenirati a ne priati o tome. Jedan od uvjeta prilikom upisa jest da nakon završene edukacije održite I vlastiti trening/radionicu. Možete računati na našu potporu I pomoć na svakom koraku. Za to I jeste tu, zar ne? Ako već držite treninge/radionice, tim bolje. Jer u oba slučaja Glavni trener će biti prisutan na vašem treningu/radionici. Nema diplome bez real life situacije 
+
+•	**Postat ćete leade**r: kako se zove osoba koja poznaje sebe, ima jasnu viziju kamo ide, zna kako do tamo doći, zna potaknuti druge da I oni pođu? Samopouzdana je, proaktivna, kreativna, energična I zrela?  Leader.
+
+•	**Modul Prodaja: 11. modul opcionalan I besplatan za Polaznike.**
+
+•	**Dobit ćete zajednicu**: kolega Trenera, njihovog iskustva, snanlaženja iz nezgodnih situacija I naputaka za izvrsnost. Platformu kroz koju ćete komunicirati I dijeliti to iskustvo. Literaturu, evente, mogućnosti. Drugim riječima, pred vama se otvara  cijeli Trening svijet.
+
+
+Treneri koji su završili Školu Trenera prošli su kroz osobnu transformaciju (prvi dio), ovladali edukacijskim managementom (drugi I treći dio) te su spremni za ulogu Trenera znanja i vještina I mogu se pohvaliti:
+
+Stručnim znanjem Trenera
+Praktičnim znanjem Trenera
+
+
+**KAKO IZGLEDA ŠKOLA TRENERA?**
+Škola trenera se sastoji od  10 dvodnevnih modula koji su podijeljeni u tri dijela.
+Dinamika održavanja modula je svaka tri tjedna. Između modula polaznici dobivaju zadatke.
+Dakle kompletna Škola trenera je intenzivno iskustvo koje traje 8 mjeseci. Dovoljno kratko da ne dosadi, dovoljno dugo da ostavi utisak. Sadrži dio vođenog učenja: moduli i samostalnog učenja: prostor između modula.
+	 
+
+        **JA
+-kako radim sam sa sobom-
+prvi dio: sastoji se od tri modula***
+1.	Koliko dobro se poznajem
+2.	Koja je razlika između dobrog I izvrsnog trenera?
+3.	Upravljanje stresom I promjenama
+
+**IZRAVNE KORISTI/TEME PRVOG DIJELA**
+•	Razumije da prvo treba biti svoj trener pa tek onda tuđi
+•	Zna što hoće i kamo ide (upravlja ciljevima I vremenom)
+•	Zna iskoristiti svoje jake strane i osnažiti one slabe
+•	Bolje upravlja svojim navikama
+•	Razlikuje samonametnuta i stvarna ograničenja
+•	Zna na kojim vrijednostima temelji svoja uvjerenja
+•	Uspješno i brzo uči iz iskustva
+•	Posjeduje moć samo korekcije
+•	Ima razvijenu emocionalnu i socijalnu inteligenciju
+•	Ima razvijen osjećaj za osobnu odgovornost
+•	Zna doći do kreativnih i domišljatih rješenja
+•	Vlada promjenama I fleksibilan je
+•	Vlada sposobnosti odlučivanja
+
+        **ONI
+-kako radim s drugima-
+drugi dio: sastoji se od četiri modula**
+1.	Pristup usvajanju znanja
+2.	Grupni rad
+3.	Individualni rad
+4.	Što sve može poći po zlu?
+
+**IZRAVNE KORISTI/TEME DRUGOG DIJELA**
+•	Su dosljedni, autentični i iskreni	•	Vlada osnovama coachinga
+•	Vlada osnovama NLP-a (neurolingvističkog programiranja)
+•	Razumije pedagoške i psihološke pristupe odgoju i obrazovanju
+•	Razumije princip iskustvenog učenja
+•	Razumije stilove učenja i strategije pamćenja
+•	Vlada svim stilovima komunikacije (verbalnim, neverbalnim i paraverbalnim)
+•	Razumije, motivira i izvlači najbolje iz različitosti polaznika
+•	Uspješno stvara  odnos (rapport) s grupom i pojedincem
+•	Uspješno prati dinamiku grupe i održava razinu pažnje   
+
+       **PUT DO IZVRSNOSTI
+-kako vladam svojim resursima-
+treći dio: sastoji se od tri modula**
+1.  Strategija izrade treninga
+2.  Načini izvedbe treninga
+3.  Kako učiniti trening uspješnim?
+
+**IZRAVNE KORISTI/TEME TREĆEG DIJELA**
+•	Zna razriješiti konfliktne situacije I raditi s problematičnim polaznicima	•	Zna stukturirati trening od ideje do izvedbe
+•	Zna izmjeriti i koristiti rezultate održane edukacije
+•	Uspješno prezentira i koristi prostor
+•	Koristi interaktivne prezentacijske vještine
+•	Razgovjetno i tečno govori pred publikom
+•	Uspješno prima, daje i uči iz povratne informacije
+•	Vlada utjecajnom (neverbalnom) komunikacijom
+•	Zna motivirati polaznike
+•	Pokazuje karakeristike predvodnika (leadera)
+•	Je samopouzdan i predvodi primjerom		
+
+**OPCIONALNO I BESPLATNO**
+Voditelj edukacije/coach prisutan na stvarnom treningu koji polaznik odrađuje + povratne informacije
+
+**OPCIONALNO**
+Individualni coaching svakog polaznika
+
+
+**Metode rada**
+Rad u parovima i grupama
+Individualan pristup
+Minimalno 50%praktičnog dijela, baza iskustvenog učenja
+Vježbe na stvarnim primjerima tzv. studije iz prakse
+diskusije, igre, povratna informacija
+
+
+**TKO JE TRENER?**
+„Ako  ne znaš objasniti na jednostavan način, ne razumiješ temu dovoljno dobro.“
+Einstein
+
+Prenošenje znanja je umjetnost. Nemojte mi vjerovati na riječ nego provjerite odmah.  
+Sjetite se teme koja vam je jako draga i koja vas inspirira. Jeste?  Dobro. Zamislite da čitate članak ili knjigu na tu temu kako biste naučili nešto više jednostavno zato što vas zanima. Uživate, tema vas ponese, brzo čitate, zar ne? Cilj je zadovoljstvo i zadovoljavanje znatiželje. 
+
+Zamislite sada da čitate taj isti članak s ciljem prenošenja informacija iz teksta nekomedrugome. Po mogućnosti nekome kome treba još malo predznanja da bi shvatio o čemu pričate. Način na koji ćete čitati taj tekst i način na koji ćete mu pristupati dok vam se budu u mislima rojile ideje i metafore:  aha ovo je važno, a ovo bi mogao predstaviti  kroz aktivnost u paru, i kako da mu ovo ne kažem direktno već da sam dođe do rješenja? 
+
+Uspjeh je samo 20% talenta. Ostao je rad i vježba.
+
+Ako se sada smješkate i kimate glavom, bili ste u ovakvoj pedagoškoj situaciji i razumijete dosjetljivost prenošenja znanja. I znate da je uspjeh samo 20% talenta. Ostao je rad i vježba.
+Trener je uloga koja nam je poznata iz sportskog svijeta. I već imamo poprilično dobru sliku o tome što je to što jedan sportski trener radi. Bilo da se radi o timskom sportu ili individualnom, trener je taj koji smišlja i prilagođava pobjedničku strategiju i  vodi igrače od početka do pobjede. Trener je taj koji korak po korak uvodi nove elemente, uvježbava, provjerava naučeno, usklađuje, pomaže, pokazuje, coacha, sugerira, motivira, vodi primjerom i u konačnici omogućava igraču odnijeti pobjedu. Stvara priliku da igrač postane trener.
+Trener vještina i osobnog razvoja radi upravo to samo što je pobjeda koju on omogućava ona na poslovnom ili osobnom planu. Jer svi smo mi igrači neke svoje utakmice. Bilo da se radi o prodajnim vještinama, koristima određenog proizvoda,  rada na samopouzdanju, pronalaženju partnera, tečaja šivanja ili kuhanja...princip je jednak.
+
+„ Strategija zahtijeva razmišljanje, taktika zahtijeva promatranje.“  A uspjeh djelovanje i ustrajnost.
+ Max Euwe
+
+Trener u isto vrijeme ima na umu  generalnu svrhu, odnosno što se zapravo želi postići cjelokupnim treningom,  i  kratkoročne ciljeve, odnosno kako razlomiti veliki zalogaj na manje, lakše probavljive komadiće. U isto vrijeme ima u vidu želje individualca i potrebe grupe koju oni zajedno tvore. Sam usklađuje kontekst i sadržaj treninga koji daje. To može zato što je dobro utreniran. I on je nekad bio polaznik.
+Trener zna da je cjelina  puno više od zbroja njezinih djelova.
+Trener vještina i osobnog razvoja  zna se nositi sa svoja dva velika i oprečna dva zadatka. Ispred sebe ima grupu ljudi. Po pitanju njihovog iskustva i pozadine oni su potpuno različiti, svaki od njih nosi za sobom svoju priču i svoja vlastita pitanja na koja želi odgovor. Dakle trener ima zadaću davati različita učenja. S druge strane,  ideja je da  grupu ljudi nauči jednu  određenu vještinu. Trener ima zadaću davati i jednu unificiranu lekciju koja je prilagođena načinima učenja i stupnjevima vještine polaznika. 
+
+Trenerstvo je vrlo slično žongliranju.
+Trener zna kako stvoriti homogenu  i motiviranu grupu, polaznike u kojima je probuđena prirodna znatiželja i koji postaju dugoročno izvrsni u vlastitoj izvedbi, koji su se sposobni samostalno korigirati i koji su sposobni samostalno učiti iz situacija u kojima se nađu. Zna kako održavati individualnost i smisao za zajednosšvo u isto vrijeme. Dobar trener se ne boji pokrenuti sinergiju grupe i ne dopušta da mu vlastiti ego stoji na putu.
+Trener je zapravo moderni profesor.U to su ga pretvorile potrebe vremena, tržišta i polaznika. To je zvanje vrlo  slično žongliranju. Vrhunski trener uvijek zna gdje mu je koja loptica i koji mu je sljedeći korak. Zna isto tako da se loptice trebaju ujednačeno kretati po zraku i ako nije tako, nešto treba drugačije. Spreman je tražiti pomoć i raditi na sebi. Svaki trener je prvo istrenirao sebe pa tek onda  druge.
+
+
 
 [Škola Trenera](http://www.skolatrenera.com)
 
@@ -45,7 +193,7 @@ This is an 8 day training held in the coastal **Croatian town Vrsar**, filled wi
 Outward BeaTS specifically focuses on deepening the understanding of **facilitation, coaching, feedback** and **experiential learning techniques**, improving in that way the needed professional competences. It will also point out different learning styles as well as different leading styles which can help ease the process of **knowledge transfer** and group dynamics. Outward BeaTS provides a space for practice and result measurement.
  
 
-[više informacija](http://www.outwardbound.hr/en/courses/trainers-skills-trainings/outward-beats)
+[više informacija](http://www.outwardboundcroatia.com/en/courses/for-trainers/)
  
 
 
@@ -63,7 +211,7 @@ This is an 8 day training held in the coastal **Croatian town Vrsar**, filled wi
 The main difference from its predecessor, Outward BeaTS which offers Basic Trainer Skills, is that this one gives you the opportunity to dive in further into the topic of Trainership and while playing with what you already know on one hand, expand old and master new skills on the other. Here we are moving towards not only understanding **leadership**, but breathing and being a leader. You will not only know **feedback**, you will use for rapid self improvement. You will not only know **coaching**, you will use it for swift participant transformation. You will engage in serious **decision making processes** and learn about **responsibility, organization** and **management**. Your **communication and presentation skills** will also excel.
 
 
-Više informacija
+[više informacija](http://www.outwardboundcroatia.com/en/courses/for-trainers/)
 
 ## YOU TALKING TO ME?
 
