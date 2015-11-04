@@ -22,16 +22,20 @@ u formalnom ili neformalnom okviru,
 napokon prođete cjelovitu, temeljitu i navjažnije motivirajuću obuku.
 
 **ŠTO JE ŠKOLA TRENERA?**
+
 Škola trenera je cjelovita edukacija koja omogućava usvajanje pozadine, vještina i tajni vođenja različitih vrsta prenošenja znanja: treninga, radionica, seminara, predavanja itd.
 Škola trenera želi stvoriti kvalitetne i motivirane stručnjake u području prenošenja znanja i vještina. Cilj joj je osnažiti i istrenirati Trenera dok ne postane najbolja verzija sebe. Želja joj je da kroz nju Trener postane i leader te da ona bude posljednja edukacija te vrste koju će Trener pohađati. Zato što će mu otkriti metode neprekidnog razvoja i usavršavanja. Sastoji se od tri dijela, svaki od kojih obuhvaća nezaobilazne teme u treniranju jednog Trenera:
 
 **1. dio: JA**
+
 koliko dobro se poznajem, kako koristim svoje jake i slabe strane i kakav trener želim biti. Odgovara na pitanje tko i što?
 
 **2. dio: ONI**
+
 koliko dobro radim s individuama, s grupom. Odgovara na pitanje kako i zašto?
 
 **3.dio: PUT DO IZVRSNOSTI**
+
 kako upravljam svojim resursima i strategijom napredovanja. Odgovara na pitanje što ako?
 Cjelovita u smislu da obuhvaća sve ono što je potrebno da jedan polaznik ode s vašeg treninga s teorijom, praksom i motivacijom. Željan ulagati dalje u sebe i druge. Cilj je da učenik postane učiteljem. Dolazi u in house i open call obliku.
 
@@ -58,6 +62,7 @@ Ne bi li bilo olakšavajuće saznati da sve možete pronaći na jednom mjestu. K
 
 
 **ZAŠTO UPISATI ŠKOLU TRENERA?**
+
 
 •	**Dugoročno ćete smanjiti svoje troškove**: ulaganjem u sebe zadržavate i poboljšavate dosad akumulirano znanje i resurse,  generirate vlastitu specijalizaciju, podižete kvalitetu izvedbe i usluge.
 
@@ -192,6 +197,7 @@ Dakle kompletna Škola trenera je intenzivno iskustvo koje traje 8 mjeseci. Dovo
 •	Je samopouzdan i predvodi primjerom		
 
 **OPCIONALNO I BESPLATNO**
+
 Glavni trener/*coach* prisutan na stvarnom treningu koji polaznik odrađuje + povratne informacije
 
 **OPCIONALNO**
@@ -199,6 +205,7 @@ Individualni *coaching* svakog polaznika
 
 
 **Metode rada**
+
 Rad u parovima i grupama
 Individualan pristup
 Minimalno 50%praktičnog dijela, baza iskustvenog učenja
