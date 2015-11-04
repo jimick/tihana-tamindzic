@@ -36,12 +36,19 @@ kako upravljam svojim resursima i strategijom napredovanja. Odgovara na pitanje 
 Cjelovita u smislu da obuhvaća sve ono što je potrebno da jedan polaznik ode s vašeg treninga s teorijom, praksom i motivacijom. Željan ulagati dalje u sebe i druge. Cilj je da učenik postane učiteljem. Dolazi u in house i open call obliku.
 
 **KOME JE NAMJENJENA**
+
 •	Trenerima koji žele biti izvrsni u svom poslu
+
 •	Voditeljima koji žele vrhunsku uigranost i motivaciju svoga tima
+
 •	Organizatorima koji žele vidljive rezultate
+
 •	Managerima koji žele učinkovito iskoristiti svoje vrijeme
+
 •	Nastavnicima koji žele povesti primjerom
+
 •	Edukatorima koji žele dovesti svoju stručnost do zavidne razine
+
 •	Vama koji imate prirodan talent rada s ljudima i želite otvoriti svoj posao
 
 Ako  na postojećem radnom mjestu vodite timove ljudi, održavate treninge, educirate potencijalne klijente ili zaposlenike, uvježbavate polaznike, držite radionice ili nastavne jedinice, facilitirate tematska okupljanja, sigurno to radite intuitivno jako dobro jer ste prirodno nadareni za takvu vrstu posla. Obzirom da ste i sposobni, uspješno ste do sad održavali potrebna znanja, putem pohađanja seminara, čitanja knjiga i članaka ili čak razmjenjivanja informacija s kolegama. 
@@ -154,7 +161,7 @@ diskusije, igre, povratna informacija
 
 
 **TKO JE TRENER?**
-*„Ako  ne znaš objasniti na jednostavan način, ne razumiješ temu dovoljno dobro.“*
+***„Ako  ne znaš objasniti na jednostavan način, ne razumiješ temu dovoljno dobro.“***
 *Einstein*
 
 Prenošenje znanja je umjetnost. Nemojte mi vjerovati na riječ nego provjerite odmah.  
@@ -183,6 +190,18 @@ Trener je zapravo moderni profesor.U to su ga pretvorile potrebe vremena, trži�
 
 [Škola Trenera](http://www.skolatrenera.com)
 
+
+##COACHING PRAKSA##
+
+**Cilj:**  Postoje oni koji pričaju o tome i oni koji to rade. Mi smo ovi drugi. Vježbom svega onoga što znamo, stvaramo iskustva, koja opet stvaraju nova znanja a što je najvažnije i otvaraju nove horizonte. Ono što čini razlikuje Hrvatsku udrugu za *coaching*-a od ostalih *coaching* udruga jest aktivni *coaching* poligon za igru.
+
+**Učestalost:**  jednom mjesečno u trajanju od 3 sata
+
+**Za koga je namijenjena:** Za članove Hrvatske udruge za *coaching* koji se aktivno bave *coachingom*
+
+**Kako to izgleda u praksi:**  Formiraju se trijade s ulogama: *coach*, *coachee* i promatrač. Određuje se trajanje *coaching* susreta nakon čega promatrač daje povratnu informaciju onoga što je primijetio. Promjena uloga.
+
+[Coaching praksa](http://www.hr-coaching.hr/aktivnosti/coaching-praksa/)
 
 ## OUTWARD BeaTS: Basic Trainer Skills
 
