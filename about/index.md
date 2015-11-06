@@ -14,26 +14,38 @@ vjeruje da ne postoji ništa što nas sprečava da iskoristimo svoj puni potenci
 
  ***COACH***
  
- Oxford Coaching and Mentoring school (OCM)
- *coaching* edukacije; Olde Vechte, Nizozemska
- član ICF-a, EMCC-a i HUC-a
- Član Predsjedništva Hrvatske udruge za coaching (HUC)
+•	Oxford Coaching and Mentoring school [OCM](http://www.theocm.co.uk/)
+ 
+• *Coaching* edukacije; [Olde Vechte, Nizozemska] (http://www.synergytrainingsnl.com/)
+ 
+• Član [ICF-a] (http://www.coachfederation.org/), [EMCC-a] (http://www.emccouncil.org/) i HUC-a
+
+• Član Predsjedništva Hrvatske udruge za coaching [HUC] (http://www.hr-coaching.hr/) 
  
  
  **TRENER**
  
- trenerske edukacije; Olde Vecthe, Nizozemska
- trenerske edukacije; Outward Bound, Hrvatska
- profesor
- NLP Master, Hrvatska
+• Trenerske edukacije; [Olde Vechte, Nizozemska] (http://www.synergytrainingsnl.com/)
+
+• Trenerske edukacije; [Outward Bound, Hrvatska] (http://www.outwardboundcroatia.com/)
+
+• [Profesor] (http://www.ffzg.unizg.hr/)
+
+• [NLP Practitioner] (http://kastrapeli.hr/)
+
+• [NLP Master] (http://www.komunikacija.net/)
  
  **PODRUČJE RADA**
  
- razvoj individualnog i timskog potencijala u korporativnom svijetu
- individualni *coachinzi*
- Prodajni treninzi
- *Leadership* treninzi
- [Škola trenera](http://www.elevate.hr/skolatrenera): edukacija onih koji prenose znanje grupama ljudi: edukatori, voditelji, treneri.
+• razvoj individualnog i timskog potencijala u korporativnom svijetu
+
+• individualni *coachinzi*
+
+• Prodajni treninzi (bogato iskustvo rada s prodajnom mrežom Allianza i Bayera)
+
+• *Leadership* treninzi
+
+• [Škola trenera](http://www.elevate.hr/skolatrenera): edukacija onih koji prenose znanje grupama ljudi: edukatori, voditelji, treneri.
  
  
 
