@@ -9,6 +9,7 @@ class: "page-collapsable"
 
 
 vjeruje da ne postoji ništa što nas sprečava da iskoristimo svoj puni potencijal i budemo ono što želimo biti osim nas samih i zato prvo sebi svakodnevno postavlja nove izazove, a tek onda drugima. Trenutno radi na istrčavanju maratona. Vesela i radoznala, objašnjava da treninzima i _coachingom_ uživa stvarati podržavajuće okruženje i dragocjenu priliku kako bi svatko mogao odnijeti svoju pobjedu. Biti svoje remek-djelo. Tvrdi da kao trener i _coach_, nema ljepšeg prizora do osnaženog i ozarenog klijenta. Uvjerena je da u zdravom tijelu živi zdrav duh i zato će uvijek otići s vama trčati, planinariti, nabacivati se s loptom ili jednostavno smijati se do suza u parku.
+
 Ah da, udala se i sad je Dragičević :)
 
 ![Tihana Tamindžić](/images/2.jpg)
