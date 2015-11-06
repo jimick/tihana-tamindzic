@@ -12,14 +12,30 @@ vjeruje da ne postoji ništa što nas sprečava da iskoristimo svoj puni potenci
 
 ![Tihana Tamindžić](/images/2.jpg)
 
-Kao **profesorica** engleskog i francuskog jezika radom u struci pretočila je teorijska znanja metodike, didaktike i pedagogije u praksu, odvojila je za edukaciju _coachinga_ i onu **transformacijskog trenera** par godina u Nizozemskoj, a kasnije nastavila u Hrvatskoj s Patom Groveom. Sudjelovala i održavala brojne internacionalne treninge osobnog razvoja i _coachinga_, zajedno s kolegama osnovala je Syncro i udrugu za mlade Synergy Croatia, instruktorica je Hrvatske škole Outward Bound u mirovanju i **coach** Hrvatske udruge za _coaching_.
-
-Vjeruje da svatko od nas u sebi već nosi svo znanje potrebno da (re)kreira što god želi. Vidi _coaching_ kao proces koji pomaže: izvući na vidjelo to znanje, sagledati situaciju iz dosad previđene perspektive i preuzeti kontrolu nad kistom vašeg remek-djela u svoje ruke. _Coach_ postavlja pitanje, klijent pronalazi odgovor.
-
-Usavršila se u području primjenjene psihologije i postala **NLP majstor**. Poseban interes pokazuje u implementiranju te discipline modeliranja izvrsnosti u brzi poslovni svijet lidera i _managera_, što je i radila gotovo tri godine u Allianzu. Primjenjena verzija NLP-a u prodaji, organizaciji i rukovođenju pokazala se vrlo pragmatičnom i uspješnom jer daje odgovor na pitanje koje muči svaku poduzetnu osobu: koja je razlika koja čini razliku uspješnih i zadovoljnih ljudi?
-
-Specijalizirana je za **edukacijski management**. Drugim riječima, posebnu pažnju obraća na sistematiziran, dosljedan i nadahnjujući razvoj ljudskog potencijala. Posebno je stručna u oblikovanju i obučavanju onih koji rade s grupama ljudima, kao što su: edukatori, voditelji, treneri.
-
+ ***COACH***
+ 
+ Oxford Coaching and Mentoring school (OCM)
+ *coaching* edukacije; Olde Vechte, Nizozemska
+ član ICF-a, EMCC-a i HUC-a
+ Član Predsjedništva Hrvatske udruge za coaching (HUC)
+ 
+ 
+ **TRENER**
+ 
+ trenerske edukacije; Olde Vecthe, Nizozemska
+ trenerske edukacije; Outward Bound, Hrvatska
+ profesor
+ NLP Master, Hrvatska
+ 
+ **PODRUČJE RADA**
+ 
+ razvoj individualnog i timskog potencijala u korporativnom svijetu
+ individualni *coachinzi*
+ Prodajni treninzi
+ *Leadership* treninzi
+ [Škola trenera](http://www.elevate.hr/skolatrenera): edukacija onih koji prenose znanje grupama ljudi: edukatori, voditelji, treneri.
+ 
+ 
 
 **Usudi se biti**
 
