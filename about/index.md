@@ -84,7 +84,7 @@ Rado se sjećam dana kada sam aktivno djelovala kao instruktorica iskustvenog u�
 
 > Ako misliš da su pustolovine opasne, isprobaj rutinu; ona je smrtonosna. <small>Paulo Coelho</small>
 
-Moć neurolingvističkog programiranja ostavlja vrlo jak utisak na mene zbog svoje sposobnosti da matematičkom točnoću objasni osobni razvoj, otkrije kamen spoticanja i instalira rješenje. NLP je definitivno snažan lajtmotiv moga rada. Posebno me oplemenila moć jezika koju nudi meta i Milton model. Obzirom na moju lingvističku pozadinu, dala sam si truda i otkrila kako nije svejedno na koji način kažemo ono što mislimo i kako to dalje ima domino efekt na naše emocionalno i fizičko stanje a time i na našu budućnost. Trojedin pristup vrlo sličan onomu ontološkom. Praktičarskim vještinama me učila strpljiva Gordana Kastrapeli a uz pomoć Saše Tenodija sam postala Majstor.
+Moć neurolingvističkog programiranja ostavlja vrlo jak utisak na mene zbog svoje sposobnosti da matematičkom točnoću objasni osobni razvoj, otkrije kamen spoticanja i instalira rješenje. **NLP** je definitivno snažan lajtmotiv moga rada. Posebno me oplemenila moć jezika koju nudi meta i Milton model. Obzirom na moju lingvističku pozadinu, dala sam si truda i otkrila kako nije svejedno na koji način kažemo ono što mislimo i kako to dalje ima domino efekt na naše emocionalno i fizičko stanje a time i na našu budućnost. Trojedin pristup vrlo sličan onomu ontološkom. Praktičarskim vještinama me učila strpljiva Gordana Kastrapeli a uz pomoć Saše Tenodija sam postala Majstor.
 
 > Što govoriš, to postojiš. <small>dječja mudrost</small>
 
@@ -92,11 +92,11 @@ Zadovoljstvo mi je bilo baviti se prevođenjem knjige Saše Tenodija ***Be Your 
 
 > Ako radiš ono što si oduvijek radio, dobit ćeš ono što si uvijek dobivao. <small>Tony Robbins</small>
 
-Gotovo tri godine bila sam dio **Allianza** kao **interni trener** prodajnih, komunikacijskih i prezentacijskih vještina. Iskustvo prodaje, višeslojnog poslovnog svijeta i brzih kvalitetnih rješenja dao je novu dimenziju mome shvaćanju osobne transformacije.  Zajedno sa svojim polaznicima brusila sam do detalja moć neverbalne komunikacije, učinkovito upravljanje vremenom, djelotvornost preciznih i pravovremenih pitanja, dosljednost verbalnog izražavanja, umijeće predvodništva, vrijednost dinamičnih prezentacija i individualnu motivaciju, navike i ciljeve.
+Gotovo tri godine bila sam dio **Allianza** kao **Interni trener** prodajnih, komunikacijskih i prezentacijskih vještina. Iskustvo prodaje, višeslojnog poslovnog svijeta i brzih kvalitetnih rješenja dao je novu dimenziju mome shvaćanju osobne transformacije.  Zajedno sa svojim polaznicima brusila sam do detalja moć neverbalne komunikacije, učinkovito upravljanje vremenom, djelotvornost preciznih i pravovremenih pitanja, dosljednost verbalnog izražavanja, umijeće predvodništva, vrijednost dinamičnih prezentacija i individualnu motivaciju, navike i ciljeve.
 
 > Jednostavnost je ultimativna sofisticiranost. <small>Leonardo da Vinci</small>
 
-To je ono što sam naučila radeći u **Bayeru** kao **Regionalni ** *Sales Coach* **. Individualan pristup koji ne samo da je svaka od država Alpe Adrie zahtjevala, nego i indvidualni pristup s kojim sam pristupala svakom svom klijentu u terenskim i uredskim coachinzima, podsjetili su me da se osnove rada s ljudima mogu svesti u dvioje riječi: jednostavnost i pažnja.
+To je ono što sam naučila radeći u **Bayeru** kao **Regionalni Sales Coach**. Individualan pristup koji ne samo da je svaka od država Alpe Adrie zahtjevala, nego i indvidualni pristup s kojim sam pristupala svakom svom klijentu u terenskim i uredskim coachinzima, podsjetili su me da se osnove rada s ljudima mogu svesti u dvioje riječi: jednostavnost i pažnja.
 
 
 > Nemoj reći da nemas dovoljno vremena. Darovan ti jednak broj sati dnevno kao i Hellen Keller, Pasteuru, Michaelangelou, Majci Terezi, Leonardu da Vinciju, Thomasu Jeffersonu i Albertu Einsteinu. <small>H. Jackson Brown Jr.</small>
