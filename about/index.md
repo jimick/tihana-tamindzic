@@ -88,11 +88,16 @@ Moć neurolingvističkog programiranja ostavlja vrlo jak utisak na mene zbog svo
 
 > Što govoriš, to postojiš. <small>dječja mudrost</small>
 
-Zadovoljstvo mi je bilo baviti se prevođenjem knjige Saše Tenodija Be Your Better Self, koja kroz primjenjenu psihologiju, NLP metode i životno iskustvo autora daje zaista praktičan i motivirajući priručnik osobnom unapređenju u današnjem svijetu.
+Zadovoljstvo mi je bilo baviti se prevođenjem knjige Saše Tenodija ***Be Your Better Self***, koja kroz primjenjenu psihologiju, NLP metode i životno iskustvo autora daje zaista praktičan i motivirajući priručnik osobnom unapređenju u današnjem svijetu.
 
 > Ako radiš ono što si oduvijek radio, dobit ćeš ono što si uvijek dobivao. <small>Tony Robbins</small>
 
-Gotovo tri godine bila sam dio Allianza kao interni trener prodajnih, komunikacijskih i prezentacijskih vještina. Iskustvo prodaje, višeslojnog poslovnog svijeta i brzih kvalitetnih rješenja dao je novu dimenziju mome shvaćanju osobne transformacije.  Zajedno sa svojim polaznicima brusila sam do detalja moć neverbalne komunikacije, učinkovito upravljanje vremenom, djelotvornost preciznih i pravovremenih pitanja, dosljednost verbalnog izražavanja, umijeće predvodništva, vrijednost dinamičnih prezentacija i individualnu motivaciju, navike i ciljeve.
+Gotovo tri godine bila sam dio **Allianza** kao **interni trener** prodajnih, komunikacijskih i prezentacijskih vještina. Iskustvo prodaje, višeslojnog poslovnog svijeta i brzih kvalitetnih rješenja dao je novu dimenziju mome shvaćanju osobne transformacije.  Zajedno sa svojim polaznicima brusila sam do detalja moć neverbalne komunikacije, učinkovito upravljanje vremenom, djelotvornost preciznih i pravovremenih pitanja, dosljednost verbalnog izražavanja, umijeće predvodništva, vrijednost dinamičnih prezentacija i individualnu motivaciju, navike i ciljeve.
+
+> Jednostavnost je ultimativna sofisticiranost. <small>Leonardo da Vinci</small>
+
+To je ono što sam naučila radeći u **Bayeru** kao **Regionalni ** *Sales Coach* **. Individualan pristup koji ne samo da je svaka od država Alpe Adrie zahtjevala, nego i indvidualni pristup s kojim sam pristupala svakom svom klijentu u terenskim i uredskim coachinzima, podsjetili su me da se osnove rada s ljudima mogu svesti u dvioje riječi: jednostavnost i pažnja.
+
 
 > Nemoj reći da nemas dovoljno vremena. Darovan ti jednak broj sati dnevno kao i Hellen Keller, Pasteuru, Michaelangelou, Majci Terezi, Leonardu da Vinciju, Thomasu Jeffersonu i Albertu Einsteinu. <small>H. Jackson Brown Jr.</small>
 
